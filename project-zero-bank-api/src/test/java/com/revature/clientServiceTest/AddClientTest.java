@@ -94,10 +94,29 @@ public class AddClientTest {
 	
 	// birthdate lessthan 8 characters but names valid
 	@Test
-	public void testAddClientBirthdateIsNotEightCharactersButNamesValidNegative() throws SQLException, InvalidParameterException {
+	public void testAddClientBirthdateIsLessthanEightCharactersButNamesValidNegative() throws SQLException, InvalidParameterException {
+			
+		Client client = new Client("Jane", "Doe", "12345");
+		Assertions.assertThrows(InvalidParameterException.class, () -> {
+			mockClientService.addClient(client);
+		});
+	}
 	
+	// birthdate morethan 8 characters but names valid
+	@Test
+	public void testAddClientBirthdateMorethanEightCharactersButNamesValidNegative() throws SQLException, InvalidParameterException {
+			
+		Client client = new Client("Jane", "Doe", "123456789");
+		Assertions.assertThrows(InvalidParameterException.class, () -> {
+			mockClientService.addClient(client);
+		});
+	}
+	
+	// birthdate contain characters
+	@Test
+	public void testAddClientBirthdateContainCharactersButNamesValidNegative() throws SQLException {
 		
-		Client client = new Client("Jane", "Doe", "0516200");
+		Client client = new Client("Jane", "Doe", "abcdefgh");
 		Assertions.assertThrows(InvalidParameterException.class, () -> {
 			mockClientService.addClient(client);
 		});

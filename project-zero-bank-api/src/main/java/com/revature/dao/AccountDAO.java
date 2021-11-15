@@ -18,6 +18,7 @@ public class AccountDAO {
 
 	private Logger logger = LoggerFactory.getLogger(AccountDAO.class);
 	
+	public 
 	
 	/* *********
 	 * -- GET --
@@ -59,18 +60,20 @@ public class AccountDAO {
 	}
 	
 	// getAccountByAccountId
-	public Account getAccountByAccountId(int accountId) throws SQLException {
+	public Account getAccountByAccountId(int clientId, int accountId) throws SQLException {
 		
 		logger.info("AccountDAO.getAccountByAccountId() invoked.");
 		
 		try (Connection con = JDBCUtility.getConnection()) {
 			
 			String sql = "SELECT * FROM accounts "
-					+ " WHERE account_id = ?;";
+					+ " WHERE client_id = ?"
+					+ " AND account_id = ?;";
 			
 			PreparedStatement pstmt = con.prepareStatement(sql);
 			
-			pstmt.setInt(1, accountId);
+			pstmt.setInt(1, clientId);
+			pstmt.setInt(2, accountId);
 			
 			ResultSet rs = pstmt.executeQuery();
 			
@@ -134,15 +137,16 @@ public class AccountDAO {
 		
 		try (Connection con = JDBCUtility.getConnection()) {
 			
-			String sql = "UPDATE accounts SET "
-					+ "	amount = ?"
-					+ " WHERE "
-					+ "	account_id = ?;";
+			String sql = "UPDATE accounts"
+					+ " SET amount = ?"
+					+ " WHERE client_id = ?"
+					+ " AND account_id = ?;";
 			
 			PreparedStatement pstmt = con.prepareStatement(sql);
 			
 			pstmt.setDouble(1, account.getAmount());
-			pstmt.setInt(2, account.getAccountId());
+			pstmt.setInt(2, account.getClientId());
+			pstmt.setInt(3, account.getAccountId());
 			
 			int numberOfAccountUpdated = pstmt.executeUpdate();
 			

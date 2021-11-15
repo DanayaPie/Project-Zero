@@ -45,8 +45,10 @@ VALUES
 UPDATE accounts
 SET
 	amount = 500
-WHERE 
-	account_id = 4;
+WHERE
+	client_id = 2
+AND	
+	account_id = 2;
 
 -- ========== QUERYING
 	
@@ -64,10 +66,10 @@ SELECT *
 FROM accounts
 WHERE client_id = 2;
 
--- Querying sepcific columns
-SELECT account_no, accoount_type, amount
-FROM grades
-WHERE clien_id = 2;
+-- Querying by client id and account id
+SELECT *
+FROM accounts
+WHERE client_id = 2 AND account_id = 2;
 
 -- === DELETE 
 DELETE FROM accounts 

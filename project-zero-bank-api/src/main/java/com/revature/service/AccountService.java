@@ -32,6 +32,11 @@ public class AccountService {
 		this.clientDao = new ClientDAO();
 	}
 	
+	// constructor for mock AccountDAO object
+	public AccountService(AccountDAO accountDao) {
+		this.accountDao = accountDao;
+	}
+	
 	/* *********
 	 * -- GET --
 	 * *********
@@ -50,13 +55,14 @@ public class AccountService {
 	}
 		
 	// getAccountByAccountId
-	public Account getAccountByAccountId(String accountId) throws SQLException {
+	public Account getAccountByAccountId(String clientId, String accountId) throws SQLException {
 		
 		logger.info("AccountService.getAccountByAccountId() invoked.");
 		
+		int clId = Integer.getInteger(clientId);
 		int alId = Integer.getInteger(accountId);
 		
-		Account account = this.accountDao.getAccountByAccountId(alId);
+		Account account = this.accountDao.getAccountByAccountId(clId, alId);
 		
 		return account; 
 	}
@@ -134,14 +140,15 @@ public class AccountService {
 	 * *********
 	 */
 	// updateAmount
-	public Account updateAmount(String accountId, Context ctx) throws SQLException, InvalidParameterException, OverdraftException {
+	public Account updateAmount(String clientId, String accountId, String deposit, String withdraw) throws SQLException, InvalidParameterException, OverdraftException {
 		
 		logger.info("AccountService.updateAmount() invoked().");
 		
+		int clId = Integer.parseInt(clientId);
 		int acId = Integer.parseInt(accountId);
 		
 		// get info on the account
-		Account account = this.accountDao.getAccountByAccountId(acId);
+		Account account = this.accountDao.getAccountByAccountId(clId, acId);
 		
 		/*
 		 *  Possibilites
@@ -152,7 +159,7 @@ public class AccountService {
 		 */
 		
 		// 1.
-		if (ctx.queryParam("deposit") != null && ctx.queryParam("withdraw") != null) {
+		if (deposit != null && withdraw != null) {
 			
 			logger.info("deposit and withdraw are checked");
 			
@@ -160,24 +167,25 @@ public class AccountService {
 		}
 		
 		// 2.
-		if (ctx.queryParam("deposit") != null) {
+		if (deposit != null) {
 			
 			logger.info("deposit is checked");
 			
-			String amount = ctx.queryParam("deposit");
-			double depositAmount = Double.parseDouble(amount);
+			double depositAmount = Double.parseDouble(deposit);
 			
 			double totalAmount = account.getAmount() + depositAmount;
+			
+			logger.info("totalAmount = account.getAmount() + depositAmount: {}{}{}", totalAmount, account.getAmount(), depositAmount);
+			
 			account.setAmount(totalAmount);
 		}
 		
 		// 3.
-		if (ctx.queryParam("withdraw") != null) {
+		if (withdraw != null) {
 			
 			logger.info("withdraw is checked");
-			
-			String amount = ctx.queryParam("withdraw");
-			double withdrawAmount = Double.parseDouble(amount);
+
+			double withdrawAmount = Double.parseDouble(withdraw);
 			
 			if (withdrawAmount > account.getAmount()) {
 				throw new OverdraftException("Unable to withdraw " + withdrawAmount + " due to not enough funds in the account.");
@@ -188,12 +196,14 @@ public class AccountService {
 		}
 		
 		// 4.
-		if (ctx.queryParam("deposit") == null && ctx.queryParam("withdraw") == null) {
+		if (deposit == null && withdraw == null) {
 			
 			logger.info("neither deposit nor withdaw was checked");
 			
 			throw new InvalidParameterException("Neither deposit nor withdraw was checked. Please, choose to make deposit or withdraw.");
 		}
+		
+		accountDao.updateAmount(account);
 		
 		return account; 
 	}
@@ -205,13 +215,14 @@ public class AccountService {
 	 */
 	
 	// deleteAccountByAccountId
-	public void deleteAccountByAccountId(String accountId) throws SQLException {
+	public void deleteAccountByAccountId(String clientId, String accountId) throws SQLException {
 		
 		logger.info("AccountService.deleteAccountByAccountId() invoked.");
 		
+		int clId = Integer.parseInt(clientId);
 		int alId = Integer.parseInt(accountId);
 		
-		this.accountDao.getAccountByAccountId(alId);
+		this.accountDao.getAccountByAccountId(clId, alId);
 		
 		this.accountDao.deleteAccountByAccountId(alId);
 	}
@@ -234,34 +245,25 @@ public class AccountService {
 			int alId = Integer.parseInt(accountId);
 
 			Client client = this.clientDao.getClientByClientId(clId);
-			Account account = this.accountDao.getAccountByAccountId(alId);
+			Account account = this.accountDao.getAccountByAccountId(clId, alId);
 			
 			/*
 			 * Possibilities
-			 *   1. client does not exist
-			 *   2. client exist, but account does not exist
-			 *   3. client exist and account exist
+			 *   1. client exist, but no account with the account ID
+			 *   2. client exist and account exist
 			 */
 			
 			// 1.
-			if (client == null) {
+			if (client != null && account == null) {
 				
-				logger.info("client is null");
+				logger.info("client exist, but no account with the account ID.");
 				
-				
-				throw new ClientNotFoundException("Client with ID of " + clientId + " was not found.");
+				throw new AccountNotFoundException("Client with ID of " + clientId + " does not have an account with ID of " + accountId + ".");
 			
 			// 2.
-			} else if (client != null && account == null) {
-				
-				logger.info("Client is not null but account is null");
-				
-				throw new AccountNotFoundException("Account with ID of " + accountId + " was not found.");
-			
-			// 3.
 			} else {
 				
-				logger.info("Both client and account are not null");
+				logger.info("client exist and account exist");
 								
 			}
 			

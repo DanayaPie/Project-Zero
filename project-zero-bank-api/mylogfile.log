@@ -10782,3 +10782,1413 @@ com.revature.exceptions.InvalidParameterException: Client and/or account ID prov
 				com.revature.service.ClientService - addClient() invoked
 14 Nov 2021 - 18:44:00.858 [qtp1434041222-12] INFO 
 				com.revature.service.ClientService - birthdate is not 8 characters 
+14 Nov 2021 - 21:44:12.781 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 21:44:12.783 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+14 Nov 2021 - 21:44:12.793 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 21:44:12.810 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 21:44:12.810 [main] INFO 
+				com.revature.service.ClientService - birthdate is not 8 characters 
+14 Nov 2021 - 21:44:12.817 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 21:44:12.823 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 21:44:12.823 [main] INFO 
+				com.revature.service.ClientService - birthdate is not 8 characters 
+14 Nov 2021 - 21:44:12.825 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 21:44:12.825 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+14 Nov 2021 - 21:44:12.827 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 21:44:12.827 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+14 Nov 2021 - 22:07:43.475 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 22:07:43.477 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+14 Nov 2021 - 22:07:43.484 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 22:07:43.485 [main] INFO 
+				com.revature.service.ClientService - birthdate is not 8 characters 
+14 Nov 2021 - 22:07:43.499 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 22:07:43.499 [main] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+14 Nov 2021 - 22:07:43.504 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 22:07:43.504 [main] INFO 
+				com.revature.service.ClientService - birthdate is not 8 characters 
+14 Nov 2021 - 22:07:43.506 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 22:07:43.506 [main] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+14 Nov 2021 - 22:07:43.507 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 22:07:43.507 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+14 Nov 2021 - 22:07:43.509 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 22:07:43.509 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+14 Nov 2021 - 22:07:55.376 [main] INFO 
+				io.javalin.Javalin - 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+14 Nov 2021 - 22:07:55.386 [main] INFO 
+				org.eclipse.jetty.util.log - Logging initialized @453ms to org.eclipse.jetty.util.log.Slf4jLog
+14 Nov 2021 - 22:07:55.387 [main] INFO 
+				io.javalin.Javalin - Starting Javalin ...
+14 Nov 2021 - 22:07:55.408 [main] INFO 
+				io.javalin.Javalin - You are running Javalin 4.1.1 (released October 10, 2021).
+14 Nov 2021 - 22:07:55.408 [main] INFO 
+				io.javalin.Javalin - No port specified, starting on port 8080. Call start(port) to change ports.
+14 Nov 2021 - 22:07:55.739 [main] INFO 
+				io.javalin.Javalin - Listening on http://localhost:8080/
+14 Nov 2021 - 22:07:55.739 [main] INFO 
+				io.javalin.Javalin - Javalin started in 352ms \o/
+14 Nov 2021 - 22:08:19.437 [qtp1434041222-18] INFO 
+				com.revature.app.BankApiApplication - POST request recieved to the /clients endpoiint.
+14 Nov 2021 - 22:08:19.437 [qtp1434041222-18] INFO 
+				c.r.controller.ClientController - ClientController.addClient() invoked.
+14 Nov 2021 - 22:08:19.615 [qtp1434041222-18] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 22:08:19.615 [qtp1434041222-18] INFO 
+				com.revature.service.ClientService - birthdate is not 8 characters 
+14 Nov 2021 - 22:08:42.310 [qtp1434041222-14] INFO 
+				com.revature.app.BankApiApplication - POST request recieved to the /clients endpoiint.
+14 Nov 2021 - 22:08:42.311 [qtp1434041222-14] INFO 
+				c.r.controller.ClientController - ClientController.addClient() invoked.
+14 Nov 2021 - 22:08:42.311 [qtp1434041222-14] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 22:08:42.311 [qtp1434041222-14] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+14 Nov 2021 - 22:08:48.315 [qtp1434041222-17] INFO 
+				com.revature.app.BankApiApplication - POST request recieved to the /clients endpoiint.
+14 Nov 2021 - 22:08:48.315 [qtp1434041222-17] INFO 
+				c.r.controller.ClientController - ClientController.addClient() invoked.
+14 Nov 2021 - 22:08:48.316 [qtp1434041222-17] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 22:08:48.316 [qtp1434041222-17] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+14 Nov 2021 - 22:10:14.652 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 22:10:14.654 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+14 Nov 2021 - 22:10:14.663 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 22:10:14.664 [main] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+14 Nov 2021 - 22:10:14.664 [main] INFO 
+				com.revature.service.ClientService - birthdate is not 8 characters 
+14 Nov 2021 - 22:10:14.679 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 22:10:14.679 [main] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+14 Nov 2021 - 22:10:14.685 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 22:10:14.685 [main] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+14 Nov 2021 - 22:10:14.685 [main] INFO 
+				com.revature.service.ClientService - birthdate is not 8 characters 
+14 Nov 2021 - 22:10:14.686 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 22:10:14.686 [main] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+14 Nov 2021 - 22:10:14.688 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 22:10:14.688 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+14 Nov 2021 - 22:10:14.690 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 22:10:14.690 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+14 Nov 2021 - 22:26:13.797 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 22:26:13.799 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+14 Nov 2021 - 22:26:13.807 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 22:26:13.807 [main] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+14 Nov 2021 - 22:26:13.807 [main] INFO 
+				com.revature.service.ClientService - birthdate is not 8 characters 
+14 Nov 2021 - 22:26:13.823 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 22:26:13.823 [main] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+14 Nov 2021 - 22:26:13.828 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 22:26:13.828 [main] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+14 Nov 2021 - 22:26:13.828 [main] INFO 
+				com.revature.service.ClientService - birthdate is not 8 characters 
+14 Nov 2021 - 22:26:13.830 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 22:26:13.830 [main] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+14 Nov 2021 - 22:26:13.831 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 22:26:13.831 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+14 Nov 2021 - 22:26:13.833 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 22:26:13.833 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+14 Nov 2021 - 22:26:30.476 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 22:26:30.478 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+14 Nov 2021 - 22:26:30.485 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 22:26:30.485 [main] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+14 Nov 2021 - 22:26:30.485 [main] INFO 
+				com.revature.service.ClientService - birthdate is not 8 characters 
+14 Nov 2021 - 22:26:30.500 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 22:26:30.500 [main] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+14 Nov 2021 - 22:26:30.506 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 22:26:30.506 [main] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+14 Nov 2021 - 22:26:30.506 [main] INFO 
+				com.revature.service.ClientService - birthdate is not 8 characters 
+14 Nov 2021 - 22:26:30.507 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 22:26:30.508 [main] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+14 Nov 2021 - 22:26:30.509 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 22:26:30.509 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+14 Nov 2021 - 22:26:30.510 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 22:26:30.511 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+14 Nov 2021 - 22:26:41.876 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 22:26:41.878 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+14 Nov 2021 - 22:26:41.886 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 22:26:41.886 [main] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+14 Nov 2021 - 22:26:41.886 [main] INFO 
+				com.revature.service.ClientService - birthdate is not 8 characters 
+14 Nov 2021 - 22:26:41.902 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 22:26:41.902 [main] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+14 Nov 2021 - 22:26:41.907 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 22:26:41.907 [main] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+14 Nov 2021 - 22:26:41.907 [main] INFO 
+				com.revature.service.ClientService - birthdate is not 8 characters 
+14 Nov 2021 - 22:26:41.909 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 22:26:41.909 [main] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+14 Nov 2021 - 22:26:41.910 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 22:26:41.910 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+14 Nov 2021 - 22:26:41.911 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+14 Nov 2021 - 22:26:41.911 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+14 Nov 2021 - 22:26:53.678 [main] INFO 
+				io.javalin.Javalin - 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+14 Nov 2021 - 22:26:53.687 [main] INFO 
+				org.eclipse.jetty.util.log - Logging initialized @418ms to org.eclipse.jetty.util.log.Slf4jLog
+14 Nov 2021 - 22:26:53.688 [main] INFO 
+				io.javalin.Javalin - Starting Javalin ...
+14 Nov 2021 - 22:26:53.707 [main] INFO 
+				io.javalin.Javalin - You are running Javalin 4.1.1 (released October 10, 2021).
+14 Nov 2021 - 22:26:53.707 [main] INFO 
+				io.javalin.Javalin - No port specified, starting on port 8080. Call start(port) to change ports.
+14 Nov 2021 - 22:26:54.024 [main] INFO 
+				io.javalin.Javalin - Listening on http://localhost:8080/
+14 Nov 2021 - 22:26:54.024 [main] INFO 
+				io.javalin.Javalin - Javalin started in 336ms \o/
+14 Nov 2021 - 22:26:56.360 [qtp1434041222-24] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/7 endpoiint.
+14 Nov 2021 - 22:26:56.361 [qtp1434041222-24] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 22:26:56.362 [qtp1434041222-24] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 22:26:56.362 [qtp1434041222-24] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 22:26:56.797 [qtp1434041222-24] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 22:26:56.837 [qtp1434041222-24] WARN 
+				io.javalin.Javalin - Uncaught exception
+org.postgresql.util.PSQLException: ERROR: relation "accounts" does not exist
+  Position: 15
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2674)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2364)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:354)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:484)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:404)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:162)
+	at org.postgresql.jdbc.PgPreparedStatement.executeQuery(PgPreparedStatement.java:114)
+	at com.revature.dao.AccountDAO.getAccountByAccountId(AccountDAO.java:76)
+	at com.revature.service.AccountService.verifyClientIdAccountId(AccountService.java:240)
+	at com.revature.controller.AccountController.lambda$3(AccountController.java:112)
+	at io.javalin.core.security.SecurityUtil.noopAccessManager(SecurityUtil.kt:20)
+	at io.javalin.http.JavalinServlet.addHandler$lambda-5(JavalinServlet.kt:113)
+	at io.javalin.http.JavalinServlet$service$tryBeforeAndEndpointHandlers$1.invoke(JavalinServlet.kt:44)
+	at io.javalin.http.JavalinServlet$service$tryBeforeAndEndpointHandlers$1.invoke(JavalinServlet.kt:39)
+	at io.javalin.http.JavalinServlet.service$tryWithExceptionMapper(JavalinServlet.kt:129)
+	at io.javalin.http.JavalinServlet.service$tryBeforeAndEndpointHandlers(JavalinServlet.kt:39)
+	at io.javalin.http.JavalinServlet.service(JavalinServlet.kt:87)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at io.javalin.jetty.JavalinJettyServlet.service(JavalinJettyServlet.kt:58)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:799)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:550)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:233)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:1624)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:233)
+	at io.javalin.jetty.JettyServer$start$wsAndHttpHandler$1.doHandle(JettyServer.kt:52)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:188)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:501)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1594)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:186)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1349)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141)
+	at org.eclipse.jetty.server.handler.StatisticsHandler.handle(StatisticsHandler.java:179)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)
+	at org.eclipse.jetty.server.Server.handle(Server.java:516)
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:400)
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:645)
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:392)
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:277)
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311)
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105)
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:883)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:1034)
+	at java.lang.Thread.run(Thread.java:748)
+14 Nov 2021 - 22:28:38.902 [main] INFO 
+				io.javalin.Javalin - 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+14 Nov 2021 - 22:28:38.915 [main] INFO 
+				org.eclipse.jetty.util.log - Logging initialized @409ms to org.eclipse.jetty.util.log.Slf4jLog
+14 Nov 2021 - 22:28:38.916 [main] INFO 
+				io.javalin.Javalin - Starting Javalin ...
+14 Nov 2021 - 22:28:38.935 [main] INFO 
+				io.javalin.Javalin - You are running Javalin 4.1.1 (released October 10, 2021).
+14 Nov 2021 - 22:28:38.935 [main] INFO 
+				io.javalin.Javalin - No port specified, starting on port 8080. Call start(port) to change ports.
+14 Nov 2021 - 22:28:39.262 [main] INFO 
+				io.javalin.Javalin - Listening on http://localhost:8080/
+14 Nov 2021 - 22:28:39.262 [main] INFO 
+				io.javalin.Javalin - Javalin started in 346ms \o/
+14 Nov 2021 - 22:28:41.085 [qtp668210649-17] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/7 endpoiint.
+14 Nov 2021 - 22:28:41.086 [qtp668210649-17] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 22:28:41.086 [qtp668210649-17] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 22:28:41.086 [qtp668210649-17] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 22:28:41.463 [qtp668210649-17] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 22:28:41.501 [qtp668210649-17] INFO 
+				com.revature.service.AccountService - Client is not null but account is null
+14 Nov 2021 - 22:28:48.528 [qtp668210649-13] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/1 endpoiint.
+14 Nov 2021 - 22:28:48.528 [qtp668210649-13] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 22:28:48.528 [qtp668210649-13] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 22:28:48.529 [qtp668210649-13] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 22:28:48.565 [qtp668210649-13] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 22:28:48.602 [qtp668210649-13] INFO 
+				com.revature.service.AccountService - Both client and account are not null
+14 Nov 2021 - 22:28:48.603 [qtp668210649-13] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+14 Nov 2021 - 22:28:48.603 [qtp668210649-13] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 22:28:48.640 [qtp668210649-13] INFO 
+				com.revature.service.AccountService - deposit and withdraw are checked
+14 Nov 2021 - 22:28:52.190 [qtp668210649-18] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/1 endpoiint.
+14 Nov 2021 - 22:28:52.191 [qtp668210649-18] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 22:28:52.191 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 22:28:52.191 [qtp668210649-18] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 22:28:52.229 [qtp668210649-18] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 22:28:52.265 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - Both client and account are not null
+14 Nov 2021 - 22:28:52.266 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+14 Nov 2021 - 22:28:52.266 [qtp668210649-18] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 22:28:52.302 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - deposit is checked
+14 Nov 2021 - 22:28:57.490 [qtp668210649-19] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/1 endpoiint.
+14 Nov 2021 - 22:28:57.491 [qtp668210649-19] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 22:28:57.491 [qtp668210649-19] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 22:28:57.491 [qtp668210649-19] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 22:28:57.527 [qtp668210649-19] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 22:28:57.565 [qtp668210649-19] INFO 
+				com.revature.service.AccountService - Both client and account are not null
+14 Nov 2021 - 22:28:57.565 [qtp668210649-19] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+14 Nov 2021 - 22:28:57.565 [qtp668210649-19] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 22:28:57.599 [qtp668210649-19] INFO 
+				com.revature.service.AccountService - withdraw is checked
+14 Nov 2021 - 22:29:05.729 [qtp668210649-18] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/1 endpoiint.
+14 Nov 2021 - 22:29:05.729 [qtp668210649-18] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 22:29:05.729 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 22:29:05.729 [qtp668210649-18] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 22:29:05.768 [qtp668210649-18] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 22:29:05.804 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - Both client and account are not null
+14 Nov 2021 - 22:29:05.804 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+14 Nov 2021 - 22:29:05.804 [qtp668210649-18] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 22:29:05.839 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - deposit is checked
+14 Nov 2021 - 22:29:06.391 [qtp668210649-19] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/1 endpoiint.
+14 Nov 2021 - 22:29:06.391 [qtp668210649-19] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 22:29:06.391 [qtp668210649-19] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 22:29:06.391 [qtp668210649-19] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 22:29:06.428 [qtp668210649-19] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 22:29:06.464 [qtp668210649-19] INFO 
+				com.revature.service.AccountService - Both client and account are not null
+14 Nov 2021 - 22:29:06.464 [qtp668210649-19] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+14 Nov 2021 - 22:29:06.464 [qtp668210649-19] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 22:29:06.500 [qtp668210649-19] INFO 
+				com.revature.service.AccountService - deposit is checked
+14 Nov 2021 - 22:29:07.037 [qtp668210649-18] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/1 endpoiint.
+14 Nov 2021 - 22:29:07.038 [qtp668210649-18] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 22:29:07.038 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 22:29:07.038 [qtp668210649-18] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 22:29:07.075 [qtp668210649-18] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 22:29:07.111 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - Both client and account are not null
+14 Nov 2021 - 22:29:07.111 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+14 Nov 2021 - 22:29:07.111 [qtp668210649-18] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 22:29:07.146 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - deposit is checked
+14 Nov 2021 - 22:29:07.798 [qtp668210649-19] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/1 endpoiint.
+14 Nov 2021 - 22:29:07.799 [qtp668210649-19] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 22:29:07.799 [qtp668210649-19] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 22:29:07.799 [qtp668210649-19] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 22:29:07.834 [qtp668210649-19] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 22:29:07.869 [qtp668210649-19] INFO 
+				com.revature.service.AccountService - Both client and account are not null
+14 Nov 2021 - 22:29:07.869 [qtp668210649-19] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+14 Nov 2021 - 22:29:07.869 [qtp668210649-19] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 22:29:07.905 [qtp668210649-19] INFO 
+				com.revature.service.AccountService - deposit is checked
+14 Nov 2021 - 22:29:08.605 [qtp668210649-18] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/1 endpoiint.
+14 Nov 2021 - 22:29:08.605 [qtp668210649-18] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 22:29:08.605 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 22:29:08.605 [qtp668210649-18] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 22:29:08.642 [qtp668210649-18] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 22:29:08.677 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - Both client and account are not null
+14 Nov 2021 - 22:29:08.677 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+14 Nov 2021 - 22:29:08.677 [qtp668210649-18] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 22:29:08.713 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - deposit is checked
+14 Nov 2021 - 22:29:09.311 [qtp668210649-19] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/1 endpoiint.
+14 Nov 2021 - 22:29:09.312 [qtp668210649-19] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 22:29:09.312 [qtp668210649-19] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 22:29:09.312 [qtp668210649-19] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 22:29:09.348 [qtp668210649-19] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 22:29:09.383 [qtp668210649-19] INFO 
+				com.revature.service.AccountService - Both client and account are not null
+14 Nov 2021 - 22:29:09.383 [qtp668210649-19] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+14 Nov 2021 - 22:29:09.383 [qtp668210649-19] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 22:29:09.420 [qtp668210649-19] INFO 
+				com.revature.service.AccountService - deposit is checked
+14 Nov 2021 - 22:29:11.122 [qtp668210649-18] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/1 endpoiint.
+14 Nov 2021 - 22:29:11.122 [qtp668210649-18] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 22:29:11.122 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 22:29:11.122 [qtp668210649-18] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 22:29:11.163 [qtp668210649-18] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 22:29:11.199 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - Both client and account are not null
+14 Nov 2021 - 22:29:11.199 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+14 Nov 2021 - 22:29:11.199 [qtp668210649-18] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 22:29:11.235 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - deposit is checked
+14 Nov 2021 - 22:29:30.037 [qtp668210649-19] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/1 endpoiint.
+14 Nov 2021 - 22:29:30.037 [qtp668210649-19] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 22:29:30.037 [qtp668210649-19] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 22:29:30.037 [qtp668210649-19] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 22:29:30.077 [qtp668210649-19] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 22:29:30.120 [qtp668210649-19] INFO 
+				com.revature.service.AccountService - Both client and account are not null
+14 Nov 2021 - 22:29:30.120 [qtp668210649-19] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+14 Nov 2021 - 22:29:30.120 [qtp668210649-19] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 22:29:30.156 [qtp668210649-19] INFO 
+				com.revature.service.AccountService - deposit and withdraw are checked
+14 Nov 2021 - 22:29:38.173 [qtp668210649-18] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/1 endpoiint.
+14 Nov 2021 - 22:29:38.173 [qtp668210649-18] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 22:29:38.173 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 22:29:38.173 [qtp668210649-18] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 22:29:38.212 [qtp668210649-18] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 22:29:38.251 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - Both client and account are not null
+14 Nov 2021 - 22:29:38.251 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+14 Nov 2021 - 22:29:38.251 [qtp668210649-18] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 22:29:38.287 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - deposit is checked
+14 Nov 2021 - 22:29:58.426 [qtp668210649-19] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/1/accounts/ endpoiint.
+14 Nov 2021 - 22:30:14.084 [qtp668210649-18] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/1 endpoiint.
+14 Nov 2021 - 22:30:14.084 [qtp668210649-18] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 22:30:14.084 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 22:30:14.084 [qtp668210649-18] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 22:30:14.121 [qtp668210649-18] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 22:30:14.156 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - Both client and account are not null
+14 Nov 2021 - 22:30:14.156 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+14 Nov 2021 - 22:30:14.156 [qtp668210649-18] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 22:30:14.192 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - deposit is checked
+14 Nov 2021 - 22:37:14.485 [main] INFO 
+				io.javalin.Javalin - 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+14 Nov 2021 - 22:37:14.499 [main] INFO 
+				org.eclipse.jetty.util.log - Logging initialized @428ms to org.eclipse.jetty.util.log.Slf4jLog
+14 Nov 2021 - 22:37:14.500 [main] INFO 
+				io.javalin.Javalin - Starting Javalin ...
+14 Nov 2021 - 22:37:14.519 [main] INFO 
+				io.javalin.Javalin - You are running Javalin 4.1.1 (released October 10, 2021).
+14 Nov 2021 - 22:37:14.519 [main] INFO 
+				io.javalin.Javalin - No port specified, starting on port 8080. Call start(port) to change ports.
+14 Nov 2021 - 22:37:14.844 [main] INFO 
+				io.javalin.Javalin - Listening on http://localhost:8080/
+14 Nov 2021 - 22:37:14.844 [main] INFO 
+				io.javalin.Javalin - Javalin started in 345ms \o/
+14 Nov 2021 - 22:37:22.935 [qtp1434041222-24] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/1 endpoiint.
+14 Nov 2021 - 22:37:22.936 [qtp1434041222-24] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 22:37:22.936 [qtp1434041222-24] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 22:37:22.936 [qtp1434041222-24] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 22:37:23.311 [qtp1434041222-24] INFO 
+				com.revature.service.ClientService - both client and account are not null
+14 Nov 2021 - 22:37:23.312 [qtp1434041222-24] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 22:37:23.312 [qtp1434041222-24] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 22:37:23.349 [qtp1434041222-24] INFO 
+				com.revature.service.AccountService - Account is not null
+14 Nov 2021 - 22:37:23.349 [qtp1434041222-24] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+14 Nov 2021 - 22:37:23.349 [qtp1434041222-24] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 22:37:23.385 [qtp1434041222-24] INFO 
+				com.revature.service.AccountService - deposit is checked
+14 Nov 2021 - 22:44:18.490 [main] INFO 
+				io.javalin.Javalin - 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+14 Nov 2021 - 22:44:18.504 [main] INFO 
+				org.eclipse.jetty.util.log - Logging initialized @419ms to org.eclipse.jetty.util.log.Slf4jLog
+14 Nov 2021 - 22:44:18.505 [main] INFO 
+				io.javalin.Javalin - Starting Javalin ...
+14 Nov 2021 - 22:44:18.529 [main] INFO 
+				io.javalin.Javalin - You are running Javalin 4.1.1 (released October 10, 2021).
+14 Nov 2021 - 22:44:18.529 [main] INFO 
+				io.javalin.Javalin - No port specified, starting on port 8080. Call start(port) to change ports.
+14 Nov 2021 - 22:44:18.879 [main] INFO 
+				io.javalin.Javalin - Listening on http://localhost:8080/
+14 Nov 2021 - 22:44:18.879 [main] INFO 
+				io.javalin.Javalin - Javalin started in 375ms \o/
+14 Nov 2021 - 22:49:27.666 [main] INFO 
+				io.javalin.Javalin - 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+14 Nov 2021 - 22:49:27.679 [main] INFO 
+				org.eclipse.jetty.util.log - Logging initialized @423ms to org.eclipse.jetty.util.log.Slf4jLog
+14 Nov 2021 - 22:49:27.680 [main] INFO 
+				io.javalin.Javalin - Starting Javalin ...
+14 Nov 2021 - 22:49:27.698 [main] INFO 
+				io.javalin.Javalin - You are running Javalin 4.1.1 (released October 10, 2021).
+14 Nov 2021 - 22:49:27.699 [main] INFO 
+				io.javalin.Javalin - No port specified, starting on port 8080. Call start(port) to change ports.
+14 Nov 2021 - 22:49:28.015 [main] INFO 
+				io.javalin.Javalin - Listening on http://localhost:8080/
+14 Nov 2021 - 22:49:28.015 [main] INFO 
+				io.javalin.Javalin - Javalin started in 335ms \o/
+14 Nov 2021 - 22:49:36.813 [qtp1434041222-18] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/1 endpoiint.
+14 Nov 2021 - 22:49:36.814 [qtp1434041222-18] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 22:49:36.814 [qtp1434041222-18] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 22:49:36.814 [qtp1434041222-18] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 22:49:37.196 [qtp1434041222-18] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 22:49:37.233 [qtp1434041222-18] INFO 
+				com.revature.service.AccountService - Both client and account are not null
+14 Nov 2021 - 22:49:37.233 [qtp1434041222-18] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+14 Nov 2021 - 22:49:37.233 [qtp1434041222-18] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 22:49:37.270 [qtp1434041222-18] INFO 
+				com.revature.service.AccountService - deposit is checked
+14 Nov 2021 - 22:51:49.963 [main] INFO 
+				io.javalin.Javalin - 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+14 Nov 2021 - 22:51:49.975 [main] INFO 
+				org.eclipse.jetty.util.log - Logging initialized @447ms to org.eclipse.jetty.util.log.Slf4jLog
+14 Nov 2021 - 22:51:49.976 [main] INFO 
+				io.javalin.Javalin - Starting Javalin ...
+14 Nov 2021 - 22:51:49.995 [main] INFO 
+				io.javalin.Javalin - You are running Javalin 4.1.1 (released October 10, 2021).
+14 Nov 2021 - 22:51:49.995 [main] INFO 
+				io.javalin.Javalin - No port specified, starting on port 8080. Call start(port) to change ports.
+14 Nov 2021 - 22:51:50.325 [main] INFO 
+				io.javalin.Javalin - Listening on http://localhost:8080/
+14 Nov 2021 - 22:51:50.325 [main] INFO 
+				io.javalin.Javalin - Javalin started in 350ms \o/
+14 Nov 2021 - 22:51:58.899 [qtp1434041222-24] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/1 endpoiint.
+14 Nov 2021 - 22:51:58.900 [qtp1434041222-24] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 22:51:58.900 [qtp1434041222-24] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 22:51:58.900 [qtp1434041222-24] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 22:51:59.283 [qtp1434041222-24] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 22:51:59.320 [qtp1434041222-24] INFO 
+				com.revature.service.AccountService - Both client and account are not null
+14 Nov 2021 - 22:51:59.321 [qtp1434041222-24] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+14 Nov 2021 - 22:51:59.321 [qtp1434041222-24] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 22:51:59.357 [qtp1434041222-24] INFO 
+				com.revature.service.AccountService - deposit is checked
+14 Nov 2021 - 22:53:44.657 [main] INFO 
+				io.javalin.Javalin - 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+14 Nov 2021 - 22:53:44.667 [main] INFO 
+				org.eclipse.jetty.util.log - Logging initialized @420ms to org.eclipse.jetty.util.log.Slf4jLog
+14 Nov 2021 - 22:53:44.668 [main] INFO 
+				io.javalin.Javalin - Starting Javalin ...
+14 Nov 2021 - 22:53:44.687 [main] INFO 
+				io.javalin.Javalin - You are running Javalin 4.1.1 (released October 10, 2021).
+14 Nov 2021 - 22:53:44.687 [main] INFO 
+				io.javalin.Javalin - No port specified, starting on port 8080. Call start(port) to change ports.
+14 Nov 2021 - 22:53:45.002 [main] INFO 
+				io.javalin.Javalin - Listening on http://localhost:8080/
+14 Nov 2021 - 22:53:45.002 [main] INFO 
+				io.javalin.Javalin - Javalin started in 334ms \o/
+14 Nov 2021 - 22:53:47.109 [qtp1434041222-24] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/1 endpoiint.
+14 Nov 2021 - 22:53:47.110 [qtp1434041222-24] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 22:53:47.110 [qtp1434041222-24] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 22:53:47.110 [qtp1434041222-24] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 22:53:47.594 [qtp1434041222-24] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 22:53:47.632 [qtp1434041222-24] INFO 
+				com.revature.service.AccountService - Both client and account are not null
+14 Nov 2021 - 22:53:47.633 [qtp1434041222-24] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+14 Nov 2021 - 22:53:47.633 [qtp1434041222-24] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 22:53:47.670 [qtp1434041222-24] INFO 
+				com.revature.service.AccountService - deposit is checked
+14 Nov 2021 - 23:00:39.697 [main] INFO 
+				io.javalin.Javalin - 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+14 Nov 2021 - 23:00:39.707 [main] INFO 
+				org.eclipse.jetty.util.log - Logging initialized @431ms to org.eclipse.jetty.util.log.Slf4jLog
+14 Nov 2021 - 23:00:39.708 [main] INFO 
+				io.javalin.Javalin - Starting Javalin ...
+14 Nov 2021 - 23:00:39.726 [main] INFO 
+				io.javalin.Javalin - You are running Javalin 4.1.1 (released October 10, 2021).
+14 Nov 2021 - 23:00:39.726 [main] INFO 
+				io.javalin.Javalin - No port specified, starting on port 8080. Call start(port) to change ports.
+14 Nov 2021 - 23:00:40.039 [main] INFO 
+				io.javalin.Javalin - Listening on http://localhost:8080/
+14 Nov 2021 - 23:00:40.039 [main] INFO 
+				io.javalin.Javalin - Javalin started in 332ms \o/
+14 Nov 2021 - 23:00:41.796 [qtp1434041222-24] INFO 
+				com.revature.app.BankApiApplication - DELETE request recieved to the /clients/96/accounts/3 endpoiint.
+14 Nov 2021 - 23:00:41.797 [qtp1434041222-24] INFO 
+				c.r.controller.AccountController - Account.Controller.deleteAccountByAccountId() invoked
+14 Nov 2021 - 23:00:41.797 [qtp1434041222-24] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 23:00:41.797 [qtp1434041222-24] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 23:00:42.165 [qtp1434041222-24] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:00:42.207 [qtp1434041222-24] WARN 
+				io.javalin.Javalin - Uncaught exception
+org.postgresql.util.PSQLException: ERROR: syntax error at or near ","
+  Position: 45
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2674)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2364)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:354)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:484)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:404)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:162)
+	at org.postgresql.jdbc.PgPreparedStatement.executeQuery(PgPreparedStatement.java:114)
+	at com.revature.dao.AccountDAO.getAccountByAccountId(AccountDAO.java:78)
+	at com.revature.service.AccountService.verifyClientIdAccountId(AccountService.java:243)
+	at com.revature.controller.AccountController.lambda$4(AccountController.java:136)
+	at io.javalin.core.security.SecurityUtil.noopAccessManager(SecurityUtil.kt:20)
+	at io.javalin.http.JavalinServlet.addHandler$lambda-5(JavalinServlet.kt:113)
+	at io.javalin.http.JavalinServlet$service$tryBeforeAndEndpointHandlers$1.invoke(JavalinServlet.kt:44)
+	at io.javalin.http.JavalinServlet$service$tryBeforeAndEndpointHandlers$1.invoke(JavalinServlet.kt:39)
+	at io.javalin.http.JavalinServlet.service$tryWithExceptionMapper(JavalinServlet.kt:129)
+	at io.javalin.http.JavalinServlet.service$tryBeforeAndEndpointHandlers(JavalinServlet.kt:39)
+	at io.javalin.http.JavalinServlet.service(JavalinServlet.kt:87)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at io.javalin.jetty.JavalinJettyServlet.service(JavalinJettyServlet.kt:58)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:799)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:550)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:233)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:1624)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:233)
+	at io.javalin.jetty.JettyServer$start$wsAndHttpHandler$1.doHandle(JettyServer.kt:52)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:188)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:501)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1594)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:186)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1349)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141)
+	at org.eclipse.jetty.server.handler.StatisticsHandler.handle(StatisticsHandler.java:179)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)
+	at org.eclipse.jetty.server.Server.handle(Server.java:516)
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:400)
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:645)
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:392)
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:277)
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311)
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105)
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:883)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:1034)
+	at java.lang.Thread.run(Thread.java:748)
+14 Nov 2021 - 23:01:13.883 [main] INFO 
+				io.javalin.Javalin - 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+14 Nov 2021 - 23:01:13.893 [main] INFO 
+				org.eclipse.jetty.util.log - Logging initialized @415ms to org.eclipse.jetty.util.log.Slf4jLog
+14 Nov 2021 - 23:01:13.895 [main] INFO 
+				io.javalin.Javalin - Starting Javalin ...
+14 Nov 2021 - 23:01:13.914 [main] INFO 
+				io.javalin.Javalin - You are running Javalin 4.1.1 (released October 10, 2021).
+14 Nov 2021 - 23:01:13.914 [main] INFO 
+				io.javalin.Javalin - No port specified, starting on port 8080. Call start(port) to change ports.
+14 Nov 2021 - 23:01:14.234 [main] INFO 
+				io.javalin.Javalin - Listening on http://localhost:8080/
+14 Nov 2021 - 23:01:14.234 [main] INFO 
+				io.javalin.Javalin - Javalin started in 340ms \o/
+14 Nov 2021 - 23:01:15.755 [qtp1434041222-24] INFO 
+				com.revature.app.BankApiApplication - DELETE request recieved to the /clients/96/accounts/3 endpoiint.
+14 Nov 2021 - 23:01:15.756 [qtp1434041222-24] INFO 
+				c.r.controller.AccountController - Account.Controller.deleteAccountByAccountId() invoked
+14 Nov 2021 - 23:01:15.756 [qtp1434041222-24] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 23:01:15.756 [qtp1434041222-24] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 23:01:16.132 [qtp1434041222-24] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:01:16.171 [qtp1434041222-24] INFO 
+				com.revature.service.AccountService - client is null
+14 Nov 2021 - 23:01:23.457 [qtp1434041222-15] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/1 endpoiint.
+14 Nov 2021 - 23:01:23.457 [qtp1434041222-15] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 23:01:23.457 [qtp1434041222-15] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 23:01:23.457 [qtp1434041222-15] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 23:01:23.494 [qtp1434041222-15] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:01:23.531 [qtp1434041222-15] INFO 
+				com.revature.service.AccountService - Client is not null but account is null
+14 Nov 2021 - 23:04:33.907 [main] INFO 
+				io.javalin.Javalin - 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+14 Nov 2021 - 23:04:33.917 [main] INFO 
+				org.eclipse.jetty.util.log - Logging initialized @422ms to org.eclipse.jetty.util.log.Slf4jLog
+14 Nov 2021 - 23:04:33.918 [main] INFO 
+				io.javalin.Javalin - Starting Javalin ...
+14 Nov 2021 - 23:04:33.936 [main] INFO 
+				io.javalin.Javalin - You are running Javalin 4.1.1 (released October 10, 2021).
+14 Nov 2021 - 23:04:33.936 [main] INFO 
+				io.javalin.Javalin - No port specified, starting on port 8080. Call start(port) to change ports.
+14 Nov 2021 - 23:04:34.087 [main] ERROR
+				io.javalin.Javalin - Failed to start Javalin
+14 Nov 2021 - 23:04:34.088 [main] INFO 
+				io.javalin.Javalin - Stopping Javalin ...
+14 Nov 2021 - 23:04:34.093 [main] INFO 
+				io.javalin.Javalin - Javalin has stopped
+14 Nov 2021 - 23:04:37.233 [main] INFO 
+				io.javalin.Javalin - 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+14 Nov 2021 - 23:04:37.243 [main] INFO 
+				org.eclipse.jetty.util.log - Logging initialized @415ms to org.eclipse.jetty.util.log.Slf4jLog
+14 Nov 2021 - 23:04:37.244 [main] INFO 
+				io.javalin.Javalin - Starting Javalin ...
+14 Nov 2021 - 23:04:37.263 [main] INFO 
+				io.javalin.Javalin - You are running Javalin 4.1.1 (released October 10, 2021).
+14 Nov 2021 - 23:04:37.263 [main] INFO 
+				io.javalin.Javalin - No port specified, starting on port 8080. Call start(port) to change ports.
+14 Nov 2021 - 23:04:37.581 [main] INFO 
+				io.javalin.Javalin - Listening on http://localhost:8080/
+14 Nov 2021 - 23:04:37.581 [main] INFO 
+				io.javalin.Javalin - Javalin started in 337ms \o/
+14 Nov 2021 - 23:04:40.839 [qtp1434041222-18] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/1 endpoiint.
+14 Nov 2021 - 23:04:40.840 [qtp1434041222-18] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 23:04:40.840 [qtp1434041222-18] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 23:04:40.840 [qtp1434041222-18] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 23:04:41.220 [qtp1434041222-18] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:04:41.259 [qtp1434041222-18] INFO 
+				com.revature.service.AccountService - client exist, but no account with the account ID.
+14 Nov 2021 - 23:04:50.685 [qtp1434041222-14] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/2 endpoiint.
+14 Nov 2021 - 23:04:50.686 [qtp1434041222-14] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 23:04:50.686 [qtp1434041222-14] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 23:04:50.686 [qtp1434041222-14] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 23:04:50.832 [qtp1434041222-14] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:04:50.869 [qtp1434041222-14] INFO 
+				com.revature.service.AccountService - client exist and account exist
+14 Nov 2021 - 23:04:50.869 [qtp1434041222-14] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+14 Nov 2021 - 23:04:50.869 [qtp1434041222-14] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:04:50.905 [qtp1434041222-14] INFO 
+				com.revature.service.AccountService - deposit is checked
+14 Nov 2021 - 23:04:53.331 [qtp1434041222-17] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/2 endpoiint.
+14 Nov 2021 - 23:04:53.331 [qtp1434041222-17] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 23:04:53.331 [qtp1434041222-17] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 23:04:53.332 [qtp1434041222-17] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 23:04:53.369 [qtp1434041222-17] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:04:53.404 [qtp1434041222-17] INFO 
+				com.revature.service.AccountService - client exist and account exist
+14 Nov 2021 - 23:04:53.404 [qtp1434041222-17] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+14 Nov 2021 - 23:04:53.404 [qtp1434041222-17] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:04:53.439 [qtp1434041222-17] INFO 
+				com.revature.service.AccountService - deposit is checked
+14 Nov 2021 - 23:04:54.215 [qtp1434041222-19] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/2 endpoiint.
+14 Nov 2021 - 23:04:54.216 [qtp1434041222-19] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 23:04:54.216 [qtp1434041222-19] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 23:04:54.216 [qtp1434041222-19] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 23:04:54.252 [qtp1434041222-19] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:04:54.288 [qtp1434041222-19] INFO 
+				com.revature.service.AccountService - client exist and account exist
+14 Nov 2021 - 23:04:54.288 [qtp1434041222-19] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+14 Nov 2021 - 23:04:54.288 [qtp1434041222-19] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:04:54.325 [qtp1434041222-19] INFO 
+				com.revature.service.AccountService - deposit is checked
+14 Nov 2021 - 23:04:55.030 [qtp1434041222-17] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/2 endpoiint.
+14 Nov 2021 - 23:04:55.030 [qtp1434041222-17] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 23:04:55.030 [qtp1434041222-17] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 23:04:55.030 [qtp1434041222-17] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 23:04:55.067 [qtp1434041222-17] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:04:55.227 [qtp1434041222-17] INFO 
+				com.revature.service.AccountService - client exist and account exist
+14 Nov 2021 - 23:04:55.227 [qtp1434041222-17] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+14 Nov 2021 - 23:04:55.227 [qtp1434041222-17] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:04:55.263 [qtp1434041222-17] INFO 
+				com.revature.service.AccountService - deposit is checked
+14 Nov 2021 - 23:04:55.797 [qtp1434041222-19] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/2 endpoiint.
+14 Nov 2021 - 23:04:55.797 [qtp1434041222-19] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 23:04:55.797 [qtp1434041222-19] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 23:04:55.797 [qtp1434041222-19] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 23:04:55.833 [qtp1434041222-19] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:04:55.869 [qtp1434041222-19] INFO 
+				com.revature.service.AccountService - client exist and account exist
+14 Nov 2021 - 23:04:55.869 [qtp1434041222-19] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+14 Nov 2021 - 23:04:55.869 [qtp1434041222-19] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:04:55.904 [qtp1434041222-19] INFO 
+				com.revature.service.AccountService - deposit is checked
+14 Nov 2021 - 23:04:56.483 [qtp1434041222-17] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/2 endpoiint.
+14 Nov 2021 - 23:04:56.483 [qtp1434041222-17] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 23:04:56.484 [qtp1434041222-17] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 23:04:56.484 [qtp1434041222-17] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 23:04:56.521 [qtp1434041222-17] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:04:56.557 [qtp1434041222-17] INFO 
+				com.revature.service.AccountService - client exist and account exist
+14 Nov 2021 - 23:04:56.557 [qtp1434041222-17] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+14 Nov 2021 - 23:04:56.557 [qtp1434041222-17] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:04:56.592 [qtp1434041222-17] INFO 
+				com.revature.service.AccountService - deposit is checked
+14 Nov 2021 - 23:04:57.008 [qtp1434041222-19] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/2 endpoiint.
+14 Nov 2021 - 23:04:57.009 [qtp1434041222-19] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 23:04:57.009 [qtp1434041222-19] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 23:04:57.009 [qtp1434041222-19] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 23:04:57.044 [qtp1434041222-19] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:04:57.079 [qtp1434041222-19] INFO 
+				com.revature.service.AccountService - client exist and account exist
+14 Nov 2021 - 23:04:57.080 [qtp1434041222-19] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+14 Nov 2021 - 23:04:57.080 [qtp1434041222-19] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:04:57.115 [qtp1434041222-19] INFO 
+				com.revature.service.AccountService - deposit is checked
+14 Nov 2021 - 23:04:57.689 [qtp1434041222-17] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/2 endpoiint.
+14 Nov 2021 - 23:04:57.689 [qtp1434041222-17] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 23:04:57.689 [qtp1434041222-17] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 23:04:57.689 [qtp1434041222-17] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 23:04:57.725 [qtp1434041222-17] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:04:57.760 [qtp1434041222-17] INFO 
+				com.revature.service.AccountService - client exist and account exist
+14 Nov 2021 - 23:04:57.761 [qtp1434041222-17] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+14 Nov 2021 - 23:04:57.761 [qtp1434041222-17] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:04:57.797 [qtp1434041222-17] INFO 
+				com.revature.service.AccountService - deposit is checked
+14 Nov 2021 - 23:08:39.613 [main] INFO 
+				io.javalin.Javalin - 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+14 Nov 2021 - 23:08:39.627 [main] INFO 
+				org.eclipse.jetty.util.log - Logging initialized @419ms to org.eclipse.jetty.util.log.Slf4jLog
+14 Nov 2021 - 23:08:39.628 [main] INFO 
+				io.javalin.Javalin - Starting Javalin ...
+14 Nov 2021 - 23:08:39.647 [main] INFO 
+				io.javalin.Javalin - You are running Javalin 4.1.1 (released October 10, 2021).
+14 Nov 2021 - 23:08:39.647 [main] INFO 
+				io.javalin.Javalin - No port specified, starting on port 8080. Call start(port) to change ports.
+14 Nov 2021 - 23:08:39.970 [main] INFO 
+				io.javalin.Javalin - Listening on http://localhost:8080/
+14 Nov 2021 - 23:08:39.970 [main] INFO 
+				io.javalin.Javalin - Javalin started in 343ms \o/
+14 Nov 2021 - 23:08:42.254 [qtp1434041222-24] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/2 endpoiint.
+14 Nov 2021 - 23:08:42.255 [qtp1434041222-24] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 23:08:42.256 [qtp1434041222-24] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 23:08:42.256 [qtp1434041222-24] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 23:08:42.626 [qtp1434041222-24] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:08:42.663 [qtp1434041222-24] INFO 
+				com.revature.service.AccountService - client exist and account exist
+14 Nov 2021 - 23:08:42.664 [qtp1434041222-24] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+14 Nov 2021 - 23:08:42.664 [qtp1434041222-24] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:08:42.701 [qtp1434041222-24] INFO 
+				com.revature.service.AccountService - deposit is checked
+14 Nov 2021 - 23:08:42.701 [qtp1434041222-24] INFO 
+				com.revature.service.AccountService - totalAmount = account.getAmount() + depositAmount: 1000.0500.0500.0
+14 Nov 2021 - 23:09:52.561 [qtp1434041222-12] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/2 endpoiint.
+14 Nov 2021 - 23:09:52.561 [qtp1434041222-12] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 23:09:52.561 [qtp1434041222-12] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 23:09:52.561 [qtp1434041222-12] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 23:09:52.599 [qtp1434041222-12] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:09:52.634 [qtp1434041222-12] INFO 
+				com.revature.service.AccountService - client exist and account exist
+14 Nov 2021 - 23:09:52.635 [qtp1434041222-12] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+14 Nov 2021 - 23:09:52.635 [qtp1434041222-12] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:09:52.669 [qtp1434041222-12] INFO 
+				com.revature.service.AccountService - deposit is checked
+14 Nov 2021 - 23:09:52.670 [qtp1434041222-12] INFO 
+				com.revature.service.AccountService - totalAmount = account.getAmount() + depositAmount: 1000.0500.0500.0
+14 Nov 2021 - 23:09:55.872 [qtp1434041222-25] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/2 endpoiint.
+14 Nov 2021 - 23:09:55.872 [qtp1434041222-25] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 23:09:55.872 [qtp1434041222-25] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 23:09:55.873 [qtp1434041222-25] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 23:09:55.910 [qtp1434041222-25] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:09:55.946 [qtp1434041222-25] INFO 
+				com.revature.service.AccountService - client exist and account exist
+14 Nov 2021 - 23:09:55.946 [qtp1434041222-25] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+14 Nov 2021 - 23:09:55.946 [qtp1434041222-25] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:09:55.982 [qtp1434041222-25] INFO 
+				com.revature.service.AccountService - deposit is checked
+14 Nov 2021 - 23:09:55.982 [qtp1434041222-25] INFO 
+				com.revature.service.AccountService - totalAmount = account.getAmount() + depositAmount: 1000.0500.0500.0
+14 Nov 2021 - 23:09:56.217 [qtp1434041222-14] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/2 endpoiint.
+14 Nov 2021 - 23:09:56.217 [qtp1434041222-14] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 23:09:56.217 [qtp1434041222-14] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 23:09:56.217 [qtp1434041222-14] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 23:09:56.255 [qtp1434041222-14] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:09:56.291 [qtp1434041222-14] INFO 
+				com.revature.service.AccountService - client exist and account exist
+14 Nov 2021 - 23:09:56.292 [qtp1434041222-14] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+14 Nov 2021 - 23:09:56.292 [qtp1434041222-14] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:09:56.327 [qtp1434041222-14] INFO 
+				com.revature.service.AccountService - deposit is checked
+14 Nov 2021 - 23:09:56.327 [qtp1434041222-14] INFO 
+				com.revature.service.AccountService - totalAmount = account.getAmount() + depositAmount: 1000.0500.0500.0
+14 Nov 2021 - 23:09:56.694 [qtp1434041222-25] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/2 endpoiint.
+14 Nov 2021 - 23:09:56.695 [qtp1434041222-25] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 23:09:56.695 [qtp1434041222-25] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 23:09:56.695 [qtp1434041222-25] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 23:09:56.731 [qtp1434041222-25] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:09:56.767 [qtp1434041222-25] INFO 
+				com.revature.service.AccountService - client exist and account exist
+14 Nov 2021 - 23:09:56.768 [qtp1434041222-25] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+14 Nov 2021 - 23:09:56.768 [qtp1434041222-25] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:09:56.803 [qtp1434041222-25] INFO 
+				com.revature.service.AccountService - deposit is checked
+14 Nov 2021 - 23:09:56.803 [qtp1434041222-25] INFO 
+				com.revature.service.AccountService - totalAmount = account.getAmount() + depositAmount: 1000.0500.0500.0
+14 Nov 2021 - 23:09:57.088 [qtp1434041222-14] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/2 endpoiint.
+14 Nov 2021 - 23:09:57.088 [qtp1434041222-14] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 23:09:57.088 [qtp1434041222-14] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 23:09:57.088 [qtp1434041222-14] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 23:09:57.128 [qtp1434041222-14] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:09:57.162 [qtp1434041222-14] INFO 
+				com.revature.service.AccountService - client exist and account exist
+14 Nov 2021 - 23:09:57.162 [qtp1434041222-14] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+14 Nov 2021 - 23:09:57.162 [qtp1434041222-14] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:09:57.197 [qtp1434041222-14] INFO 
+				com.revature.service.AccountService - deposit is checked
+14 Nov 2021 - 23:09:57.197 [qtp1434041222-14] INFO 
+				com.revature.service.AccountService - totalAmount = account.getAmount() + depositAmount: 1000.0500.0500.0
+14 Nov 2021 - 23:11:04.903 [main] INFO 
+				io.javalin.Javalin - 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+14 Nov 2021 - 23:11:04.913 [main] INFO 
+				org.eclipse.jetty.util.log - Logging initialized @423ms to org.eclipse.jetty.util.log.Slf4jLog
+14 Nov 2021 - 23:11:04.914 [main] INFO 
+				io.javalin.Javalin - Starting Javalin ...
+14 Nov 2021 - 23:11:04.932 [main] INFO 
+				io.javalin.Javalin - You are running Javalin 4.1.1 (released October 10, 2021).
+14 Nov 2021 - 23:11:04.932 [main] INFO 
+				io.javalin.Javalin - No port specified, starting on port 8080. Call start(port) to change ports.
+14 Nov 2021 - 23:11:05.256 [main] INFO 
+				io.javalin.Javalin - Listening on http://localhost:8080/
+14 Nov 2021 - 23:11:05.256 [main] INFO 
+				io.javalin.Javalin - Javalin started in 342ms \o/
+14 Nov 2021 - 23:11:08.774 [qtp668210649-14] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/2 endpoiint.
+14 Nov 2021 - 23:11:08.775 [qtp668210649-14] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 23:11:08.775 [qtp668210649-14] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 23:11:08.775 [qtp668210649-14] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 23:11:09.146 [qtp668210649-14] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:11:09.185 [qtp668210649-14] INFO 
+				com.revature.service.AccountService - client exist and account exist
+14 Nov 2021 - 23:11:09.185 [qtp668210649-14] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+14 Nov 2021 - 23:11:09.185 [qtp668210649-14] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:11:09.222 [qtp668210649-14] INFO 
+				com.revature.service.AccountService - deposit is checked
+14 Nov 2021 - 23:11:09.222 [qtp668210649-14] INFO 
+				com.revature.service.AccountService - totalAmount = account.getAmount() + depositAmount: 1000.0500.0500.0
+14 Nov 2021 - 23:11:09.222 [qtp668210649-14] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.updateAmount() invoked.
+14 Nov 2021 - 23:11:11.426 [qtp668210649-15] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/2 endpoiint.
+14 Nov 2021 - 23:11:11.426 [qtp668210649-15] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 23:11:11.426 [qtp668210649-15] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 23:11:11.426 [qtp668210649-15] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 23:11:11.469 [qtp668210649-15] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:11:11.505 [qtp668210649-15] INFO 
+				com.revature.service.AccountService - client exist and account exist
+14 Nov 2021 - 23:11:11.505 [qtp668210649-15] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+14 Nov 2021 - 23:11:11.505 [qtp668210649-15] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:11:11.540 [qtp668210649-15] INFO 
+				com.revature.service.AccountService - deposit is checked
+14 Nov 2021 - 23:11:11.540 [qtp668210649-15] INFO 
+				com.revature.service.AccountService - totalAmount = account.getAmount() + depositAmount: 1500.01000.0500.0
+14 Nov 2021 - 23:11:11.541 [qtp668210649-15] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.updateAmount() invoked.
+14 Nov 2021 - 23:11:15.579 [qtp668210649-18] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/2 endpoiint.
+14 Nov 2021 - 23:11:15.579 [qtp668210649-18] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 23:11:15.579 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 23:11:15.579 [qtp668210649-18] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 23:11:15.728 [qtp668210649-18] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:11:15.869 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - client exist and account exist
+14 Nov 2021 - 23:11:15.869 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+14 Nov 2021 - 23:11:15.869 [qtp668210649-18] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:11:15.904 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - deposit is checked
+14 Nov 2021 - 23:11:15.904 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - totalAmount = account.getAmount() + depositAmount: 2000.01500.0500.0
+14 Nov 2021 - 23:11:15.904 [qtp668210649-18] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.updateAmount() invoked.
+14 Nov 2021 - 23:11:16.155 [qtp668210649-19] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/2 endpoiint.
+14 Nov 2021 - 23:11:16.155 [qtp668210649-19] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 23:11:16.155 [qtp668210649-19] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 23:11:16.155 [qtp668210649-19] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 23:11:16.189 [qtp668210649-19] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:11:16.226 [qtp668210649-19] INFO 
+				com.revature.service.AccountService - client exist and account exist
+14 Nov 2021 - 23:11:16.226 [qtp668210649-19] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+14 Nov 2021 - 23:11:16.226 [qtp668210649-19] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:11:16.261 [qtp668210649-19] INFO 
+				com.revature.service.AccountService - deposit is checked
+14 Nov 2021 - 23:11:16.262 [qtp668210649-19] INFO 
+				com.revature.service.AccountService - totalAmount = account.getAmount() + depositAmount: 2500.02000.0500.0
+14 Nov 2021 - 23:11:16.262 [qtp668210649-19] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.updateAmount() invoked.
+14 Nov 2021 - 23:11:16.547 [qtp668210649-18] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/2 endpoiint.
+14 Nov 2021 - 23:11:16.547 [qtp668210649-18] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 23:11:16.547 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 23:11:16.547 [qtp668210649-18] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 23:11:16.584 [qtp668210649-18] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:11:16.619 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - client exist and account exist
+14 Nov 2021 - 23:11:16.619 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+14 Nov 2021 - 23:11:16.619 [qtp668210649-18] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:11:16.757 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - deposit is checked
+14 Nov 2021 - 23:11:16.757 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - totalAmount = account.getAmount() + depositAmount: 3000.02500.0500.0
+14 Nov 2021 - 23:11:16.757 [qtp668210649-18] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.updateAmount() invoked.
+14 Nov 2021 - 23:11:17.015 [qtp668210649-19] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/2 endpoiint.
+14 Nov 2021 - 23:11:17.015 [qtp668210649-19] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 23:11:17.015 [qtp668210649-19] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 23:11:17.015 [qtp668210649-19] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 23:11:17.051 [qtp668210649-19] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:11:17.086 [qtp668210649-19] INFO 
+				com.revature.service.AccountService - client exist and account exist
+14 Nov 2021 - 23:11:17.086 [qtp668210649-19] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+14 Nov 2021 - 23:11:17.086 [qtp668210649-19] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:11:17.122 [qtp668210649-19] INFO 
+				com.revature.service.AccountService - deposit is checked
+14 Nov 2021 - 23:11:17.122 [qtp668210649-19] INFO 
+				com.revature.service.AccountService - totalAmount = account.getAmount() + depositAmount: 3500.03000.0500.0
+14 Nov 2021 - 23:11:17.122 [qtp668210649-19] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.updateAmount() invoked.
+14 Nov 2021 - 23:11:17.418 [qtp668210649-18] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/2/accounts/2 endpoiint.
+14 Nov 2021 - 23:11:17.419 [qtp668210649-18] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+14 Nov 2021 - 23:11:17.419 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+14 Nov 2021 - 23:11:17.419 [qtp668210649-18] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+14 Nov 2021 - 23:11:17.455 [qtp668210649-18] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:11:17.492 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - client exist and account exist
+14 Nov 2021 - 23:11:17.492 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+14 Nov 2021 - 23:11:17.492 [qtp668210649-18] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+14 Nov 2021 - 23:11:17.631 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - deposit is checked
+14 Nov 2021 - 23:11:17.631 [qtp668210649-18] INFO 
+				com.revature.service.AccountService - totalAmount = account.getAmount() + depositAmount: 4000.03500.0500.0
+14 Nov 2021 - 23:11:17.631 [qtp668210649-18] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.updateAmount() invoked.

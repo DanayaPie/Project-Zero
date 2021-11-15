@@ -68,7 +68,7 @@ public class AccountController {
 		
 		this.accountService.verifyClientIdAccountId(clientId, accountId);
 		
-		Account account = this.accountService.getAccountByAccountId(accountId);
+		Account account = this.accountService.getAccountByAccountId(clientId, accountId);
 		
 		ctx.json(account);
 		
@@ -111,7 +111,10 @@ public class AccountController {
 		
 		this.accountService.verifyClientIdAccountId(clientId, accountId);
 		
-		Account a = this.accountService.updateAmount(accountId, ctx);
+		String deposit = ctx.queryParam("deposit");
+		String withdraw = ctx.queryParam("withdraw");
+		
+		Account a = this.accountService.updateAmount(clientId, accountId, deposit, withdraw);
 		
 		ctx.json(a);
 	};
@@ -129,11 +132,10 @@ public class AccountController {
 		String clientId = ctx.pathParam("clientId");
 		String accountId = ctx.pathParam("accountId");
 		
-		logger.debug("clientId + accountId {} {}", clientId, accountId);
-		this.accountService.verifyClientIdAccountId(clientId,accountId);
+		logger.debug("clientId + accountId {}", clientId, accountId);
+		this.accountService.verifyClientIdAccountId(clientId, accountId);
 		
-		logger.debug("clientId + accountId {}", accountId);
-		this.accountService.deleteAccountByAccountId(accountId);
+		this.accountService.deleteAccountByAccountId(clientId, accountId);
 		
 		ctx.json("Account with ID of " + accountId + " belonging to client with ID of " + clientId + " has been deleted.");
 	};	

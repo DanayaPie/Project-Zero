@@ -15,6 +15,9 @@ import com.revature.service.ClientService;
 
 public class GetClientByClientIdTest {
 
+	/*
+	 * ARRANGE
+	 */
 	ClientDAO mockClientDao = mock(ClientDAO.class);
 	ClientService mockClientService = new ClientService(mockClientDao);
 	

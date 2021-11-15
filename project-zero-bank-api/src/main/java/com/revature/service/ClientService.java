@@ -70,13 +70,13 @@ public class ClientService {
 	public Client addClient(Client client) throws SQLException, InvalidParameterException {
 
 		logger.info("addClient() invoked");
-
+		
 		/*
 		 *  Possibilities 
 		 *  	-> Client contain firstName, lastName, birthdate
 		 *  1. firstName and/or lastName are blank
-		 *  2. birthdate length is not 8 characters
-		 *  3. birthdate not contain numbers only
+		 *  2. birthdate not contain characteres or symbols
+		 *  3. birthdate length is not 8 characters
 		 */
 
 		// 1.
@@ -90,10 +90,20 @@ public class ClientService {
 		client.setFirstName(client.getFirstName().trim());
 		client.setLastName(client.getLastName().trim());
 
-		// 2. 
-		
+		// 2.
 		String birthdate = client.getBirthdate();
 		
+		try {
+			
+			logger.info("parse birthdate to int.");
+			
+			Integer.parseInt(birthdate);
+			
+		} catch (NumberFormatException e) {
+			throw new InvalidParameterException("Birthdate cannot contaiin any characters or symbols. It MUST contain 8 numbers only and in MMDDYYYY format.");
+		}
+		
+		// 3. 
 		if (birthdate.length() != 8) {
 			
 			logger.info("birthdate is not 8 characters ");
@@ -101,23 +111,8 @@ public class ClientService {
 			throw new InvalidParameterException("Invalid birthdate. Birthdate MUST contain 8 numbers only and in MMDDYYYY format.");
 		}
 		
-//		// 3.
-//
-//		
-//		digitsOnly(birthdate, int n) {
-//			
-//			for int i = 0; i < n; i++) {
-//				
-//				if birthdate.charAt(i) !>= '0' && birthdate.
-//			}
-//		}
-//		if (client.getBirthdate() != regex) {
-//			
-//			logger.info("birthdate not cotain numbers only");
-//			
-//			throw new InvalidParameterException("Invalid birthdate. Birthdate MUST contain 8 numbers only and ");
-//		}
-//
+
+
 		Client insertedClient = this.clientDao.addClient(client);
 		return insertedClient;
 	}
@@ -324,15 +319,15 @@ public class ClientService {
 			// 2.
 			} else {
 				
-				logger.info("both client and account are not null");
+				logger.info("both client is not null");
 								
 			}
 			
 		} catch (NumberFormatException e) {
 			
-			logger.info("Client and/or account ID provided is not an int convertable value.");
+			logger.info("Client ID provided is not an int convertable value.");
 			
-			throw new InvalidParameterException("Client and/or account ID provided is not an int convertable value.");
+			throw new InvalidParameterException("Client ID provided is not an int convertable value.");
 		}
 	}
 }
