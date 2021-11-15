@@ -21,7 +21,7 @@ VALUES
 
 INSERT INTO clients (client_first_name, client_last_name, client_birthdate)
 VALUES
-	('Morgana', 'Dark', '11111111')
+	('Morgana', 'Dark', 'adsf')
 	
 -- ========== UPDATE 
 UPDATE clients
