@@ -1,54 +1,74 @@
-DELETE TABLE IF EXISTS accounts;
+DROP TABLE IF EXISTS accounts;
 
 ROLLBACK;
 
 COMMIT;
 
-CREAT TABLE accounts {
+CREATE TABLE accounts (
 	account_id SERIAL PRIMARY KEY, -- 2 primary key = composit id
-	client_id INTEGER PRIMARY KEY,
-	account_type VARCHAR)(100) NOT NULL,
-	amount MONEY NOT NULL,
-	interest FLOAT NOT NULL,
+	client_id INTEGER NOT NULL,
+	account_type VARCHAR(100) NOT NULL,
+	amount Numeric NOT NULL,
 	
 	CONSTRAINT fk_cilent FOREIGN KEY(client_id)
-		REFERENCES client(client_id)
+		REFERENCES clients(client_id)
 );
 
--- ========== INSERTING
+-- on DELETE CASCADE TABLE
+CREATE TABLE accounts (
+	account_id SERIAL PRIMARY KEY, -- 2 primary key = composit id
+	client_id INTEGER NOT NULL,
+	account_type VARCHAR(100) NOT NULL,
+	amount Numeric NOT NULL,
+	
+	CONSTRAINT fk_cilent FOREIGN KEY(client_id)
+		REFERENCES clients(client_id) ON DELETE CASCADE
+);
+
+-- ========== INSERT
 
 -- Insering rows
-INSERT INTO accounts (client_id, account_type, amount, interest)
+INSERT INTO accounts (client_id, account_type, amount)
 VALUES
-(1, 'checking', 2000, 0.01),
-(2, 'checking', 6000, 0.05),
-(2, 'saving', 80000, 0.30),
-(3, 'checking', 7000, 0.05),
-(3, 'saving', 75000, 0.30)
+(1, 'checking', 2000),
+(2, 'checking', 6000),
+(2, 'saving', 80000),
+(3, 'checking', 7000),
+(3, 'saving', 75000)
 
 -- Inserting new rows
-INSERT INTO accounts (client_id, account_type, amount, interest)
+INSERT INTO accounts (client_id, account_type, amount)
 VALUES
-	(1, 'saving', 65000, 0.05);
+	(1, 'saving', 65000);
 
 -- ========== UPDATE 
 UPDATE accounts
 SET
-	
+	amount = 500
+WHERE 
+	account_id = 4;
 
 -- ========== QUERYING
 	
 -- Querying all columns
-SELECT account_id, client_id, account_type, amount, interest
+SELECT *
 FROM accounts;
 
 -- Querying by account id
 SELECT *
 FROM accounts
+WHERE account_id = 4;
+
+-- Querying by client id
+SELECT *
+FROM accounts
 WHERE client_id = 2;
 
 -- Querying sepcific columns
-SELECT account_id, accoount_type, amount
+SELECT account_no, accoount_type, amount
 FROM grades
-WHERE clien_id = 3;
+WHERE clien_id = 2;
 
+-- === DELETE 
+DELETE FROM accounts 
+WHERE account_id = 2;
