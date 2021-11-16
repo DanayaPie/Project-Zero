@@ -12,26 +12,28 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 import com.revature.dao.AccountDAO;
+import com.revature.exceptions.AmountDoesNotExistException;
 import com.revature.exceptions.InvalidParameterException;
 import com.revature.model.Account;
 import com.revature.service.AccountService;
 
 public class GetAccountsByClientIdTest {
 
-	/*
+	/*--
 	 * ARRANGE
 	 */
 	AccountDAO mockAccountDao = mock(AccountDAO.class);
 	AccountService mockAccountService = new AccountService(mockAccountDao);
-	
-	/* ********************
+
+	/*-- ********************
 	 * -- POSITIVE TESTS --
 	 * ********************
 	 */
+
 	@Test
-	public void testGetAllAccountsByClientIdPositive() throws SQLException, InvalidParameterException {
-		
-		/*
+	public void testGetAllAccountsByClientIdPositive() throws SQLException, InvalidParameterException, AmountDoesNotExistException {
+
+		/*-
 		 * ARRANGE
 		 */
 		List<Account> accountList = new ArrayList<Account>();
@@ -39,31 +41,63 @@ public class GetAccountsByClientIdTest {
 		accountList.add(new Account(2, 1, "saving", 5001.00));
 		accountList.add(new Account(3, 1, "saving", 5050.00));
 		accountList.add(new Account(4, 1, "saving", 6000.00));
-		
-		when(mockAccountDao.getAllAccountsByClientId(eq(1)))
-		.thenReturn(accountList);
-		
+
+		when(mockAccountDao.getAllAccountsByClientId(eq(1))).thenReturn(accountList);
+
 		List<Account> actual = mockAccountService.getAllAccountsByClientId("1", null, null);
-		
-		/*
+
+		/*-
 		 * ASSERT
 		 */
 		Assertions.assertEquals(accountList, actual);
 	}
-	
-	/* ********************
+
+	/*- ********************
 	 * -- NEGATIVE TESTS --
 	 * ********************
 	 */
-	
+
 	// Exception Occur
 	@Test
 	public void testGetAllAccountsByClientIdExceptionOccurNegative() throws SQLException {
-		
+
 		when(mockAccountDao.getAllAccountsByClientId(1)).thenThrow(SQLException.class);
-		
+
 		Assertions.assertThrows(SQLException.class, () -> {
 			mockAccountService.getAllAccountsByClientId("1", null, null);
+		});
+	}
+
+	// depositAmount is checked but blank
+	@Test
+	public void testGetAllAccountsByClientIdDepositAmountBlankNegative() throws SQLException {
+
+		when(mockAccountDao.getAccountByAccountId(eq(96), eq(1))).thenReturn(new Account(1, 96, "Checking", 500.));
+
+		Assertions.assertThrows(InvalidParameterException.class, () -> {
+			mockAccountService.getAllAccountsByClientId("96", "", null);
+		});
+	}
+	
+	// withdrawAmount is checked but blank
+	@Test
+	public void testGetAllAccountsByClientIdWithdrawAmountBlankNegative() throws SQLException {
+
+		when(mockAccountDao.getAccountByAccountId(eq(96), eq(1))).thenReturn(new Account(1, 96, "Checking", 500.));
+
+		Assertions.assertThrows(InvalidParameterException.class, () -> {
+			mockAccountService.getAllAccountsByClientId("96", null, "");
+		});
+	}
+	
+	// both depositAmount and withdrawAmount are checked but blank
+	@Test
+	public void testGetAllAccountsByClientIdDepositAndWithdrawAmountBlankNegative() throws SQLException {
+
+		when(mockAccountDao.getAccountByAccountId(eq(96), eq(1))).thenReturn(new Account(1, 96, "Checking", 500.));
+
+		Assertions.assertThrows(InvalidParameterException.class, () -> {
+			mockAccountService.getAllAccountsByClientId("96", "", "");
 		});
 	}
 }

@@ -12,6 +12,7 @@ import org.slf4j.LoggerFactory;
 import com.revature.dao.AccountDAO;
 import com.revature.dao.ClientDAO;
 import com.revature.exceptions.AccountNotFoundException;
+import com.revature.exceptions.AmountDoesNotExistException;
 import com.revature.exceptions.ClientNotFoundException;
 import com.revature.exceptions.InvalidParameterException;
 import com.revature.exceptions.OverdraftException;
@@ -24,6 +25,7 @@ public class AccountService {
 
 	private AccountDAO accountDao;
 	private ClientDAO clientDao;
+	private Account account;
 
 	// constructor
 	public AccountService() {
@@ -49,7 +51,7 @@ public class AccountService {
 
 	// getAllAccountsByClientId
 	public List<Account> getAllAccountsByClientId(String clientId, String greaterThan, String lessThan)
-			throws SQLException, InvalidParameterException {
+			throws SQLException, InvalidParameterException, AmountDoesNotExistException {
 
 		logger.info("AccountService.getAllAccountsByClientId() invoked.");
 
@@ -63,9 +65,11 @@ public class AccountService {
 		 *  2. both greatherThan and lessThan checked 
 		 *  3. both checked but blanks
 		 *  4. greaterThan check but blank
-		 *  5. greatherThan check with amount
-		 *  6. lessThan checked but blank
-		 *  7. greatherTHan check with amount
+		 *  5. greaterThan exceed amount in bank ????
+		 *  6. greatherThan check with amount
+		 *  7. lessThan checked but blank
+		 *  8. lessThan exceed amount in bank ?????
+		 *  9. lessThan check with amount
 		 */
 		// 1.
 		if (greaterThan == null && lessThan == null) {
@@ -90,32 +94,93 @@ public class AccountService {
 
 				logger.info("GT and LT have amounts.");
 
-				int gtAmount = Integer.parseInt(greaterThan);
-				int ltAmount = Integer.parseInt(lessThan);
+				double gtAmount = Double.parseDouble(greaterThan);
+				double ltAmount = Double.parseDouble(lessThan);
 
 				return accounts = this.accountDao.getAllAccountsByClientId(clId, gtAmount, ltAmount);
 			}
 		}
 
-		// 4 + 5
-		if (greaterThan != null && lessThan == null && !greaterThan.equals("")) {
+		// 4.
+		if (greaterThan != null && lessThan == null) {
 
-			logger.info("GT checked and not blank");
+			logger.info("GT checked.");
 
-			int gtAmount = Integer.parseInt(greaterThan);
-			logger.info("gtAmmount {}",gtAmount);
-			return accounts = this.accountDao.getAllAccountsByClientId(clId, gtAmount, Integer.MAX_VALUE);
+			if (greaterThan.equals("")) {
 
-		} else if (greaterThan == null && lessThan != null && !lessThan.equals("")) {
+				logger.info("GT is blank.");
 
-			logger.info("LT checked and not blank");
+				throw new InvalidParameterException("Greater than amounts cannot be blank.");
 
-			int ltAmount = Integer.parseInt(lessThan);
+				// 6.
+			} else {
 
-			return accounts = this.accountDao.getAllAccountsByClientId(clId, Integer.MIN_VALUE, ltAmount);
+//				logger.info("getAmount() {}", account.getAmount());
+//				
+				double gtAmount = Double.parseDouble(greaterThan);
+//				
+//				if (gtAmount > account.getAmount()) {
+//				
+//				logger.info("getAmount() {}", account.getAmount());
+//				logger.info("GT amount is higherthan amount in bank.");
+//				
+//				throw new AmountDoesNotExistException("Amount requested exceed the funds in the accounts.");
+//				
+//				} else {
+
+				logger.info("GT have amount.");
+
+				return accounts = this.accountDao.getAllAccountsByClientId(clId, gtAmount, Integer.MAX_VALUE);
+
+			}
+		}
+
+		// 7.
+		if (greaterThan == null && lessThan != null) {
+
+			logger.info("LT checked.");
+
+			if (lessThan.equals("")) {
+
+				logger.info("LT is blank.");
+
+				throw new InvalidParameterException("Less than amounts cannot be blank.");
+
+			// 9.
+			} else {
+
+				double ltAmount = Double.parseDouble(lessThan);
+
+				logger.info("GT have amount.");
+
+				return accounts = this.accountDao.getAllAccountsByClientId(clId, Integer.MIN_VALUE, ltAmount);
+			}
 		}
 
 		return accounts;
+
+//		// 4 + 5
+//		if (greaterThan != null && lessThan == null && !greaterThan.equals("")) {
+//
+//			logger.info("GT checked and not blank");
+//
+//			int gtAmount = Integer.parseInt(greaterThan);
+//			
+//			logger.debug("gtAmmount {}", gtAmount);
+//			
+//			return accounts = this.accountDao.getAllAccountsByClientId(clId, gtAmount, Integer.MAX_VALUE);
+//
+//		// 6 + 7
+//		} else if (greaterThan == null && lessThan != null && !lessThan.equals("")) {
+//
+//			logger.info("LT checked and not blank");
+//
+//			int ltAmount = Integer.parseInt(lessThan);
+//
+//			return accounts = this.accountDao.getAllAccountsByClientId(clId, Integer.MIN_VALUE, ltAmount);
+//		}
+
+//		return accounts;
 	}
 
 	// getAccountByAccountId
@@ -150,7 +215,6 @@ public class AccountService {
 		 *  3. wrong accountType
 		 *  4. amount is blank 
 		 *  5. amount cannot less than 0
-		
 		 */
 
 		// 1.
@@ -192,7 +256,6 @@ public class AccountService {
 		}
 
 		// 5.
-
 		logger.debug("getAmount() {}", account.getAmount());
 
 		if (account.getAmount() <= 0) {
@@ -261,7 +324,7 @@ public class AccountService {
 
 				throw new InvalidParameterException("Deposit amount cannot be blank.");
 
-				// 4.
+			// 4.
 			} else {
 
 				logger.info("Deposit is checked");
@@ -296,12 +359,10 @@ public class AccountService {
 
 					throw new OverdraftException(
 							"Unable to withdraw " + withdrawAmount + " due to not enough funds in the account.");
-
 				}
 
 				double totalAmount = account.getAmount() - amountWithdraw;
 				account.setAmount(totalAmount);
-
 			}
 
 		}

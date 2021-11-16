@@ -44,7 +44,6 @@ public class GetClientByClientIdTest {
 		 * ASSERT
 		 */
 		Client expected = new Client(1, "Jane", "Dao", "03051970");
-		
 		Assertions.assertEquals(expected, actual);
 	}
 	

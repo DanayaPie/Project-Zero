@@ -57,7 +57,7 @@ public class AccountDAO {
 	}
 
 	// getAccountsByClientId BTW VALUES
-	public List<Account> getAllAccountsByClientId(int clientId, int greaterThan, int lessThan) throws SQLException {
+	public List<Account> getAllAccountsByClientId(int clientId, double greaterThan, double lessThan) throws SQLException {
 
 		logger.info("AccountDAO.getAllAcocuntsByClientId() invoked.");
 
@@ -70,8 +70,8 @@ public class AccountDAO {
 			PreparedStatement pstmt = con.prepareStatement(sql);
 
 			pstmt.setInt(1, clientId);
-			pstmt.setInt(2, greaterThan);
-			pstmt.setInt(3, lessThan);
+			pstmt.setDouble(2, greaterThan);
+			pstmt.setDouble(3, lessThan);
 
 			ResultSet rs = pstmt.executeQuery();
 

@@ -1,7 +1,12 @@
 package com.revature.exceptions;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class InvalidParameterException extends Exception {
 
+	public List<String> message = new ArrayList<>();
+	
 	public InvalidParameterException() {
 		super();
 	}
