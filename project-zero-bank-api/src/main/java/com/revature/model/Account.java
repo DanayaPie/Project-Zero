@@ -1,13 +1,28 @@
 package com.revature.model;
 
-import java.math.BigDecimal;
-
 public class Account {
 	
 	private Integer accountId;
 	private Integer clientId;
 	private String accountType;
 	private Double amount;
+	
+	public Account() {
+		
+	}
+	
+	public Account(int clientId, String accountType, Double amount) {
+		this.clientId = clientId;
+		this.accountType = accountType;
+		this.amount = amount;
+	}
+	
+	public Account(int accountId, int clientId, String accountType, Double amount) {
+		this.accountId = accountId;
+		this.clientId = clientId;
+		this.accountType = accountType;
+		this.amount = amount;
+	}
 	
 	public Integer getAccountId() {
 		return accountId;
@@ -41,16 +56,6 @@ public class Account {
 		this.amount = amount;
 	}
 
-	public Account() {
-		
-	}
-	
-	public Account(int accountId, int clientId, String accountType, Double amount) {
-		this.accountId = accountId;
-		this.clientId = clientId;
-		this.accountType = accountType;
-		this.amount = amount;
-	}
 
 	@Override
 	public int hashCode() {

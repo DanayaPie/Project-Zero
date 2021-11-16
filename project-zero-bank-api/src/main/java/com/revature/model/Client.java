@@ -1,9 +1,5 @@
 package com.revature.model;
 
-import java.time.LocalDate;
-
-import com.fasterxml.jackson.annotation.JsonProperty;
-
 public class Client {
 
 	private int clientId;

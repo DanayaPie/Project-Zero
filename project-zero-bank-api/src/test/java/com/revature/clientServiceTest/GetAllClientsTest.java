@@ -60,6 +60,7 @@ public class GetAllClientsTest {
 	 * ********************
 	 */
 	
+	// Exception Occurs
 	@Test
 	public void testGetAllStudentsExecptionOccursNegative() throws SQLException {
 		

@@ -32,7 +32,8 @@ public class GetClientByClientIdTest {
 		/*
 		 * ARRANGE
 		 */
-		when(mockClientDao.getClientByClientId(eq(1))).thenReturn(new Client(1, "Jane", "Dao", "03051970"));
+		when(mockClientDao.getClientByClientId(eq(1)))
+		.thenReturn(new Client(1, "Jane", "Dao", "03051970"));
 
 		/*
 		 * ACT
@@ -42,7 +43,9 @@ public class GetClientByClientIdTest {
 		/*
 		 * ASSERT
 		 */
-		Assertions.assertEquals(new Client(1, "Jane", "Dao", "03051970"), actual);
+		Client expected = new Client(1, "Jane", "Dao", "03051970");
+		
+		Assertions.assertEquals(expected, actual);
 	}
 	
 	/* *******************

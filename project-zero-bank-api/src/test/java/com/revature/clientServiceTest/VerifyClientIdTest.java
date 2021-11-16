@@ -29,6 +29,7 @@ public class VerifyClientIdTest {
 	
 	/* ********************
 	 * -- NEGATIVE TESTS --
+	 * 
 	 * ********************
 	 */
 	
@@ -47,7 +48,7 @@ public class VerifyClientIdTest {
 		});
 	}
 	
-	// InvalidParameterException for alphabetical
+	// InvalidParameterException for alphabetical ID
 	@Test
 	public void testVerifyClientIdAlphabeticalIdNegative() throws SQLException {
 		
@@ -56,7 +57,7 @@ public class VerifyClientIdTest {
 		});
 	}
 	
-	// InvalidParameterException for decimal
+	// InvalidParameterException for decimal ID
 	@Test
 	public void testVerifyClientIdDecimalIdNegative() throws SQLException {
 		

@@ -6,25 +6,20 @@ import java.util.List;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.revature.dao.AccountDAO;
 import com.revature.dao.ClientDAO;
 import com.revature.exceptions.ClientNotFoundException;
 import com.revature.exceptions.InvalidParameterException;
 import com.revature.model.Client;
-
-import io.javalin.http.Context;
 
 public class ClientService {
 
 	private Logger logger = LoggerFactory.getLogger(ClientService.class);
 
 	private ClientDAO clientDao;
-	private AccountDAO accountDao;
 
 	// constructor
 	public ClientService() {
 		this.clientDao = new ClientDAO();
-		this.accountDao = new AccountDAO();
 	}
 	
 	// constructor for mock ClientDAO object
@@ -140,8 +135,11 @@ public class ClientService {
 		/*
 		 *  Possibilities
 		 *  1. change first name and last name
+		 *  	1.1 names cannot be blank
 		 *  2. change first name only
+		 *  	2.1 first name cannot be blank
 		 *  3. change last name only
+		 *  	3.1 last name cannot be blank
 		 *  4. neither boxes was checked
 		 */
 		
@@ -153,18 +151,40 @@ public class ClientService {
 			clientToEdit.setFirstName(firstName);
 			clientToEdit.setLastName(lastName);
 			
+			if (firstName.equals("") || lastName.equals("")) {
+				
+				logger.info("firstName and/or lastName are blank");
+				
+				throw new InvalidParameterException("First name and/or last name cannot be blank.");
+			}
+			
 		// 2.
 		} else if (firstName != null) {
 				
 			logger.debug("firstName update invoked.");
-								
+			
+			if (firstName.equals("")) {
+				
+				logger.info("firstName is blank");
+				
+				throw new InvalidParameterException("First name cannot be blank");
+			}
+			
 			clientToEdit.setFirstName(firstName);
 		
 		// 3.
 		} else if (lastName != null) {
 				
 			logger.info("lastName update invoked.");
+
+			
+			if (lastName.equals("")) {
 				
+				logger.info("Last Name is blank");
+				
+				throw new InvalidParameterException("Last name cannot be blank");
+			}
+			
 			clientToEdit.setLastName(lastName);
 		
 		// 4.

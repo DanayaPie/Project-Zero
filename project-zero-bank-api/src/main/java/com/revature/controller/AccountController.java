@@ -39,7 +39,7 @@ public class AccountController {
 		
 	}
 	
-	/* *********
+	/*-- *********
 	 * -- GET --
 	 * *********
 	 */
@@ -52,8 +52,11 @@ public class AccountController {
 		String clientId = ctx.pathParam("clientId");
 		
 		this.clientService.verifyClientId(clientId);
+				
+		String greaterThan = ctx.queryParam("greaterThan");
+		String lessThan = ctx.queryParam("lessThan");
 		
-		List<Account> accounts = this.accountService.getAllAccountsByClientId(clientId);
+		List<Account> accounts = this.accountService.getAllAccountsByClientId(clientId, greaterThan, lessThan);
 		
 		ctx.json(accounts);
 	};
@@ -66,6 +69,7 @@ public class AccountController {
 		String clientId = ctx.pathParam("clientId");
 		String accountId = ctx.pathParam("accountId");
 		
+		this.clientService.verifyClientId(clientId);
 		this.accountService.verifyClientIdAccountId(clientId, accountId);
 		
 		Account account = this.accountService.getAccountByAccountId(clientId, accountId);
@@ -75,7 +79,7 @@ public class AccountController {
 	};
 	
 	
-	/* **********
+	/*- **********
 	 * -- POST --
 	 * **********
 	 */
@@ -97,7 +101,7 @@ public class AccountController {
 	};
 	
 	
-	/* *********
+	/*- *********
 	 * -- PUT --
 	 * *********
 	 */
@@ -109,17 +113,18 @@ public class AccountController {
 		String clientId = ctx.pathParam("clientId");
 		String accountId = ctx.pathParam("accountId");
 		
+		this.clientService.verifyClientId(clientId);
 		this.accountService.verifyClientIdAccountId(clientId, accountId);
 		
-		String deposit = ctx.queryParam("deposit");
-		String withdraw = ctx.queryParam("withdraw");
+		String deposit = ctx.queryParam("depositAmount");
+		String withdraw = ctx.queryParam("withdrawAmount");
 		
 		Account a = this.accountService.updateAmount(clientId, accountId, deposit, withdraw);
 		
 		ctx.json(a);
 	};
 	
-	/* ************
+	/*- ************
 	 * -- DELETE --
 	 * ************
 	 */
@@ -134,11 +139,8 @@ public class AccountController {
 		
 		logger.debug("clientId + accountId {}", clientId, accountId);
 		this.accountService.verifyClientIdAccountId(clientId, accountId);
-		
 		this.accountService.deleteAccountByAccountId(clientId, accountId);
 		
 		ctx.json("Account with ID of " + accountId + " belonging to client with ID of " + clientId + " has been deleted.");
 	};	
-		
-
 }

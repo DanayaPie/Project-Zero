@@ -54,6 +54,18 @@ public class AddClientTest {
 	 * ********************
 	 */
 	
+	// Exception Occur
+	@Test
+	public void testAddClientExceptionOccursNegative() throws SQLException {
+		
+		Client client = new Client("Jane", "Doe", "05162000");
+		when(mockClientDao.addClient(eq(client))).thenThrow(SQLException.class);
+		
+		Assertions.assertThrows(SQLException.class, () -> {
+			mockClientService.addClient(client);
+		});
+	}
+	
 	// firstName blank but everthing else valid
 	@Test
 	public void testAddClientFirstNameBlankEverythingElseValidNegative() throws SQLException, InvalidParameterException {		
