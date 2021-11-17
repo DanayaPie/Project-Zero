@@ -30,11 +30,11 @@ CREATE TABLE accounts (
 -- Insering rows
 INSERT INTO accounts (client_id, account_type, amount)
 VALUES
-(1, 'checking', 2000),
+(1, 'checking', 5000),
 (2, 'checking', 6000),
-(2, 'saving', 80000),
-(3, 'checking', 7000),
-(3, 'saving', 75000)
+(2, 'saving', 7000),
+(3, 'checking', 8000),
+(3, 'saving', 9000)
 
 -- Inserting new rows
 INSERT INTO accounts (client_id, account_type, amount)
@@ -59,7 +59,7 @@ FROM accounts;
 -- Querying by account id
 SELECT *
 FROM accounts
-WHERE account_id = 4;
+WHERE account_id = 1;
 
 -- Querying by client id
 SELECT *

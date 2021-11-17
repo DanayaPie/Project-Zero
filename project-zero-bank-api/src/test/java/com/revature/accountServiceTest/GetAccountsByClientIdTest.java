@@ -8,6 +8,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
+import org.eclipse.jetty.util.thread.strategy.ExecuteProduceConsume;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
@@ -30,17 +31,19 @@ public class GetAccountsByClientIdTest {
 	 * ********************
 	 */
 
+	// get all accounts by cliend Id
 	@Test
-	public void testGetAllAccountsByClientIdPositive() throws SQLException, InvalidParameterException, AmountDoesNotExistException {
+	public void testGetAllAccountsByClientIdOnlyPositive()
+			throws SQLException, InvalidParameterException, AmountDoesNotExistException {
 
 		/*-
 		 * ARRANGE
 		 */
-		List<Account> accountList = new ArrayList<Account>();
+		List<Account> accountList = new ArrayList<>();
 		accountList.add(new Account(1, 1, "checking", 5000.00));
-		accountList.add(new Account(2, 1, "saving", 5001.00));
-		accountList.add(new Account(3, 1, "saving", 5050.00));
-		accountList.add(new Account(4, 1, "saving", 6000.00));
+		accountList.add(new Account(2, 1, "saving", 6000.00));
+		accountList.add(new Account(3, 1, "saving", 7000.00));
+		accountList.add(new Account(4, 1, "saving", 8000.00));
 
 		when(mockAccountDao.getAllAccountsByClientId(eq(1))).thenReturn(accountList);
 
@@ -50,6 +53,69 @@ public class GetAccountsByClientIdTest {
 		 * ASSERT
 		 */
 		Assertions.assertEquals(accountList, actual);
+	}
+
+	// get account between greaterThan and lessThan
+	@Test
+	public void testGetAllAccountsByClientIdBetweenGreaterThanLessThanPositive()
+			throws SQLException, InvalidParameterException, AmountDoesNotExistException {
+
+		List<Account> accountList = new ArrayList<>();
+		accountList.add(new Account(1, 1, "checking", 5000.00));
+		accountList.add(new Account(2, 1, "saving", 6000.00));
+
+		when(mockAccountDao.getAllAccountsByClientId(eq(1), eq(4000.0), eq(6500.0))).thenReturn(accountList);
+
+		List<Account> actualList = mockAccountService.getAllAccountsByClientId("1", "4000", "6500");
+		
+		List<Account> expectedList = new ArrayList<>();
+		expectedList.add(new Account(1, 1, "checking", 5000.00));
+		expectedList.add(new Account(2, 1, "saving", 6000.00));
+		
+		Assertions.assertEquals(expectedList, actualList);
+
+	}
+	
+	// get account greater than only
+	@Test
+	public void testGetAllAccountsByClientIdGreaterThanOnlyPositive()
+			throws SQLException, InvalidParameterException, AmountDoesNotExistException {
+
+		List<Account> accountList = new ArrayList<>();
+		accountList.add(new Account(1, 1, "checking", 5000.00));
+		accountList.add(new Account(2, 1, "saving", 6000.00));
+
+		when(mockAccountDao.getAllAccountsByClientId(eq(1), eq(4000.0), eq(Integer.MAX_VALUE))).thenReturn(accountList);
+
+		List<Account> actualList = mockAccountService.getAllAccountsByClientId("1", "4000", null);
+		
+		List<Account> expectedList = new ArrayList<>();
+		expectedList.add(new Account(1, 1, "checking", 5000.00));
+		expectedList.add(new Account(2, 1, "saving", 6000.00));
+		
+		Assertions.assertEquals(expectedList, actualList);
+
+	}
+	
+	// get account less than only
+	@Test
+	public void testGetAllAccountsByClientIdLessThanOnlyPositive()
+			throws SQLException, InvalidParameterException, AmountDoesNotExistException {
+
+		List<Account> accountList = new ArrayList<>();
+		accountList.add(new Account(1, 1, "checking", 5000.00));
+		accountList.add(new Account(2, 1, "saving", 6000.00));
+
+		when(mockAccountDao.getAllAccountsByClientId(eq(1), eq(Integer.MIN_VALUE), eq(6500.0))).thenReturn(accountList);
+
+		List<Account> actualList = mockAccountService.getAllAccountsByClientId("1", null, "6500");
+		
+		List<Account> expectedList = new ArrayList<>();
+		expectedList.add(new Account(1, 1, "checking", 5000.00));
+		expectedList.add(new Account(2, 1, "saving", 6000.00));
+		
+		Assertions.assertEquals(expectedList, actualList);
+
 	}
 
 	/*- ********************
@@ -78,7 +144,7 @@ public class GetAccountsByClientIdTest {
 			mockAccountService.getAllAccountsByClientId("96", "", null);
 		});
 	}
-	
+
 	// withdrawAmount is checked but blank
 	@Test
 	public void testGetAllAccountsByClientIdWithdrawAmountBlankNegative() throws SQLException {
@@ -89,7 +155,7 @@ public class GetAccountsByClientIdTest {
 			mockAccountService.getAllAccountsByClientId("96", null, "");
 		});
 	}
-	
+
 	// both depositAmount and withdrawAmount are checked but blank
 	@Test
 	public void testGetAllAccountsByClientIdDepositAndWithdrawAmountBlankNegative() throws SQLException {

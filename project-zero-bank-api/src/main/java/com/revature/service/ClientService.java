@@ -21,20 +21,20 @@ public class ClientService {
 	public ClientService() {
 		this.clientDao = new ClientDAO();
 	}
-	
+
 	// constructor for mock ClientDAO object
 	public ClientService(ClientDAO clientDao) {
 		this.clientDao = clientDao;
 	}
-	
-	/* *********
+
+	/*- *********
 	 * -- GET --
 	 * *********
 	 */
-	
+
 	// getAllClients
 	public List<Client> getAllClients() throws SQLException {
-		
+
 		logger.info("ClientService.getAllClients() invoked.");
 
 		List<Client> clients = this.clientDao.getAllClients();
@@ -43,30 +43,28 @@ public class ClientService {
 	}
 
 	// getClientByClientId
-	public Client getClientByClientId(String clientId) 
-			throws SQLException {
+	public Client getClientByClientId(String clientId) throws SQLException {
 
 		logger.info("getClientById() invoked");
 
 		int id = Integer.parseInt(clientId);
 
 		Client c = this.clientDao.getClientByClientId(id);
-		
+
 		return c;
 	}
 
-	
-	/* **********
+	/*- **********
 	 * -- POST --
 	 * **********
 	 */
-	
+
 	// addClient
 	public Client addClient(Client client) throws SQLException, InvalidParameterException {
 
 		logger.info("addClient() invoked");
-		
-		/*
+
+		/*-
 		 *  Possibilities 
 		 *  	-> Client contain firstName, lastName, birthdate
 		 *  1. firstName and/or lastName are blank
@@ -76,9 +74,9 @@ public class ClientService {
 
 		// 1.
 		if (client.getFirstName().trim().equals("") || client.getLastName().trim().equals("")) {
-			
+
 			logger.info("firstName and/or lastName are blank");
-			
+
 			throw new InvalidParameterException("First name and/or last name cannot be blank.");
 		}
 
@@ -87,52 +85,50 @@ public class ClientService {
 
 		// 2.
 		String birthdate = client.getBirthdate();
-		
-		try {
-			
-			logger.info("parse birthdate to int.");
-			
-			Integer.parseInt(birthdate);
-			
-		} catch (NumberFormatException e) {
-			throw new InvalidParameterException("Birthdate cannot contaiin any characters or symbols. It MUST contain 8 numbers only and in MMDDYYYY format.");
-		}
-		
-		// 3. 
-		if (birthdate.length() != 8) {
-			
-			logger.info("birthdate is not 8 characters ");
-			
-			throw new InvalidParameterException("Invalid birthdate. Birthdate MUST contain 8 numbers only and in MMDDYYYY format.");
-		}
-		
 
+		try {
+
+			logger.info("parse birthdate to int.");
+
+			Integer.parseInt(birthdate);
+
+		} catch (NumberFormatException e) {
+			throw new InvalidParameterException(
+					"Birthdate cannot contain any characters or symbols. It MUST contain 8 numbers only and in MMDDYYYY format.");
+		}
+
+		// 3.
+		if (birthdate.length() != 8) {
+
+			logger.info("birthdate is not 8 characters ");
+
+			throw new InvalidParameterException(
+					"Invalid birthdate. Birthdate MUST contain 8 numbers only and in MMDDYYYY format.");
+		}
 
 		Client insertedClient = this.clientDao.addClient(client);
 		return insertedClient;
 	}
 
-	
-	/* *********
+	/*- *********
 	 * -- PUT --
 	 * *********
 	 */
-	
+
 	// updateClient
-	public Client updateClient(String clientId,String firstName,String lastName)
+	public Client updateClient(String clientId, String firstName, String lastName)
 			throws SQLException, InvalidParameterException {
-		
+
 		logger.info("updateClient() invoked");
-		
+
 		int id = Integer.parseInt(clientId);
 
-		logger.debug("ClientId {}", id); 
-		
+		logger.debug("ClientId {}", id);
+
 		Client clientToEdit = this.clientDao.getClientByClientId(id);
 		logger.debug("ClientId {}", id);
-			
-		
-		/*
+
+		/*-
 		 *  Possibilities
 		 *  1. change first name and last name
 		 *  	1.1 names cannot be blank
@@ -142,56 +138,55 @@ public class ClientService {
 		 *  	3.1 last name cannot be blank
 		 *  4. neither boxes was checked
 		 */
-		
+
 		// 1.
 		if (firstName != null && lastName != null) {
-				
+
 			logger.info("firstName and lastName update invoked.");
-				
+
 			clientToEdit.setFirstName(firstName);
 			clientToEdit.setLastName(lastName);
-			
+
 			if (firstName.equals("") || lastName.equals("")) {
-				
+
 				logger.info("firstName and/or lastName are blank");
-				
+
 				throw new InvalidParameterException("First name and/or last name cannot be blank.");
 			}
-			
-		// 2.
+
+			// 2.
 		} else if (firstName != null) {
-				
+
 			logger.debug("firstName update invoked.");
-			
+
 			if (firstName.equals("")) {
-				
+
 				logger.info("firstName is blank");
-				
+
 				throw new InvalidParameterException("First name cannot be blank");
 			}
-			
+
 			clientToEdit.setFirstName(firstName);
-		
-		// 3.
+
+			// 3.
 		} else if (lastName != null) {
-				
+
 			logger.info("lastName update invoked.");
 
-			
 			if (lastName.equals("")) {
-				
+
 				logger.info("Last Name is blank");
-				
+
 				throw new InvalidParameterException("Last name cannot be blank");
 			}
-			
+
 			clientToEdit.setLastName(lastName);
-		
-		// 4.
+
+			// 4.
 		} else {
-			
+
 			logger.info("no firstName nor lastName boxes was checked.");
-			
+
 			throw new InvalidParameterException("Neither of the firstName nor lastName boxes was checked.");
 		}
 
@@ -199,7 +194,7 @@ public class ClientService {
 
 		return clientToEdit;
 	}
-	
+
 //	// updateClient -- with Context ctx
 //	public Client updateClient(String clientId, Context ctx) 
 //			throws SQLException, ClientNotFoundException, InvalidParameterException {
@@ -214,7 +209,7 @@ public class ClientService {
 //		logger.debug("ClientId {}", id);
 //			
 //		
-//		/*
+//		/*-
 //		 *  Possibilities
 //		 *  1. change first name and last name
 //		 *  2. change first name only
@@ -255,7 +250,7 @@ public class ClientService {
 //
 //		return clientToEdit;
 //	}
-	
+
 //	// upDateClient
 //	public Client updateClient(Context ctx) throws SQLException, ClientNotFoundException, InvalidParameterException {
 //		
@@ -268,24 +263,23 @@ public class ClientService {
 //
 //		return clientToEdit;
 //	}
-		
 
-	/* ************
+	/*- ************
 	 * -- DELETE --
 	 * ************
 	 */
-	
+
 	// deleteClientByClientId
-	public void deleteClientByClientId(String clientId) 
+	public void deleteClientByClientId(String clientId)
 			throws SQLException, ClientNotFoundException, InvalidParameterException {
-		
+
 		logger.info("deleteStudentById() invoked");
-		
+
 		int id = Integer.parseInt(clientId);
-			
+
 		this.clientDao.deleteClientByClientId(id);
 	}
-	
+
 //	// deleteClientByClientId
 //	public void deleteClientByClientId(String clientId) 
 //			throws SQLException, ClientNotFoundException, InvalidParameterException {
@@ -307,46 +301,47 @@ public class ClientService {
 //			throw new InvalidParameterException("ID provided is not an int convertable value");
 //		}
 //	}
-	
-	/*
-	 *  verifyClientId
+
+	/*-**********************
+	 * -- VERIFY CLIENT ID --
+	 * **********************
 	 */
-	
-	public void verifyClientId (String clientId) 
+
+	public void verifyClientId(String clientId)
 			throws SQLException, ClientNotFoundException, InvalidParameterException {
-		
+
 		logger.info("AccountService.verifyClientIdAccountId() invoked.");
-		
+
 		try {
-			
+
 			int clId = Integer.parseInt(clientId);
 
 			Client client = this.clientDao.getClientByClientId(clId);
-			
-			/*
+
+			/*-
 			 * Possibilities
 			 *   1. client does not exist
 			 *   2. client exist
 			 */
-			
+
 			// 1.
 			if (client == null) {
-				
+
 				logger.info("client is null");
-				
+
 				throw new ClientNotFoundException("Client with ID of " + clientId + " was not found.");
-			
-			// 2.
+
+				// 2.
 			} else {
-				
-				logger.info("both client is not null");
-								
+
+				logger.info("client is not null");
+
 			}
-			
+
 		} catch (NumberFormatException e) {
-			
+
 			logger.info("Client ID provided is not an int convertable value.");
-			
+
 			throw new InvalidParameterException("Client ID provided is not an int convertable value.");
 		}
 	}

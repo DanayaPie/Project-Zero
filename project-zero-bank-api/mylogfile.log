@@ -19035,3 +19035,3132 @@ java.lang.NullPointerException: null
 				com.revature.service.AccountService - GT and LT are are checked.
 16 Nov 2021 - 12:07:43.956 [main] INFO 
 				com.revature.service.AccountService - GT and LT are blanks.
+16 Nov 2021 - 19:49:20.002 [main] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 19:49:20.004 [main] INFO 
+				com.revature.service.AccountService - Client Id 96 Account Id abc
+16 Nov 2021 - 19:49:20.016 [main] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 19:49:20.016 [main] INFO 
+				com.revature.service.AccountService - Client Id 96 Account Id 96
+16 Nov 2021 - 19:49:20.016 [main] INFO 
+				com.revature.service.AccountService - clId 96 alId 96
+16 Nov 2021 - 19:49:20.016 [main] INFO 
+				com.revature.service.AccountService - clientDao Mock for ClientDAO, hashCode: 1075803699 alId {}
+16 Nov 2021 - 19:49:20.017 [main] INFO 
+				com.revature.service.AccountService - Client null
+16 Nov 2021 - 19:49:20.017 [main] INFO 
+				com.revature.service.AccountService - client exist and account exist
+16 Nov 2021 - 19:49:20.020 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAccountByAccountId() invoked.
+16 Nov 2021 - 19:49:20.020 [main] INFO 
+				com.revature.service.AccountService - clientId : 96
+16 Nov 2021 - 19:49:20.026 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAccountByAccountId() invoked.
+16 Nov 2021 - 19:49:20.026 [main] INFO 
+				com.revature.service.AccountService - clientId : 96
+16 Nov 2021 - 19:49:44.359 [main] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 19:49:44.362 [main] INFO 
+				com.revature.service.AccountService - Client Id 96 Account Id abc
+16 Nov 2021 - 19:49:44.376 [main] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 19:49:44.376 [main] INFO 
+				com.revature.service.AccountService - Client Id 96 Account Id 96
+16 Nov 2021 - 19:49:44.376 [main] INFO 
+				com.revature.service.AccountService - clId 96 alId 96
+16 Nov 2021 - 19:49:44.376 [main] INFO 
+				com.revature.service.AccountService - clientDao Mock for ClientDAO, hashCode: 209429254 alId {}
+16 Nov 2021 - 19:49:44.388 [main] INFO 
+				com.revature.service.AccountService - Client null
+16 Nov 2021 - 19:49:44.388 [main] INFO 
+				com.revature.service.AccountService - client exist and account exist
+16 Nov 2021 - 19:49:44.396 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAccountByAccountId() invoked.
+16 Nov 2021 - 19:49:44.396 [main] INFO 
+				com.revature.service.AccountService - clientId : 96
+16 Nov 2021 - 19:49:44.403 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAccountByAccountId() invoked.
+16 Nov 2021 - 19:49:44.403 [main] INFO 
+				com.revature.service.AccountService - clientId : 96
+16 Nov 2021 - 19:50:25.809 [main] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 19:50:25.812 [main] INFO 
+				com.revature.service.AccountService - Client Id 96 Account Id abc
+16 Nov 2021 - 19:50:25.821 [main] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 19:50:25.821 [main] INFO 
+				com.revature.service.AccountService - Client Id 96 Account Id 96
+16 Nov 2021 - 19:50:25.821 [main] INFO 
+				com.revature.service.AccountService - clId 96 alId 96
+16 Nov 2021 - 19:50:25.821 [main] INFO 
+				com.revature.service.AccountService - clientDao Mock for ClientDAO, hashCode: 519979933 alId {}
+16 Nov 2021 - 19:50:25.831 [main] INFO 
+				com.revature.service.AccountService - Client null
+16 Nov 2021 - 19:50:25.831 [main] INFO 
+				com.revature.service.AccountService - client exist and account exist
+16 Nov 2021 - 19:50:25.842 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAccountByAccountId() invoked.
+16 Nov 2021 - 19:50:25.842 [main] INFO 
+				com.revature.service.AccountService - clientId : 96
+16 Nov 2021 - 19:50:25.848 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAccountByAccountId() invoked.
+16 Nov 2021 - 19:50:25.848 [main] INFO 
+				com.revature.service.AccountService - clientId : 96
+16 Nov 2021 - 19:52:24.898 [main] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 19:52:24.900 [main] INFO 
+				com.revature.service.AccountService - Client Id 96 Account Id abc
+16 Nov 2021 - 19:52:24.926 [main] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 19:52:24.926 [main] INFO 
+				com.revature.service.AccountService - Client Id 96 Account Id 96
+16 Nov 2021 - 19:52:24.926 [main] INFO 
+				com.revature.service.AccountService - clId 96 alId 96
+16 Nov 2021 - 19:52:24.926 [main] INFO 
+				com.revature.service.AccountService - clientDao Mock for ClientDAO, hashCode: 864852424 alId {}
+16 Nov 2021 - 19:52:24.930 [main] INFO 
+				com.revature.service.AccountService - Client Client [clientId=96, firstName=First Name, lastName=Last, birthdate=12345678]
+16 Nov 2021 - 19:52:24.930 [main] INFO 
+				com.revature.service.AccountService - client exist, but no account with the account ID.
+16 Nov 2021 - 19:52:24.933 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAccountByAccountId() invoked.
+16 Nov 2021 - 19:52:24.933 [main] INFO 
+				com.revature.service.AccountService - clientId : 96
+16 Nov 2021 - 19:52:24.938 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAccountByAccountId() invoked.
+16 Nov 2021 - 19:52:24.939 [main] INFO 
+				com.revature.service.AccountService - clientId : 96
+16 Nov 2021 - 19:53:44.637 [main] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 19:53:44.639 [main] INFO 
+				com.revature.service.AccountService - Client Id 96 Account Id abc
+16 Nov 2021 - 19:53:44.661 [main] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 19:53:44.661 [main] INFO 
+				com.revature.service.AccountService - Client Id 96 Account Id 96
+16 Nov 2021 - 19:53:44.661 [main] INFO 
+				com.revature.service.AccountService - clId 96 alId 96
+16 Nov 2021 - 19:53:44.662 [main] INFO 
+				com.revature.service.AccountService - clientDao Mock for ClientDAO, hashCode: 37887172 alId {}
+16 Nov 2021 - 19:53:44.665 [main] INFO 
+				com.revature.service.AccountService - Client Client [clientId=96, firstName=First Name, lastName=Last, birthdate=12345678]
+16 Nov 2021 - 19:53:44.665 [main] INFO 
+				com.revature.service.AccountService - client exist, but no account with the account ID.
+16 Nov 2021 - 19:53:44.668 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAccountByAccountId() invoked.
+16 Nov 2021 - 19:53:44.668 [main] INFO 
+				com.revature.service.AccountService - clientId : 96
+16 Nov 2021 - 19:53:44.672 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAccountByAccountId() invoked.
+16 Nov 2021 - 19:53:44.672 [main] INFO 
+				com.revature.service.AccountService - clientId : 96
+16 Nov 2021 - 19:59:04.777 [main] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 19:59:04.779 [main] INFO 
+				com.revature.service.AccountService - Client Id 96 Account Id abc
+16 Nov 2021 - 19:59:04.805 [main] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 19:59:04.805 [main] INFO 
+				com.revature.service.AccountService - Client Id 96 Account Id 96
+16 Nov 2021 - 19:59:04.806 [main] INFO 
+				com.revature.service.AccountService - clId 96 alId 96
+16 Nov 2021 - 19:59:04.806 [main] INFO 
+				com.revature.service.AccountService - clientDao Mock for ClientDAO, hashCode: 864852424 alId {}
+16 Nov 2021 - 19:59:04.809 [main] INFO 
+				com.revature.service.AccountService - Client Client [clientId=96, firstName=First Name, lastName=Last, birthdate=12345678]
+16 Nov 2021 - 19:59:04.809 [main] INFO 
+				com.revature.service.AccountService - client exist, but no account with the account ID.
+16 Nov 2021 - 19:59:04.811 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAccountByAccountId() invoked.
+16 Nov 2021 - 19:59:04.811 [main] INFO 
+				com.revature.service.AccountService - clientId : 96
+16 Nov 2021 - 19:59:04.817 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAccountByAccountId() invoked.
+16 Nov 2021 - 19:59:04.817 [main] INFO 
+				com.revature.service.AccountService - clientId : 96
+16 Nov 2021 - 20:12:36.972 [main] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 20:12:36.974 [main] INFO 
+				com.revature.service.AccountService - Client Id 96 Account Id abc
+16 Nov 2021 - 20:12:36.996 [main] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 20:12:36.996 [main] INFO 
+				com.revature.service.AccountService - Client Id 96 Account Id 96
+16 Nov 2021 - 20:12:36.996 [main] INFO 
+				com.revature.service.AccountService - clId 96 alId 96
+16 Nov 2021 - 20:12:36.996 [main] INFO 
+				com.revature.service.AccountService - clientDao Mock for ClientDAO, hashCode: 864852424 alId {}
+16 Nov 2021 - 20:12:36.999 [main] INFO 
+				com.revature.service.AccountService - Client Client [clientId=96, firstName=First Name, lastName=Last, birthdate=12345678]
+16 Nov 2021 - 20:12:36.999 [main] INFO 
+				com.revature.service.AccountService - client exist, but no account with the account ID.
+16 Nov 2021 - 20:12:37.001 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAccountByAccountId() invoked.
+16 Nov 2021 - 20:12:37.002 [main] INFO 
+				com.revature.service.AccountService - clientId : 96
+16 Nov 2021 - 20:12:37.005 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAccountByAccountId() invoked.
+16 Nov 2021 - 20:12:37.006 [main] INFO 
+				com.revature.service.AccountService - clientId : 96
+16 Nov 2021 - 20:12:55.531 [main] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 20:12:55.533 [main] INFO 
+				com.revature.service.AccountService - Client Id 96 Account Id abc
+16 Nov 2021 - 20:12:55.553 [main] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 20:12:55.553 [main] INFO 
+				com.revature.service.AccountService - Client Id 96 Account Id 96
+16 Nov 2021 - 20:12:55.553 [main] INFO 
+				com.revature.service.AccountService - clId 96 alId 96
+16 Nov 2021 - 20:12:55.554 [main] INFO 
+				com.revature.service.AccountService - clientDao Mock for ClientDAO, hashCode: 864852424 alId {}
+16 Nov 2021 - 20:12:55.554 [main] INFO 
+				com.revature.service.AccountService - Client null
+16 Nov 2021 - 20:12:55.555 [main] INFO 
+				com.revature.service.AccountService - client exist and account exist
+16 Nov 2021 - 20:12:55.560 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAccountByAccountId() invoked.
+16 Nov 2021 - 20:12:55.560 [main] INFO 
+				com.revature.service.AccountService - clientId : 96
+16 Nov 2021 - 20:12:55.566 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAccountByAccountId() invoked.
+16 Nov 2021 - 20:12:55.566 [main] INFO 
+				com.revature.service.AccountService - clientId : 96
+16 Nov 2021 - 20:14:13.693 [main] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 20:14:13.695 [main] INFO 
+				com.revature.service.AccountService - Client Id 96 Account Id abc
+16 Nov 2021 - 20:14:13.718 [main] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 20:14:13.718 [main] INFO 
+				com.revature.service.AccountService - Client Id 96 Account Id 96
+16 Nov 2021 - 20:14:13.718 [main] INFO 
+				com.revature.service.AccountService - clId 96 alId 96
+16 Nov 2021 - 20:14:13.718 [main] INFO 
+				com.revature.service.AccountService - clientDao Mock for ClientDAO, hashCode: 37887172 alId {}
+16 Nov 2021 - 20:14:13.721 [main] INFO 
+				com.revature.service.AccountService - Client Client [clientId=96, firstName=Jane, lastName=Doe, birthdate=12345678]
+16 Nov 2021 - 20:14:13.721 [main] INFO 
+				com.revature.service.AccountService - client exist, but no account with the account ID.
+16 Nov 2021 - 20:14:13.723 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAccountByAccountId() invoked.
+16 Nov 2021 - 20:14:13.723 [main] INFO 
+				com.revature.service.AccountService - clientId : 96
+16 Nov 2021 - 20:14:13.728 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAccountByAccountId() invoked.
+16 Nov 2021 - 20:14:13.728 [main] INFO 
+				com.revature.service.AccountService - clientId : 96
+16 Nov 2021 - 20:14:27.392 [main] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 20:14:27.403 [main] INFO 
+				com.revature.service.ClientService - client is null
+16 Nov 2021 - 20:14:27.412 [main] INFO 
+				com.revature.service.ClientService - getClientById() invoked
+16 Nov 2021 - 20:14:27.419 [main] INFO 
+				com.revature.service.ClientService - getClientById() invoked
+16 Nov 2021 - 20:14:27.422 [main] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 20:14:27.422 [main] INFO 
+				com.revature.service.ClientService - Client ID provided is not an int convertable value.
+16 Nov 2021 - 20:14:27.424 [main] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 20:14:27.424 [main] INFO 
+				com.revature.service.ClientService - Client ID provided is not an int convertable value.
+16 Nov 2021 - 20:16:53.226 [main] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 20:16:53.228 [main] INFO 
+				com.revature.service.AccountService - Client Id 96 Account Id abc
+16 Nov 2021 - 20:16:53.250 [main] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 20:16:53.250 [main] INFO 
+				com.revature.service.AccountService - Client Id 96 Account Id 96
+16 Nov 2021 - 20:16:53.250 [main] INFO 
+				com.revature.service.AccountService - clId 96 alId 96
+16 Nov 2021 - 20:16:53.250 [main] INFO 
+				com.revature.service.AccountService - clientDao Mock for ClientDAO, hashCode: 864852424 alId {}
+16 Nov 2021 - 20:16:53.253 [main] INFO 
+				com.revature.service.AccountService - Client Client [clientId=96, firstName=Jane, lastName=Doe, birthdate=12345678]
+16 Nov 2021 - 20:16:53.253 [main] INFO 
+				com.revature.service.AccountService - client exist, but no account with the account ID.
+16 Nov 2021 - 20:16:53.255 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAccountByAccountId() invoked.
+16 Nov 2021 - 20:16:53.255 [main] INFO 
+				com.revature.service.AccountService - clientId : 96
+16 Nov 2021 - 20:16:53.259 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAccountByAccountId() invoked.
+16 Nov 2021 - 20:16:53.260 [main] INFO 
+				com.revature.service.AccountService - clientId : 96
+16 Nov 2021 - 20:16:58.196 [main] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 20:16:58.199 [main] INFO 
+				com.revature.service.AccountService - Client Id 96 Account Id abc
+16 Nov 2021 - 20:16:58.220 [main] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 20:16:58.220 [main] INFO 
+				com.revature.service.AccountService - Client Id 96 Account Id 96
+16 Nov 2021 - 20:16:58.220 [main] INFO 
+				com.revature.service.AccountService - clId 96 alId 96
+16 Nov 2021 - 20:16:58.221 [main] INFO 
+				com.revature.service.AccountService - clientDao Mock for ClientDAO, hashCode: 864852424 alId {}
+16 Nov 2021 - 20:16:58.224 [main] INFO 
+				com.revature.service.AccountService - Client Client [clientId=96, firstName=Jane, lastName=Doe, birthdate=12345678]
+16 Nov 2021 - 20:16:58.224 [main] INFO 
+				com.revature.service.AccountService - client exist, but no account with the account ID.
+16 Nov 2021 - 20:16:58.226 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAccountByAccountId() invoked.
+16 Nov 2021 - 20:16:58.226 [main] INFO 
+				com.revature.service.AccountService - clientId : 96
+16 Nov 2021 - 20:16:58.230 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAccountByAccountId() invoked.
+16 Nov 2021 - 20:16:58.230 [main] INFO 
+				com.revature.service.AccountService - clientId : 96
+16 Nov 2021 - 20:18:18.033 [main] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 20:18:18.035 [main] INFO 
+				com.revature.service.AccountService - Client Id 96 Account Id abc
+16 Nov 2021 - 20:18:18.057 [main] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 20:18:18.057 [main] INFO 
+				com.revature.service.AccountService - Client Id 96 Account Id 96
+16 Nov 2021 - 20:18:18.057 [main] INFO 
+				com.revature.service.AccountService - clId 96 alId 96
+16 Nov 2021 - 20:18:18.057 [main] INFO 
+				com.revature.service.AccountService - clientDao Mock for ClientDAO, hashCode: 565839681 alId {}
+16 Nov 2021 - 20:18:18.060 [main] INFO 
+				com.revature.service.AccountService - Client Client [clientId=96, firstName=Jane, lastName=Doe, birthdate=12345678]
+16 Nov 2021 - 20:18:18.060 [main] INFO 
+				com.revature.service.AccountService - client exist, but no account with the account ID.
+16 Nov 2021 - 20:18:18.062 [main] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 20:18:18.062 [main] INFO 
+				com.revature.service.AccountService - Client Id 96 Account Id 0.1
+16 Nov 2021 - 20:18:18.064 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAccountByAccountId() invoked.
+16 Nov 2021 - 20:18:18.064 [main] INFO 
+				com.revature.service.AccountService - clientId : 96
+16 Nov 2021 - 20:18:18.068 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAccountByAccountId() invoked.
+16 Nov 2021 - 20:18:18.068 [main] INFO 
+				com.revature.service.AccountService - clientId : 96
+16 Nov 2021 - 20:18:28.752 [main] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 20:18:28.754 [main] INFO 
+				com.revature.service.AccountService - Client Id 96 Account Id abc
+16 Nov 2021 - 20:18:28.776 [main] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 20:18:28.776 [main] INFO 
+				com.revature.service.AccountService - Client Id 96 Account Id 96
+16 Nov 2021 - 20:18:28.776 [main] INFO 
+				com.revature.service.AccountService - clId 96 alId 96
+16 Nov 2021 - 20:18:28.776 [main] INFO 
+				com.revature.service.AccountService - clientDao Mock for ClientDAO, hashCode: 818493590 alId {}
+16 Nov 2021 - 20:18:28.779 [main] INFO 
+				com.revature.service.AccountService - Client Client [clientId=96, firstName=Jane, lastName=Doe, birthdate=12345678]
+16 Nov 2021 - 20:18:28.779 [main] INFO 
+				com.revature.service.AccountService - client exist, but no account with the account ID.
+16 Nov 2021 - 20:18:28.781 [main] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 20:18:28.781 [main] INFO 
+				com.revature.service.AccountService - Client Id 96 Account Id 9.6
+16 Nov 2021 - 20:18:28.783 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAccountByAccountId() invoked.
+16 Nov 2021 - 20:18:28.783 [main] INFO 
+				com.revature.service.AccountService - clientId : 96
+16 Nov 2021 - 20:18:28.787 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAccountByAccountId() invoked.
+16 Nov 2021 - 20:18:28.787 [main] INFO 
+				com.revature.service.AccountService - clientId : 96
+16 Nov 2021 - 20:21:07.986 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:21:07.988 [main] INFO 
+				com.revature.service.AccountService - GT and LT are not checked.
+16 Nov 2021 - 20:21:08.003 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:21:08.003 [main] INFO 
+				com.revature.service.AccountService - LT checked.
+16 Nov 2021 - 20:21:08.003 [main] INFO 
+				com.revature.service.AccountService - LT is blank.
+16 Nov 2021 - 20:21:08.005 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:21:08.005 [main] INFO 
+				com.revature.service.AccountService - GT checked.
+16 Nov 2021 - 20:21:08.005 [main] INFO 
+				com.revature.service.AccountService - GT is blank.
+16 Nov 2021 - 20:21:08.008 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:21:08.008 [main] INFO 
+				com.revature.service.AccountService - GT and LT are not checked.
+16 Nov 2021 - 20:21:08.010 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:21:08.010 [main] INFO 
+				com.revature.service.AccountService - GT and LT are are checked.
+16 Nov 2021 - 20:21:08.010 [main] INFO 
+				com.revature.service.AccountService - GT and LT are blanks.
+16 Nov 2021 - 20:28:44.493 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:28:44.495 [main] INFO 
+				com.revature.service.AccountService - GT and LT are are checked.
+16 Nov 2021 - 20:28:44.495 [main] INFO 
+				com.revature.service.AccountService - GT and LT have amounts.
+16 Nov 2021 - 20:28:44.515 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:28:44.516 [main] INFO 
+				com.revature.service.AccountService - GT and LT are not checked.
+16 Nov 2021 - 20:28:44.521 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:28:44.522 [main] INFO 
+				com.revature.service.AccountService - LT checked.
+16 Nov 2021 - 20:28:44.522 [main] INFO 
+				com.revature.service.AccountService - LT is blank.
+16 Nov 2021 - 20:28:44.523 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:28:44.523 [main] INFO 
+				com.revature.service.AccountService - GT checked.
+16 Nov 2021 - 20:28:44.523 [main] INFO 
+				com.revature.service.AccountService - GT is blank.
+16 Nov 2021 - 20:28:44.526 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:28:44.526 [main] INFO 
+				com.revature.service.AccountService - GT and LT are not checked.
+16 Nov 2021 - 20:28:44.528 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:28:44.528 [main] INFO 
+				com.revature.service.AccountService - GT and LT are are checked.
+16 Nov 2021 - 20:28:44.528 [main] INFO 
+				com.revature.service.AccountService - GT and LT are blanks.
+16 Nov 2021 - 20:31:29.336 [main] INFO 
+				io.javalin.Javalin - 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+16 Nov 2021 - 20:31:29.349 [main] INFO 
+				org.eclipse.jetty.util.log - Logging initialized @420ms to org.eclipse.jetty.util.log.Slf4jLog
+16 Nov 2021 - 20:31:29.350 [main] INFO 
+				io.javalin.Javalin - Starting Javalin ...
+16 Nov 2021 - 20:31:29.368 [main] INFO 
+				io.javalin.Javalin - You are running Javalin 4.1.1 (released October 10, 2021).
+16 Nov 2021 - 20:31:29.368 [main] INFO 
+				io.javalin.Javalin - No port specified, starting on port 8080. Call start(port) to change ports.
+16 Nov 2021 - 20:31:29.719 [main] INFO 
+				io.javalin.Javalin - Listening on http://localhost:8080/
+16 Nov 2021 - 20:31:29.719 [main] INFO 
+				io.javalin.Javalin - Javalin started in 370ms \o/
+16 Nov 2021 - 20:31:30.971 [qtp1338841523-17] INFO 
+				com.revature.app.BankApiApplication - GET request recieved to the /clients/3/accounts/ endpoiint.
+16 Nov 2021 - 20:31:30.971 [qtp1338841523-17] INFO 
+				c.r.controller.AccountController - AccountController.getAllAccountsByClientId() incoked.
+16 Nov 2021 - 20:31:30.971 [qtp1338841523-17] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 20:31:30.971 [qtp1338841523-17] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 20:31:31.346 [qtp1338841523-17] INFO 
+				com.revature.service.ClientService - both client is not null
+16 Nov 2021 - 20:31:31.347 [qtp1338841523-17] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:31:31.347 [qtp1338841523-17] INFO 
+				com.revature.service.AccountService - GT and LT are are checked.
+16 Nov 2021 - 20:31:31.347 [qtp1338841523-17] INFO 
+				com.revature.service.AccountService - GT and LT have amounts.
+16 Nov 2021 - 20:31:31.347 [qtp1338841523-17] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAllAcocuntsByClientId() invoked.
+16 Nov 2021 - 20:36:08.215 [main] INFO 
+				io.javalin.Javalin - 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+16 Nov 2021 - 20:36:08.229 [main] INFO 
+				org.eclipse.jetty.util.log - Logging initialized @416ms to org.eclipse.jetty.util.log.Slf4jLog
+16 Nov 2021 - 20:36:08.230 [main] INFO 
+				io.javalin.Javalin - Starting Javalin ...
+16 Nov 2021 - 20:36:08.248 [main] INFO 
+				io.javalin.Javalin - You are running Javalin 4.1.1 (released October 10, 2021).
+16 Nov 2021 - 20:36:08.248 [main] INFO 
+				io.javalin.Javalin - No port specified, starting on port 8080. Call start(port) to change ports.
+16 Nov 2021 - 20:36:08.399 [main] ERROR
+				io.javalin.Javalin - Failed to start Javalin
+16 Nov 2021 - 20:36:08.400 [main] INFO 
+				io.javalin.Javalin - Stopping Javalin ...
+16 Nov 2021 - 20:36:08.404 [main] INFO 
+				io.javalin.Javalin - Javalin has stopped
+16 Nov 2021 - 20:36:15.464 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:36:15.466 [main] INFO 
+				com.revature.service.AccountService - GT and LT are are checked.
+16 Nov 2021 - 20:36:15.466 [main] INFO 
+				com.revature.service.AccountService - GT and LT have amounts.
+16 Nov 2021 - 20:36:15.466 [main] INFO 
+				com.revature.service.AccountService - GT and LT amounts 4000. 6500.
+16 Nov 2021 - 20:36:15.481 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:36:15.481 [main] INFO 
+				com.revature.service.AccountService - GT and LT are not checked.
+16 Nov 2021 - 20:36:15.487 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:36:15.487 [main] INFO 
+				com.revature.service.AccountService - LT checked.
+16 Nov 2021 - 20:36:15.487 [main] INFO 
+				com.revature.service.AccountService - LT is blank.
+16 Nov 2021 - 20:36:15.489 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:36:15.489 [main] INFO 
+				com.revature.service.AccountService - GT checked.
+16 Nov 2021 - 20:36:15.489 [main] INFO 
+				com.revature.service.AccountService - GT is blank.
+16 Nov 2021 - 20:36:15.492 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:36:15.492 [main] INFO 
+				com.revature.service.AccountService - GT and LT are not checked.
+16 Nov 2021 - 20:36:15.494 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:36:15.494 [main] INFO 
+				com.revature.service.AccountService - GT and LT are are checked.
+16 Nov 2021 - 20:36:15.494 [main] INFO 
+				com.revature.service.AccountService - GT and LT are blanks.
+16 Nov 2021 - 20:38:40.877 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:38:40.879 [main] INFO 
+				com.revature.service.AccountService - GT and LT are are checked.
+16 Nov 2021 - 20:38:40.880 [main] INFO 
+				com.revature.service.AccountService - GT and LT have amounts.
+16 Nov 2021 - 20:38:40.880 [main] INFO 
+				com.revature.service.AccountService - GT and LT amounts 4000. 6500.
+16 Nov 2021 - 20:42:20.259 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:42:20.261 [main] INFO 
+				com.revature.service.AccountService - GT and LT are are checked.
+16 Nov 2021 - 20:42:20.261 [main] INFO 
+				com.revature.service.AccountService - GT and LT have amounts.
+16 Nov 2021 - 20:42:20.261 [main] INFO 
+				com.revature.service.AccountService - GT and LT amounts 4000. 6500.
+16 Nov 2021 - 20:43:09.508 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:43:09.510 [main] INFO 
+				com.revature.service.AccountService - GT and LT are are checked.
+16 Nov 2021 - 20:43:09.510 [main] INFO 
+				com.revature.service.AccountService - GT and LT have amounts.
+16 Nov 2021 - 20:43:09.510 [main] INFO 
+				com.revature.service.AccountService - GT and LT amounts 4000. 6500.
+16 Nov 2021 - 20:44:09.055 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:44:09.057 [main] INFO 
+				com.revature.service.AccountService - GT and LT are are checked.
+16 Nov 2021 - 20:44:09.057 [main] INFO 
+				com.revature.service.AccountService - GT and LT have amounts.
+16 Nov 2021 - 20:44:09.057 [main] INFO 
+				com.revature.service.AccountService - GT and LT amounts 4000. 6500.
+16 Nov 2021 - 20:44:09.073 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:44:09.073 [main] INFO 
+				com.revature.service.AccountService - GT and LT are not checked.
+16 Nov 2021 - 20:44:09.078 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:44:09.078 [main] INFO 
+				com.revature.service.AccountService - LT checked.
+16 Nov 2021 - 20:44:09.078 [main] INFO 
+				com.revature.service.AccountService - LT is blank.
+16 Nov 2021 - 20:44:09.080 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:44:09.080 [main] INFO 
+				com.revature.service.AccountService - GT checked.
+16 Nov 2021 - 20:44:09.080 [main] INFO 
+				com.revature.service.AccountService - GT is blank.
+16 Nov 2021 - 20:44:09.083 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:44:09.083 [main] INFO 
+				com.revature.service.AccountService - GT and LT are not checked.
+16 Nov 2021 - 20:44:09.085 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:44:09.085 [main] INFO 
+				com.revature.service.AccountService - GT and LT are are checked.
+16 Nov 2021 - 20:44:09.085 [main] INFO 
+				com.revature.service.AccountService - GT and LT are blanks.
+16 Nov 2021 - 20:44:34.557 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:44:34.559 [main] INFO 
+				com.revature.service.AccountService - GT and LT are are checked.
+16 Nov 2021 - 20:44:34.559 [main] INFO 
+				com.revature.service.AccountService - GT and LT have amounts.
+16 Nov 2021 - 20:44:34.559 [main] INFO 
+				com.revature.service.AccountService - GT and LT amounts 4000. 6500.
+16 Nov 2021 - 20:44:34.575 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:44:34.575 [main] INFO 
+				com.revature.service.AccountService - GT and LT are not checked.
+16 Nov 2021 - 20:44:34.580 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:44:34.580 [main] INFO 
+				com.revature.service.AccountService - LT checked.
+16 Nov 2021 - 20:44:34.580 [main] INFO 
+				com.revature.service.AccountService - LT is blank.
+16 Nov 2021 - 20:44:34.596 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:44:34.596 [main] INFO 
+				com.revature.service.AccountService - GT checked.
+16 Nov 2021 - 20:44:34.596 [main] INFO 
+				com.revature.service.AccountService - GT is blank.
+16 Nov 2021 - 20:44:34.599 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:44:34.599 [main] INFO 
+				com.revature.service.AccountService - GT and LT are not checked.
+16 Nov 2021 - 20:44:34.601 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:44:34.601 [main] INFO 
+				com.revature.service.AccountService - GT and LT are are checked.
+16 Nov 2021 - 20:44:34.601 [main] INFO 
+				com.revature.service.AccountService - GT and LT are blanks.
+16 Nov 2021 - 20:45:09.012 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:45:09.014 [main] INFO 
+				com.revature.service.AccountService - GT and LT are are checked.
+16 Nov 2021 - 20:45:09.014 [main] INFO 
+				com.revature.service.AccountService - GT and LT have amounts.
+16 Nov 2021 - 20:45:09.015 [main] INFO 
+				com.revature.service.AccountService - GT and LT amounts 4000 6500
+16 Nov 2021 - 20:45:09.031 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:45:09.031 [main] INFO 
+				com.revature.service.AccountService - GT and LT are not checked.
+16 Nov 2021 - 20:45:09.036 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:45:09.036 [main] INFO 
+				com.revature.service.AccountService - LT checked.
+16 Nov 2021 - 20:45:09.036 [main] INFO 
+				com.revature.service.AccountService - LT is blank.
+16 Nov 2021 - 20:45:09.038 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:45:09.038 [main] INFO 
+				com.revature.service.AccountService - GT checked.
+16 Nov 2021 - 20:45:09.038 [main] INFO 
+				com.revature.service.AccountService - GT is blank.
+16 Nov 2021 - 20:45:09.041 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:45:09.041 [main] INFO 
+				com.revature.service.AccountService - GT and LT are not checked.
+16 Nov 2021 - 20:45:09.042 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:45:09.043 [main] INFO 
+				com.revature.service.AccountService - GT and LT are are checked.
+16 Nov 2021 - 20:45:09.043 [main] INFO 
+				com.revature.service.AccountService - GT and LT are blanks.
+16 Nov 2021 - 20:45:41.792 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:45:41.794 [main] INFO 
+				com.revature.service.AccountService - GT and LT are are checked.
+16 Nov 2021 - 20:45:41.794 [main] INFO 
+				com.revature.service.AccountService - GT and LT have amounts.
+16 Nov 2021 - 20:45:41.794 [main] INFO 
+				com.revature.service.AccountService - GT and LT amounts 4000 6500
+16 Nov 2021 - 20:47:01.432 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:47:01.434 [main] INFO 
+				com.revature.service.AccountService - GT and LT are are checked.
+16 Nov 2021 - 20:47:01.434 [main] INFO 
+				com.revature.service.AccountService - GT and LT have amounts.
+16 Nov 2021 - 20:47:01.434 [main] INFO 
+				com.revature.service.AccountService - GT and LT amounts 4000 6500
+16 Nov 2021 - 20:48:29.584 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:48:29.586 [main] INFO 
+				com.revature.service.AccountService - GT and LT are are checked.
+16 Nov 2021 - 20:48:29.586 [main] INFO 
+				com.revature.service.AccountService - GT and LT have amounts.
+16 Nov 2021 - 20:48:29.586 [main] INFO 
+				com.revature.service.AccountService - GT and LT amounts 4000 6500
+16 Nov 2021 - 20:48:29.600 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:48:29.600 [main] INFO 
+				com.revature.service.AccountService - GT and LT are not checked.
+16 Nov 2021 - 20:48:29.603 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:48:29.603 [main] INFO 
+				com.revature.service.AccountService - LT checked.
+16 Nov 2021 - 20:48:29.603 [main] INFO 
+				com.revature.service.AccountService - LT is blank.
+16 Nov 2021 - 20:48:29.605 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:48:29.605 [main] INFO 
+				com.revature.service.AccountService - GT checked.
+16 Nov 2021 - 20:48:29.605 [main] INFO 
+				com.revature.service.AccountService - GT is blank.
+16 Nov 2021 - 20:48:29.619 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:48:29.619 [main] INFO 
+				com.revature.service.AccountService - GT and LT are are checked.
+16 Nov 2021 - 20:48:29.619 [main] INFO 
+				com.revature.service.AccountService - GT and LT are blanks.
+16 Nov 2021 - 20:50:10.803 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:50:10.805 [main] INFO 
+				com.revature.service.AccountService - GT and LT are are checked.
+16 Nov 2021 - 20:50:10.805 [main] INFO 
+				com.revature.service.AccountService - GT and LT have amounts.
+16 Nov 2021 - 20:50:10.805 [main] INFO 
+				com.revature.service.AccountService - GT and LT amounts 4000 6500
+16 Nov 2021 - 20:50:10.819 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:50:10.819 [main] INFO 
+				com.revature.service.AccountService - GT and LT are not checked.
+16 Nov 2021 - 20:50:10.822 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:50:10.822 [main] INFO 
+				com.revature.service.AccountService - LT checked.
+16 Nov 2021 - 20:50:10.822 [main] INFO 
+				com.revature.service.AccountService - LT is blank.
+16 Nov 2021 - 20:50:10.823 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:50:10.823 [main] INFO 
+				com.revature.service.AccountService - GT checked.
+16 Nov 2021 - 20:50:10.824 [main] INFO 
+				com.revature.service.AccountService - GT is blank.
+16 Nov 2021 - 20:50:10.836 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:50:10.836 [main] INFO 
+				com.revature.service.AccountService - GT and LT are not checked.
+16 Nov 2021 - 20:50:10.838 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:50:10.838 [main] INFO 
+				com.revature.service.AccountService - GT and LT are are checked.
+16 Nov 2021 - 20:50:10.838 [main] INFO 
+				com.revature.service.AccountService - GT and LT are blanks.
+16 Nov 2021 - 20:51:30.312 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:51:30.314 [main] INFO 
+				com.revature.service.AccountService - GT and LT are are checked.
+16 Nov 2021 - 20:51:30.314 [main] INFO 
+				com.revature.service.AccountService - GT and LT have amounts.
+16 Nov 2021 - 20:51:30.314 [main] INFO 
+				com.revature.service.AccountService - GT and LT amounts 4000 6500
+16 Nov 2021 - 20:51:30.328 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:51:30.328 [main] INFO 
+				com.revature.service.AccountService - GT checked.
+16 Nov 2021 - 20:51:30.328 [main] INFO 
+				com.revature.service.AccountService - GT have amount.
+16 Nov 2021 - 20:51:30.334 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:51:30.334 [main] INFO 
+				com.revature.service.AccountService - GT and LT are not checked.
+16 Nov 2021 - 20:51:30.337 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:51:30.337 [main] INFO 
+				com.revature.service.AccountService - LT checked.
+16 Nov 2021 - 20:51:30.337 [main] INFO 
+				com.revature.service.AccountService - LT is blank.
+16 Nov 2021 - 20:51:30.339 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:51:30.339 [main] INFO 
+				com.revature.service.AccountService - GT checked.
+16 Nov 2021 - 20:51:30.339 [main] INFO 
+				com.revature.service.AccountService - GT is blank.
+16 Nov 2021 - 20:51:30.341 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:51:30.342 [main] INFO 
+				com.revature.service.AccountService - GT and LT are not checked.
+16 Nov 2021 - 20:51:30.343 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:51:30.343 [main] INFO 
+				com.revature.service.AccountService - GT and LT are are checked.
+16 Nov 2021 - 20:51:30.343 [main] INFO 
+				com.revature.service.AccountService - GT and LT are blanks.
+16 Nov 2021 - 20:51:40.363 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:51:40.365 [main] INFO 
+				com.revature.service.AccountService - GT checked.
+16 Nov 2021 - 20:51:40.365 [main] INFO 
+				com.revature.service.AccountService - GT have amount.
+16 Nov 2021 - 20:52:35.671 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:52:35.673 [main] INFO 
+				com.revature.service.AccountService - GT and LT are are checked.
+16 Nov 2021 - 20:52:35.673 [main] INFO 
+				com.revature.service.AccountService - GT and LT have amounts.
+16 Nov 2021 - 20:52:35.673 [main] INFO 
+				com.revature.service.AccountService - GT and LT amounts 4000 6500
+16 Nov 2021 - 20:52:35.687 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:52:35.687 [main] INFO 
+				com.revature.service.AccountService - GT checked.
+16 Nov 2021 - 20:52:35.688 [main] INFO 
+				com.revature.service.AccountService - GT have amount.
+16 Nov 2021 - 20:52:35.693 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:52:35.694 [main] INFO 
+				com.revature.service.AccountService - GT and LT are not checked.
+16 Nov 2021 - 20:52:35.696 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:52:35.697 [main] INFO 
+				com.revature.service.AccountService - LT checked.
+16 Nov 2021 - 20:52:35.697 [main] INFO 
+				com.revature.service.AccountService - LT is blank.
+16 Nov 2021 - 20:52:35.698 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:52:35.698 [main] INFO 
+				com.revature.service.AccountService - GT checked.
+16 Nov 2021 - 20:52:35.699 [main] INFO 
+				com.revature.service.AccountService - GT is blank.
+16 Nov 2021 - 20:52:35.701 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:52:35.701 [main] INFO 
+				com.revature.service.AccountService - GT and LT are not checked.
+16 Nov 2021 - 20:52:35.703 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:52:35.703 [main] INFO 
+				com.revature.service.AccountService - GT and LT are are checked.
+16 Nov 2021 - 20:52:35.703 [main] INFO 
+				com.revature.service.AccountService - GT and LT are blanks.
+16 Nov 2021 - 20:52:39.842 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:52:39.844 [main] INFO 
+				com.revature.service.AccountService - GT and LT are are checked.
+16 Nov 2021 - 20:52:39.844 [main] INFO 
+				com.revature.service.AccountService - GT and LT have amounts.
+16 Nov 2021 - 20:52:39.844 [main] INFO 
+				com.revature.service.AccountService - GT and LT amounts 4000 6500
+16 Nov 2021 - 20:52:39.858 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:52:39.858 [main] INFO 
+				com.revature.service.AccountService - GT checked.
+16 Nov 2021 - 20:52:39.858 [main] INFO 
+				com.revature.service.AccountService - GT have amount.
+16 Nov 2021 - 20:52:39.863 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:52:39.863 [main] INFO 
+				com.revature.service.AccountService - GT and LT are not checked.
+16 Nov 2021 - 20:52:39.866 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:52:39.866 [main] INFO 
+				com.revature.service.AccountService - LT checked.
+16 Nov 2021 - 20:52:39.866 [main] INFO 
+				com.revature.service.AccountService - LT is blank.
+16 Nov 2021 - 20:52:39.868 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:52:39.868 [main] INFO 
+				com.revature.service.AccountService - GT checked.
+16 Nov 2021 - 20:52:39.868 [main] INFO 
+				com.revature.service.AccountService - GT is blank.
+16 Nov 2021 - 20:52:39.871 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:52:39.871 [main] INFO 
+				com.revature.service.AccountService - GT and LT are not checked.
+16 Nov 2021 - 20:52:39.872 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:52:39.872 [main] INFO 
+				com.revature.service.AccountService - GT and LT are are checked.
+16 Nov 2021 - 20:52:39.872 [main] INFO 
+				com.revature.service.AccountService - GT and LT are blanks.
+16 Nov 2021 - 20:52:47.748 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:52:47.750 [main] INFO 
+				com.revature.service.AccountService - GT checked.
+16 Nov 2021 - 20:52:47.750 [main] INFO 
+				com.revature.service.AccountService - GT have amount.
+16 Nov 2021 - 20:53:54.959 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:53:54.961 [main] INFO 
+				com.revature.service.AccountService - GT checked.
+16 Nov 2021 - 20:53:54.961 [main] INFO 
+				com.revature.service.AccountService - GT have amount.
+16 Nov 2021 - 20:55:41.011 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:55:41.013 [main] INFO 
+				com.revature.service.AccountService - GT checked.
+16 Nov 2021 - 20:55:41.013 [main] INFO 
+				com.revature.service.AccountService - GT have amount.
+16 Nov 2021 - 20:55:41.013 [main] INFO 
+				com.revature.service.AccountService - clId 1 gtAmount 4000.0
+16 Nov 2021 - 20:57:44.061 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:57:44.063 [main] INFO 
+				com.revature.service.AccountService - GT and LT are are checked.
+16 Nov 2021 - 20:57:44.063 [main] INFO 
+				com.revature.service.AccountService - GT and LT have amounts.
+16 Nov 2021 - 20:57:44.063 [main] INFO 
+				com.revature.service.AccountService - GT and LT amounts 4000 6500
+16 Nov 2021 - 20:57:44.077 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:57:44.077 [main] INFO 
+				com.revature.service.AccountService - GT checked.
+16 Nov 2021 - 20:57:44.077 [main] INFO 
+				com.revature.service.AccountService - GT have amount.
+16 Nov 2021 - 20:57:44.077 [main] INFO 
+				com.revature.service.AccountService - clId 1 gtAmount 4000.0
+16 Nov 2021 - 20:57:44.083 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:57:44.083 [main] INFO 
+				com.revature.service.AccountService - LT checked.
+16 Nov 2021 - 20:57:44.083 [main] INFO 
+				com.revature.service.AccountService - GT have amount.
+16 Nov 2021 - 20:57:44.085 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:57:44.086 [main] INFO 
+				com.revature.service.AccountService - GT and LT are not checked.
+16 Nov 2021 - 20:57:44.089 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:57:44.089 [main] INFO 
+				com.revature.service.AccountService - LT checked.
+16 Nov 2021 - 20:57:44.089 [main] INFO 
+				com.revature.service.AccountService - LT is blank.
+16 Nov 2021 - 20:57:44.090 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:57:44.090 [main] INFO 
+				com.revature.service.AccountService - GT checked.
+16 Nov 2021 - 20:57:44.090 [main] INFO 
+				com.revature.service.AccountService - GT is blank.
+16 Nov 2021 - 20:57:44.093 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:57:44.093 [main] INFO 
+				com.revature.service.AccountService - GT and LT are not checked.
+16 Nov 2021 - 20:57:44.094 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:57:44.095 [main] INFO 
+				com.revature.service.AccountService - GT and LT are are checked.
+16 Nov 2021 - 20:57:44.095 [main] INFO 
+				com.revature.service.AccountService - GT and LT are blanks.
+16 Nov 2021 - 20:57:57.890 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 20:57:57.892 [main] INFO 
+				com.revature.service.AccountService - GT checked.
+16 Nov 2021 - 20:57:57.892 [main] INFO 
+				com.revature.service.AccountService - GT have amount.
+16 Nov 2021 - 20:57:57.892 [main] INFO 
+				com.revature.service.AccountService - clId 1 gtAmount 4000.0
+16 Nov 2021 - 21:13:41.408 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:13:41.410 [main] INFO 
+				com.revature.service.AccountService - GT and LT are are checked.
+16 Nov 2021 - 21:13:41.411 [main] INFO 
+				com.revature.service.AccountService - GT and LT have amounts.
+16 Nov 2021 - 21:13:41.411 [main] INFO 
+				com.revature.service.AccountService - GT and LT amounts 4000 6500
+16 Nov 2021 - 21:13:41.425 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:13:41.425 [main] INFO 
+				com.revature.service.AccountService - GT checked.
+16 Nov 2021 - 21:13:41.425 [main] INFO 
+				com.revature.service.AccountService - GT have amount.
+16 Nov 2021 - 21:13:41.430 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:13:41.430 [main] INFO 
+				com.revature.service.AccountService - LT checked.
+16 Nov 2021 - 21:13:41.431 [main] INFO 
+				com.revature.service.AccountService - GT have amount.
+16 Nov 2021 - 21:13:41.433 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:13:41.433 [main] INFO 
+				com.revature.service.AccountService - GT and LT are not checked.
+16 Nov 2021 - 21:13:41.436 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:13:41.436 [main] INFO 
+				com.revature.service.AccountService - LT checked.
+16 Nov 2021 - 21:13:41.436 [main] INFO 
+				com.revature.service.AccountService - LT is blank.
+16 Nov 2021 - 21:13:41.437 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:13:41.437 [main] INFO 
+				com.revature.service.AccountService - GT checked.
+16 Nov 2021 - 21:13:41.437 [main] INFO 
+				com.revature.service.AccountService - GT is blank.
+16 Nov 2021 - 21:13:41.440 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:13:41.440 [main] INFO 
+				com.revature.service.AccountService - GT and LT are not checked.
+16 Nov 2021 - 21:13:41.442 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:13:41.442 [main] INFO 
+				com.revature.service.AccountService - GT and LT are are checked.
+16 Nov 2021 - 21:13:41.442 [main] INFO 
+				com.revature.service.AccountService - GT and LT are blanks.
+16 Nov 2021 - 21:15:01.134 [main] INFO 
+				io.javalin.Javalin - 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+16 Nov 2021 - 21:15:01.147 [main] INFO 
+				org.eclipse.jetty.util.log - Logging initialized @414ms to org.eclipse.jetty.util.log.Slf4jLog
+16 Nov 2021 - 21:15:01.148 [main] INFO 
+				io.javalin.Javalin - Starting Javalin ...
+16 Nov 2021 - 21:15:01.167 [main] INFO 
+				io.javalin.Javalin - You are running Javalin 4.1.1 (released October 10, 2021).
+16 Nov 2021 - 21:15:01.167 [main] INFO 
+				io.javalin.Javalin - No port specified, starting on port 8080. Call start(port) to change ports.
+16 Nov 2021 - 21:15:01.483 [main] INFO 
+				io.javalin.Javalin - Listening on http://localhost:8080/
+16 Nov 2021 - 21:15:01.483 [main] INFO 
+				io.javalin.Javalin - Javalin started in 335ms \o/
+16 Nov 2021 - 21:16:23.807 [main] INFO 
+				io.javalin.Javalin - 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+16 Nov 2021 - 21:16:23.817 [main] INFO 
+				org.eclipse.jetty.util.log - Logging initialized @414ms to org.eclipse.jetty.util.log.Slf4jLog
+16 Nov 2021 - 21:16:23.818 [main] INFO 
+				io.javalin.Javalin - Starting Javalin ...
+16 Nov 2021 - 21:16:23.837 [main] INFO 
+				io.javalin.Javalin - You are running Javalin 4.1.1 (released October 10, 2021).
+16 Nov 2021 - 21:16:23.837 [main] INFO 
+				io.javalin.Javalin - No port specified, starting on port 8080. Call start(port) to change ports.
+16 Nov 2021 - 21:16:24.157 [main] INFO 
+				io.javalin.Javalin - Listening on http://localhost:8080/
+16 Nov 2021 - 21:16:24.157 [main] INFO 
+				io.javalin.Javalin - Javalin started in 340ms \o/
+16 Nov 2021 - 21:16:31.673 [qtp1338841523-24] INFO 
+				com.revature.app.BankApiApplication - GET request recieved to the /clients endpoiint.
+16 Nov 2021 - 21:16:31.673 [qtp1338841523-24] INFO 
+				c.r.controller.ClientController - ClientController.getAllClients() invoked.
+16 Nov 2021 - 21:16:31.674 [qtp1338841523-24] INFO 
+				com.revature.service.ClientService - ClientService.getAllClients() invoked.
+16 Nov 2021 - 21:16:31.674 [qtp1338841523-24] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getAllClients() invoked.
+16 Nov 2021 - 21:16:41.975 [qtp1338841523-15] INFO 
+				com.revature.app.BankApiApplication - GET request recieved to the /clients/2 endpoiint.
+16 Nov 2021 - 21:16:41.975 [qtp1338841523-15] INFO 
+				c.r.controller.ClientController - ClientController.getClientByClientId() invoked.
+16 Nov 2021 - 21:16:41.976 [qtp1338841523-15] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:16:41.976 [qtp1338841523-15] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:16:42.115 [qtp1338841523-15] INFO 
+				com.revature.service.ClientService - client is not null
+16 Nov 2021 - 21:16:42.115 [qtp1338841523-15] INFO 
+				com.revature.service.ClientService - getClientById() invoked
+16 Nov 2021 - 21:16:42.115 [qtp1338841523-15] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:17:09.307 [qtp1338841523-14] INFO 
+				com.revature.app.BankApiApplication - POST request recieved to the /clients endpoiint.
+16 Nov 2021 - 21:17:09.307 [qtp1338841523-14] INFO 
+				c.r.controller.ClientController - ClientController.addClient() invoked.
+16 Nov 2021 - 21:17:09.338 [qtp1338841523-14] INFO 
+				com.revature.service.ClientService - addClient() invoked
+16 Nov 2021 - 21:17:09.338 [qtp1338841523-14] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+16 Nov 2021 - 21:17:45.513 [main] INFO 
+				io.javalin.Javalin - 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+16 Nov 2021 - 21:17:45.523 [main] INFO 
+				org.eclipse.jetty.util.log - Logging initialized @415ms to org.eclipse.jetty.util.log.Slf4jLog
+16 Nov 2021 - 21:17:45.524 [main] INFO 
+				io.javalin.Javalin - Starting Javalin ...
+16 Nov 2021 - 21:17:45.542 [main] INFO 
+				io.javalin.Javalin - You are running Javalin 4.1.1 (released October 10, 2021).
+16 Nov 2021 - 21:17:45.542 [main] INFO 
+				io.javalin.Javalin - No port specified, starting on port 8080. Call start(port) to change ports.
+16 Nov 2021 - 21:17:45.856 [main] INFO 
+				io.javalin.Javalin - Listening on http://localhost:8080/
+16 Nov 2021 - 21:17:45.856 [main] INFO 
+				io.javalin.Javalin - Javalin started in 333ms \o/
+16 Nov 2021 - 21:22:12.859 [qtp1338841523-24] INFO 
+				com.revature.app.BankApiApplication - POST request recieved to the /clients endpoiint.
+16 Nov 2021 - 21:22:12.859 [qtp1338841523-24] INFO 
+				c.r.controller.ClientController - ClientController.addClient() invoked.
+16 Nov 2021 - 21:22:13.030 [qtp1338841523-24] INFO 
+				com.revature.service.ClientService - addClient() invoked
+16 Nov 2021 - 21:22:13.030 [qtp1338841523-24] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+16 Nov 2021 - 21:22:13.030 [qtp1338841523-24] INFO 
+				com.revature.service.ClientService - birthdate is not 8 characters 
+16 Nov 2021 - 21:22:18.569 [qtp1338841523-16] INFO 
+				com.revature.app.BankApiApplication - POST request recieved to the /clients endpoiint.
+16 Nov 2021 - 21:22:18.569 [qtp1338841523-16] INFO 
+				c.r.controller.ClientController - ClientController.addClient() invoked.
+16 Nov 2021 - 21:22:18.569 [qtp1338841523-16] INFO 
+				com.revature.service.ClientService - addClient() invoked
+16 Nov 2021 - 21:22:18.570 [qtp1338841523-16] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+16 Nov 2021 - 21:22:18.570 [qtp1338841523-16] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.addClient() invoked.
+16 Nov 2021 - 21:23:03.305 [qtp1338841523-12] INFO 
+				com.revature.app.BankApiApplication - POST request recieved to the /clients endpoiint.
+16 Nov 2021 - 21:23:03.306 [qtp1338841523-12] INFO 
+				c.r.controller.ClientController - ClientController.addClient() invoked.
+16 Nov 2021 - 21:23:03.306 [qtp1338841523-12] INFO 
+				com.revature.service.ClientService - addClient() invoked
+16 Nov 2021 - 21:23:03.306 [qtp1338841523-12] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+16 Nov 2021 - 21:23:03.306 [qtp1338841523-12] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.addClient() invoked.
+16 Nov 2021 - 21:24:43.231 [qtp1338841523-13] INFO 
+				com.revature.app.BankApiApplication - GET request recieved to the /clients endpoiint.
+16 Nov 2021 - 21:24:43.231 [qtp1338841523-13] INFO 
+				c.r.controller.ClientController - ClientController.getAllClients() invoked.
+16 Nov 2021 - 21:24:43.231 [qtp1338841523-13] INFO 
+				com.revature.service.ClientService - ClientService.getAllClients() invoked.
+16 Nov 2021 - 21:24:43.231 [qtp1338841523-13] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getAllClients() invoked.
+16 Nov 2021 - 21:24:50.321 [qtp1338841523-12] INFO 
+				com.revature.app.BankApiApplication - GET request recieved to the /clients/2 endpoiint.
+16 Nov 2021 - 21:24:50.321 [qtp1338841523-12] INFO 
+				c.r.controller.ClientController - ClientController.getClientByClientId() invoked.
+16 Nov 2021 - 21:24:50.321 [qtp1338841523-12] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:24:50.321 [qtp1338841523-12] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:24:50.359 [qtp1338841523-12] INFO 
+				com.revature.service.ClientService - client is not null
+16 Nov 2021 - 21:24:50.359 [qtp1338841523-12] INFO 
+				com.revature.service.ClientService - getClientById() invoked
+16 Nov 2021 - 21:24:50.359 [qtp1338841523-12] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:24:52.538 [qtp1338841523-13] INFO 
+				com.revature.app.BankApiApplication - GET request recieved to the /clients/3 endpoiint.
+16 Nov 2021 - 21:24:52.538 [qtp1338841523-13] INFO 
+				c.r.controller.ClientController - ClientController.getClientByClientId() invoked.
+16 Nov 2021 - 21:24:52.538 [qtp1338841523-13] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:24:52.538 [qtp1338841523-13] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:24:52.576 [qtp1338841523-13] INFO 
+				com.revature.service.ClientService - client is not null
+16 Nov 2021 - 21:24:52.576 [qtp1338841523-13] INFO 
+				com.revature.service.ClientService - getClientById() invoked
+16 Nov 2021 - 21:24:52.576 [qtp1338841523-13] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:24:55.476 [qtp1338841523-12] INFO 
+				com.revature.app.BankApiApplication - GET request recieved to the /clients/4 endpoiint.
+16 Nov 2021 - 21:24:55.476 [qtp1338841523-12] INFO 
+				c.r.controller.ClientController - ClientController.getClientByClientId() invoked.
+16 Nov 2021 - 21:24:55.477 [qtp1338841523-12] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:24:55.477 [qtp1338841523-12] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:24:55.526 [qtp1338841523-12] INFO 
+				com.revature.service.ClientService - client is null
+16 Nov 2021 - 21:25:02.130 [qtp1338841523-13] INFO 
+				com.revature.app.BankApiApplication - GET request recieved to the /clients/2 endpoiint.
+16 Nov 2021 - 21:25:02.131 [qtp1338841523-13] INFO 
+				c.r.controller.ClientController - ClientController.getClientByClientId() invoked.
+16 Nov 2021 - 21:25:02.131 [qtp1338841523-13] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:25:02.131 [qtp1338841523-13] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:25:02.169 [qtp1338841523-13] INFO 
+				com.revature.service.ClientService - client is not null
+16 Nov 2021 - 21:25:02.169 [qtp1338841523-13] INFO 
+				com.revature.service.ClientService - getClientById() invoked
+16 Nov 2021 - 21:25:02.169 [qtp1338841523-13] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:25:10.185 [qtp1338841523-12] INFO 
+				com.revature.app.BankApiApplication - POST request recieved to the /clients endpoiint.
+16 Nov 2021 - 21:25:10.185 [qtp1338841523-12] INFO 
+				c.r.controller.ClientController - ClientController.addClient() invoked.
+16 Nov 2021 - 21:25:10.185 [qtp1338841523-12] INFO 
+				com.revature.service.ClientService - addClient() invoked
+16 Nov 2021 - 21:25:10.185 [qtp1338841523-12] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+16 Nov 2021 - 21:25:10.185 [qtp1338841523-12] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.addClient() invoked.
+16 Nov 2021 - 21:25:18.131 [qtp1338841523-13] INFO 
+				com.revature.app.BankApiApplication - POST request recieved to the /clients endpoiint.
+16 Nov 2021 - 21:25:18.131 [qtp1338841523-13] INFO 
+				c.r.controller.ClientController - ClientController.addClient() invoked.
+16 Nov 2021 - 21:25:18.131 [qtp1338841523-13] INFO 
+				com.revature.service.ClientService - addClient() invoked
+16 Nov 2021 - 21:25:18.131 [qtp1338841523-13] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+16 Nov 2021 - 21:25:23.323 [qtp1338841523-12] INFO 
+				com.revature.app.BankApiApplication - POST request recieved to the /clients endpoiint.
+16 Nov 2021 - 21:25:23.323 [qtp1338841523-12] INFO 
+				c.r.controller.ClientController - ClientController.addClient() invoked.
+16 Nov 2021 - 21:25:23.324 [qtp1338841523-12] INFO 
+				com.revature.service.ClientService - addClient() invoked
+16 Nov 2021 - 21:25:23.324 [qtp1338841523-12] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+16 Nov 2021 - 21:25:32.788 [qtp1338841523-13] INFO 
+				com.revature.app.BankApiApplication - POST request recieved to the /clients endpoiint.
+16 Nov 2021 - 21:25:32.788 [qtp1338841523-13] INFO 
+				c.r.controller.ClientController - ClientController.addClient() invoked.
+16 Nov 2021 - 21:25:32.788 [qtp1338841523-13] INFO 
+				com.revature.service.ClientService - addClient() invoked
+16 Nov 2021 - 21:25:32.788 [qtp1338841523-13] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+16 Nov 2021 - 21:25:42.530 [qtp1338841523-12] INFO 
+				com.revature.app.BankApiApplication - POST request recieved to the /clients endpoiint.
+16 Nov 2021 - 21:25:42.530 [qtp1338841523-12] INFO 
+				c.r.controller.ClientController - ClientController.addClient() invoked.
+16 Nov 2021 - 21:25:42.530 [qtp1338841523-12] INFO 
+				com.revature.service.ClientService - addClient() invoked
+16 Nov 2021 - 21:25:42.531 [qtp1338841523-12] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+16 Nov 2021 - 21:25:42.531 [qtp1338841523-12] INFO 
+				com.revature.service.ClientService - birthdate is not 8 characters 
+16 Nov 2021 - 21:25:50.951 [qtp1338841523-13] INFO 
+				com.revature.app.BankApiApplication - POST request recieved to the /clients endpoiint.
+16 Nov 2021 - 21:25:50.951 [qtp1338841523-13] INFO 
+				c.r.controller.ClientController - ClientController.addClient() invoked.
+16 Nov 2021 - 21:25:50.952 [qtp1338841523-13] INFO 
+				com.revature.service.ClientService - addClient() invoked
+16 Nov 2021 - 21:25:50.952 [qtp1338841523-13] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+16 Nov 2021 - 21:25:50.952 [qtp1338841523-13] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.addClient() invoked.
+16 Nov 2021 - 21:26:03.567 [qtp1338841523-12] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/5/update endpoiint.
+16 Nov 2021 - 21:26:03.567 [qtp1338841523-12] INFO 
+				c.r.controller.ClientController - ClientController.updateClient() invoked.
+16 Nov 2021 - 21:26:03.568 [qtp1338841523-12] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:26:03.568 [qtp1338841523-12] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:26:03.605 [qtp1338841523-12] INFO 
+				com.revature.service.ClientService - client is not null
+16 Nov 2021 - 21:26:03.605 [qtp1338841523-12] INFO 
+				com.revature.service.ClientService - updateClient() invoked
+16 Nov 2021 - 21:26:03.605 [qtp1338841523-12] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:26:03.640 [qtp1338841523-12] INFO 
+				com.revature.service.ClientService - no firstName nor lastName boxes was checked.
+16 Nov 2021 - 21:26:10.932 [qtp1338841523-13] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/5/update endpoiint.
+16 Nov 2021 - 21:26:10.932 [qtp1338841523-13] INFO 
+				c.r.controller.ClientController - ClientController.updateClient() invoked.
+16 Nov 2021 - 21:26:10.932 [qtp1338841523-13] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:26:10.932 [qtp1338841523-13] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:26:10.968 [qtp1338841523-13] INFO 
+				com.revature.service.ClientService - client is not null
+16 Nov 2021 - 21:26:10.969 [qtp1338841523-13] INFO 
+				com.revature.service.ClientService - updateClient() invoked
+16 Nov 2021 - 21:26:10.969 [qtp1338841523-13] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:26:11.007 [qtp1338841523-13] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.updateClient() invoked.
+16 Nov 2021 - 21:26:17.550 [qtp1338841523-12] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/5/update endpoiint.
+16 Nov 2021 - 21:26:17.550 [qtp1338841523-12] INFO 
+				c.r.controller.ClientController - ClientController.updateClient() invoked.
+16 Nov 2021 - 21:26:17.550 [qtp1338841523-12] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:26:17.550 [qtp1338841523-12] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:26:17.589 [qtp1338841523-12] INFO 
+				com.revature.service.ClientService - client is not null
+16 Nov 2021 - 21:26:17.589 [qtp1338841523-12] INFO 
+				com.revature.service.ClientService - updateClient() invoked
+16 Nov 2021 - 21:26:17.589 [qtp1338841523-12] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:26:17.624 [qtp1338841523-12] INFO 
+				com.revature.service.ClientService - lastName update invoked.
+16 Nov 2021 - 21:26:17.624 [qtp1338841523-12] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.updateClient() invoked.
+16 Nov 2021 - 21:26:23.776 [qtp1338841523-13] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/4/update endpoiint.
+16 Nov 2021 - 21:26:23.776 [qtp1338841523-13] INFO 
+				c.r.controller.ClientController - ClientController.updateClient() invoked.
+16 Nov 2021 - 21:26:23.776 [qtp1338841523-13] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:26:23.776 [qtp1338841523-13] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:26:23.812 [qtp1338841523-13] INFO 
+				com.revature.service.ClientService - client is not null
+16 Nov 2021 - 21:26:23.812 [qtp1338841523-13] INFO 
+				com.revature.service.ClientService - updateClient() invoked
+16 Nov 2021 - 21:26:23.812 [qtp1338841523-13] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:26:23.848 [qtp1338841523-13] INFO 
+				com.revature.service.ClientService - firstName and lastName update invoked.
+16 Nov 2021 - 21:26:23.848 [qtp1338841523-13] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.updateClient() invoked.
+16 Nov 2021 - 21:26:29.065 [qtp1338841523-12] INFO 
+				com.revature.app.BankApiApplication - GET request recieved to the /clients endpoiint.
+16 Nov 2021 - 21:26:29.065 [qtp1338841523-12] INFO 
+				c.r.controller.ClientController - ClientController.getAllClients() invoked.
+16 Nov 2021 - 21:26:29.065 [qtp1338841523-12] INFO 
+				com.revature.service.ClientService - ClientService.getAllClients() invoked.
+16 Nov 2021 - 21:26:29.065 [qtp1338841523-12] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getAllClients() invoked.
+16 Nov 2021 - 21:26:39.654 [qtp1338841523-13] INFO 
+				com.revature.app.BankApiApplication - DELETE request recieved to the /clients/5 endpoiint.
+16 Nov 2021 - 21:26:39.654 [qtp1338841523-13] INFO 
+				c.r.controller.ClientController - ClientController.deleteClientByClientId() invoked.
+16 Nov 2021 - 21:26:39.654 [qtp1338841523-13] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:26:39.654 [qtp1338841523-13] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:26:39.691 [qtp1338841523-13] INFO 
+				com.revature.service.ClientService - client is not null
+16 Nov 2021 - 21:26:39.691 [qtp1338841523-13] INFO 
+				com.revature.service.ClientService - deleteStudentById() invoked
+16 Nov 2021 - 21:26:39.691 [qtp1338841523-13] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.deleteClientByClientId() invoked.
+16 Nov 2021 - 21:26:43.525 [qtp1338841523-12] INFO 
+				com.revature.app.BankApiApplication - GET request recieved to the /clients endpoiint.
+16 Nov 2021 - 21:26:43.526 [qtp1338841523-12] INFO 
+				c.r.controller.ClientController - ClientController.getAllClients() invoked.
+16 Nov 2021 - 21:26:43.526 [qtp1338841523-12] INFO 
+				com.revature.service.ClientService - ClientService.getAllClients() invoked.
+16 Nov 2021 - 21:26:43.526 [qtp1338841523-12] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getAllClients() invoked.
+16 Nov 2021 - 21:30:16.448 [qtp1338841523-24] INFO 
+				com.revature.app.BankApiApplication - GET request recieved to the /clients/asd endpoiint.
+16 Nov 2021 - 21:30:16.449 [qtp1338841523-24] INFO 
+				c.r.controller.ClientController - ClientController.getClientByClientId() invoked.
+16 Nov 2021 - 21:30:16.449 [qtp1338841523-24] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:30:16.449 [qtp1338841523-24] INFO 
+				com.revature.service.ClientService - Client ID provided is not an int convertable value.
+16 Nov 2021 - 21:30:20.691 [qtp1338841523-27] INFO 
+				com.revature.app.BankApiApplication - GET request recieved to the /clients/2 endpoiint.
+16 Nov 2021 - 21:30:20.691 [qtp1338841523-27] INFO 
+				c.r.controller.ClientController - ClientController.getClientByClientId() invoked.
+16 Nov 2021 - 21:30:20.691 [qtp1338841523-27] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:30:20.691 [qtp1338841523-27] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:30:20.727 [qtp1338841523-27] INFO 
+				com.revature.service.ClientService - client is not null
+16 Nov 2021 - 21:30:20.728 [qtp1338841523-27] INFO 
+				com.revature.service.ClientService - getClientById() invoked
+16 Nov 2021 - 21:30:20.728 [qtp1338841523-27] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:31:22.085 [qtp1338841523-12] INFO 
+				com.revature.app.BankApiApplication - GET request recieved to the /clients/1/accounts/12 endpoiint.
+16 Nov 2021 - 21:31:22.086 [qtp1338841523-12] INFO 
+				c.r.controller.AccountController - AccountController.getAccountByAccountId() incoked.
+16 Nov 2021 - 21:31:22.086 [qtp1338841523-12] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:31:22.086 [qtp1338841523-12] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:31:22.122 [qtp1338841523-12] INFO 
+				com.revature.service.ClientService - client is not null
+16 Nov 2021 - 21:31:22.122 [qtp1338841523-12] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:31:22.122 [qtp1338841523-12] INFO 
+				com.revature.service.AccountService - Client Id 1 Account Id 12
+16 Nov 2021 - 21:31:22.122 [qtp1338841523-12] INFO 
+				com.revature.service.AccountService - clId 1 alId 12
+16 Nov 2021 - 21:31:22.122 [qtp1338841523-12] INFO 
+				com.revature.service.AccountService - clientDao com.revature.dao.ClientDAO@7e4631a0 alId {}
+16 Nov 2021 - 21:31:22.122 [qtp1338841523-12] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:31:22.157 [qtp1338841523-12] INFO 
+				com.revature.service.AccountService - Client Client [clientId=1, firstName=Jinx, lastName=Fury, birthdate=11111996]
+16 Nov 2021 - 21:31:22.157 [qtp1338841523-12] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+16 Nov 2021 - 21:31:22.193 [qtp1338841523-12] INFO 
+				com.revature.service.AccountService - client exist, but no account with the account ID.
+16 Nov 2021 - 21:31:29.946 [qtp1338841523-16] INFO 
+				com.revature.app.BankApiApplication - GET request recieved to the /clients/1/accounts/1 endpoiint.
+16 Nov 2021 - 21:31:29.946 [qtp1338841523-16] INFO 
+				c.r.controller.AccountController - AccountController.getAccountByAccountId() incoked.
+16 Nov 2021 - 21:31:29.946 [qtp1338841523-16] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:31:29.946 [qtp1338841523-16] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:31:29.984 [qtp1338841523-16] INFO 
+				com.revature.service.ClientService - client is not null
+16 Nov 2021 - 21:31:29.984 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:31:29.984 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - Client Id 1 Account Id 1
+16 Nov 2021 - 21:31:29.984 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - clId 1 alId 1
+16 Nov 2021 - 21:31:29.984 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - clientDao com.revature.dao.ClientDAO@7e4631a0 alId {}
+16 Nov 2021 - 21:31:29.984 [qtp1338841523-16] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:31:30.019 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - Client Client [clientId=1, firstName=Jinx, lastName=Fury, birthdate=11111996]
+16 Nov 2021 - 21:31:30.020 [qtp1338841523-16] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+16 Nov 2021 - 21:31:30.054 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - client exist and account exist
+16 Nov 2021 - 21:31:30.054 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - AccountService.getAccountByAccountId() invoked.
+16 Nov 2021 - 21:31:30.054 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - clientId : 1
+16 Nov 2021 - 21:31:30.055 [qtp1338841523-16] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+16 Nov 2021 - 21:32:05.279 [qtp1338841523-27] INFO 
+				com.revature.app.BankApiApplication - GET request recieved to the /clients/2/accounts/ endpoiint.
+16 Nov 2021 - 21:32:05.279 [qtp1338841523-27] INFO 
+				c.r.controller.AccountController - AccountController.getAllAccountsByClientId() incoked.
+16 Nov 2021 - 21:32:05.279 [qtp1338841523-27] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:32:05.279 [qtp1338841523-27] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:32:05.417 [qtp1338841523-27] INFO 
+				com.revature.service.ClientService - client is not null
+16 Nov 2021 - 21:32:05.418 [qtp1338841523-27] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:32:05.418 [qtp1338841523-27] INFO 
+				com.revature.service.AccountService - GT and LT are not checked.
+16 Nov 2021 - 21:32:05.418 [qtp1338841523-27] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAllAcocuntsByClientId() invoked.
+16 Nov 2021 - 21:32:14.133 [qtp1338841523-19] INFO 
+				com.revature.app.BankApiApplication - GET request recieved to the /clients/2/accounts/ endpoiint.
+16 Nov 2021 - 21:32:14.133 [qtp1338841523-19] INFO 
+				c.r.controller.AccountController - AccountController.getAllAccountsByClientId() incoked.
+16 Nov 2021 - 21:32:14.133 [qtp1338841523-19] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:32:14.133 [qtp1338841523-19] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:32:14.170 [qtp1338841523-19] INFO 
+				com.revature.service.ClientService - client is not null
+16 Nov 2021 - 21:32:14.170 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:32:14.170 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - GT checked.
+16 Nov 2021 - 21:32:14.170 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - GT have amount.
+16 Nov 2021 - 21:32:14.170 [qtp1338841523-19] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAllAcocuntsByClientId() invoked.
+16 Nov 2021 - 21:32:22.426 [qtp1338841523-27] INFO 
+				com.revature.app.BankApiApplication - GET request recieved to the /clients/2/accounts/ endpoiint.
+16 Nov 2021 - 21:32:22.426 [qtp1338841523-27] INFO 
+				c.r.controller.AccountController - AccountController.getAllAccountsByClientId() incoked.
+16 Nov 2021 - 21:32:22.426 [qtp1338841523-27] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:32:22.426 [qtp1338841523-27] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:32:22.462 [qtp1338841523-27] INFO 
+				com.revature.service.ClientService - client is not null
+16 Nov 2021 - 21:32:22.462 [qtp1338841523-27] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:32:22.462 [qtp1338841523-27] INFO 
+				com.revature.service.AccountService - GT checked.
+16 Nov 2021 - 21:32:22.462 [qtp1338841523-27] INFO 
+				com.revature.service.AccountService - GT have amount.
+16 Nov 2021 - 21:32:22.462 [qtp1338841523-27] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAllAcocuntsByClientId() invoked.
+16 Nov 2021 - 21:32:26.515 [qtp1338841523-19] INFO 
+				com.revature.app.BankApiApplication - GET request recieved to the /clients/2/accounts/ endpoiint.
+16 Nov 2021 - 21:32:26.515 [qtp1338841523-19] INFO 
+				c.r.controller.AccountController - AccountController.getAllAccountsByClientId() incoked.
+16 Nov 2021 - 21:32:26.516 [qtp1338841523-19] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:32:26.516 [qtp1338841523-19] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:32:26.550 [qtp1338841523-19] INFO 
+				com.revature.service.ClientService - client is not null
+16 Nov 2021 - 21:32:26.550 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:32:26.550 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - GT and LT are are checked.
+16 Nov 2021 - 21:32:26.550 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - GT and LT have amounts.
+16 Nov 2021 - 21:32:26.550 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - GT and LT amounts 6500 90000
+16 Nov 2021 - 21:32:26.550 [qtp1338841523-19] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAllAcocuntsByClientId() invoked.
+16 Nov 2021 - 21:32:29.511 [qtp1338841523-27] INFO 
+				com.revature.app.BankApiApplication - GET request recieved to the /clients/2/accounts/ endpoiint.
+16 Nov 2021 - 21:32:29.511 [qtp1338841523-27] INFO 
+				c.r.controller.AccountController - AccountController.getAllAccountsByClientId() incoked.
+16 Nov 2021 - 21:32:29.511 [qtp1338841523-27] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:32:29.511 [qtp1338841523-27] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:32:29.548 [qtp1338841523-27] INFO 
+				com.revature.service.ClientService - client is not null
+16 Nov 2021 - 21:32:29.548 [qtp1338841523-27] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:32:29.548 [qtp1338841523-27] INFO 
+				com.revature.service.AccountService - LT checked.
+16 Nov 2021 - 21:32:29.548 [qtp1338841523-27] INFO 
+				com.revature.service.AccountService - GT have amount.
+16 Nov 2021 - 21:32:29.548 [qtp1338841523-27] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAllAcocuntsByClientId() invoked.
+16 Nov 2021 - 21:32:48.204 [qtp1338841523-19] INFO 
+				com.revature.app.BankApiApplication - POST request recieved to the /clients/1/accounts endpoiint.
+16 Nov 2021 - 21:32:48.204 [qtp1338841523-19] INFO 
+				c.r.controller.AccountController - AccountController.openNewAccount() invoked.
+16 Nov 2021 - 21:32:48.204 [qtp1338841523-19] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:32:48.204 [qtp1338841523-19] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:32:48.240 [qtp1338841523-19] INFO 
+				com.revature.service.ClientService - client is not null
+16 Nov 2021 - 21:32:48.243 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - AccountService.openNewAccount() invoked.
+16 Nov 2021 - 21:32:48.243 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - Amount is blank or less than 0.
+16 Nov 2021 - 21:32:53.057 [qtp1338841523-27] INFO 
+				com.revature.app.BankApiApplication - POST request recieved to the /clients/1/accounts endpoiint.
+16 Nov 2021 - 21:32:53.057 [qtp1338841523-27] INFO 
+				c.r.controller.AccountController - AccountController.openNewAccount() invoked.
+16 Nov 2021 - 21:32:53.057 [qtp1338841523-27] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:32:53.057 [qtp1338841523-27] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:32:53.094 [qtp1338841523-27] INFO 
+				com.revature.service.ClientService - client is not null
+16 Nov 2021 - 21:32:53.097 [qtp1338841523-27] WARN 
+				io.javalin.Javalin - Uncaught exception
+com.fasterxml.jackson.databind.exc.InvalidFormatException: Cannot deserialize value of type `java.lang.Double` from String "sadf": not a valid `Double` value
+ at [Source: (String)"{
+    "clientId": "1",
+    "accountType": "Saving",
+    "amount": "sadf"
+}"; line: 4, column: 15] (through reference chain: com.revature.model.Account["amount"])
+	at com.fasterxml.jackson.databind.exc.InvalidFormatException.from(InvalidFormatException.java:67)
+	at com.fasterxml.jackson.databind.DeserializationContext.weirdStringException(DeserializationContext.java:1991)
+	at com.fasterxml.jackson.databind.DeserializationContext.handleWeirdStringValue(DeserializationContext.java:1219)
+	at com.fasterxml.jackson.databind.deser.std.NumberDeserializers$DoubleDeserializer._parseDouble(NumberDeserializers.java:741)
+	at com.fasterxml.jackson.databind.deser.std.NumberDeserializers$DoubleDeserializer.deserialize(NumberDeserializers.java:676)
+	at com.fasterxml.jackson.databind.deser.std.NumberDeserializers$DoubleDeserializer.deserialize(NumberDeserializers.java:655)
+	at com.fasterxml.jackson.databind.deser.impl.MethodProperty.deserializeAndSet(MethodProperty.java:129)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.vanillaDeserialize(BeanDeserializer.java:313)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserializer.java:176)
+	at com.fasterxml.jackson.databind.deser.DefaultDeserializationContext.readRootValue(DefaultDeserializationContext.java:322)
+	at com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:4675)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3630)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3598)
+	at io.javalin.plugin.json.JavalinJackson.fromJsonString(JavalinJackson.kt:37)
+	at io.javalin.http.Context.bodyAsClass(Context.kt:114)
+	at com.revature.controller.AccountController.lambda$2(AccountController.java:96)
+	at io.javalin.core.security.SecurityUtil.noopAccessManager(SecurityUtil.kt:20)
+	at io.javalin.http.JavalinServlet.addHandler$lambda-5(JavalinServlet.kt:113)
+	at io.javalin.http.JavalinServlet$service$tryBeforeAndEndpointHandlers$1.invoke(JavalinServlet.kt:44)
+	at io.javalin.http.JavalinServlet$service$tryBeforeAndEndpointHandlers$1.invoke(JavalinServlet.kt:39)
+	at io.javalin.http.JavalinServlet.service$tryWithExceptionMapper(JavalinServlet.kt:129)
+	at io.javalin.http.JavalinServlet.service$tryBeforeAndEndpointHandlers(JavalinServlet.kt:39)
+	at io.javalin.http.JavalinServlet.service(JavalinServlet.kt:87)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at io.javalin.jetty.JavalinJettyServlet.service(JavalinJettyServlet.kt:58)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:799)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:550)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:233)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:1624)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:233)
+	at io.javalin.jetty.JettyServer$start$wsAndHttpHandler$1.doHandle(JettyServer.kt:52)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:188)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:501)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1594)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:186)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1349)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141)
+	at org.eclipse.jetty.server.handler.StatisticsHandler.handle(StatisticsHandler.java:179)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)
+	at org.eclipse.jetty.server.Server.handle(Server.java:516)
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:400)
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:645)
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:392)
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:277)
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311)
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105)
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:338)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:315)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:173)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:131)
+	at org.eclipse.jetty.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:409)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:883)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:1034)
+	at java.lang.Thread.run(Thread.java:748)
+16 Nov 2021 - 21:34:25.546 [main] INFO 
+				io.javalin.Javalin - 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+16 Nov 2021 - 21:34:25.556 [main] INFO 
+				org.eclipse.jetty.util.log - Logging initialized @416ms to org.eclipse.jetty.util.log.Slf4jLog
+16 Nov 2021 - 21:34:25.557 [main] INFO 
+				io.javalin.Javalin - Starting Javalin ...
+16 Nov 2021 - 21:34:25.575 [main] INFO 
+				io.javalin.Javalin - You are running Javalin 4.1.1 (released October 10, 2021).
+16 Nov 2021 - 21:34:25.576 [main] INFO 
+				io.javalin.Javalin - No port specified, starting on port 8080. Call start(port) to change ports.
+16 Nov 2021 - 21:34:25.892 [main] INFO 
+				io.javalin.Javalin - Listening on http://localhost:8080/
+16 Nov 2021 - 21:34:25.892 [main] INFO 
+				io.javalin.Javalin - Javalin started in 335ms \o/
+16 Nov 2021 - 21:34:28.541 [qtp1338841523-24] INFO 
+				com.revature.app.BankApiApplication - POST request recieved to the /clients/1/accounts endpoiint.
+16 Nov 2021 - 21:34:28.542 [qtp1338841523-24] INFO 
+				c.r.controller.AccountController - AccountController.openNewAccount() invoked.
+16 Nov 2021 - 21:34:28.542 [qtp1338841523-24] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:34:28.542 [qtp1338841523-24] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:34:28.909 [qtp1338841523-24] INFO 
+				com.revature.service.ClientService - client is not null
+16 Nov 2021 - 21:34:29.113 [qtp1338841523-24] WARN 
+				io.javalin.Javalin - Uncaught exception
+com.fasterxml.jackson.databind.exc.InvalidFormatException: Cannot deserialize value of type `java.lang.Double` from String "sadf": not a valid `Double` value
+ at [Source: (String)"{
+    "clientId": "1",
+    "accountType": "Saving",
+    "amount": "sadf"
+}"; line: 4, column: 15] (through reference chain: com.revature.model.Account["amount"])
+	at com.fasterxml.jackson.databind.exc.InvalidFormatException.from(InvalidFormatException.java:67)
+	at com.fasterxml.jackson.databind.DeserializationContext.weirdStringException(DeserializationContext.java:1991)
+	at com.fasterxml.jackson.databind.DeserializationContext.handleWeirdStringValue(DeserializationContext.java:1219)
+	at com.fasterxml.jackson.databind.deser.std.NumberDeserializers$DoubleDeserializer._parseDouble(NumberDeserializers.java:741)
+	at com.fasterxml.jackson.databind.deser.std.NumberDeserializers$DoubleDeserializer.deserialize(NumberDeserializers.java:676)
+	at com.fasterxml.jackson.databind.deser.std.NumberDeserializers$DoubleDeserializer.deserialize(NumberDeserializers.java:655)
+	at com.fasterxml.jackson.databind.deser.impl.MethodProperty.deserializeAndSet(MethodProperty.java:129)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.vanillaDeserialize(BeanDeserializer.java:313)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserializer.java:176)
+	at com.fasterxml.jackson.databind.deser.DefaultDeserializationContext.readRootValue(DefaultDeserializationContext.java:322)
+	at com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:4675)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3630)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3598)
+	at io.javalin.plugin.json.JavalinJackson.fromJsonString(JavalinJackson.kt:37)
+	at io.javalin.http.Context.bodyAsClass(Context.kt:114)
+	at com.revature.controller.AccountController.lambda$2(AccountController.java:96)
+	at io.javalin.core.security.SecurityUtil.noopAccessManager(SecurityUtil.kt:20)
+	at io.javalin.http.JavalinServlet.addHandler$lambda-5(JavalinServlet.kt:113)
+	at io.javalin.http.JavalinServlet$service$tryBeforeAndEndpointHandlers$1.invoke(JavalinServlet.kt:44)
+	at io.javalin.http.JavalinServlet$service$tryBeforeAndEndpointHandlers$1.invoke(JavalinServlet.kt:39)
+	at io.javalin.http.JavalinServlet.service$tryWithExceptionMapper(JavalinServlet.kt:129)
+	at io.javalin.http.JavalinServlet.service$tryBeforeAndEndpointHandlers(JavalinServlet.kt:39)
+	at io.javalin.http.JavalinServlet.service(JavalinServlet.kt:87)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at io.javalin.jetty.JavalinJettyServlet.service(JavalinJettyServlet.kt:58)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:799)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:550)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:233)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:1624)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:233)
+	at io.javalin.jetty.JettyServer$start$wsAndHttpHandler$1.doHandle(JettyServer.kt:52)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:188)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:501)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1594)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:186)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1349)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141)
+	at org.eclipse.jetty.server.handler.StatisticsHandler.handle(StatisticsHandler.java:179)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)
+	at org.eclipse.jetty.server.Server.handle(Server.java:516)
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:400)
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:645)
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:392)
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:277)
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311)
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105)
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:883)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:1034)
+	at java.lang.Thread.run(Thread.java:748)
+16 Nov 2021 - 21:35:03.034 [main] INFO 
+				io.javalin.Javalin - 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+16 Nov 2021 - 21:35:03.047 [main] INFO 
+				org.eclipse.jetty.util.log - Logging initialized @413ms to org.eclipse.jetty.util.log.Slf4jLog
+16 Nov 2021 - 21:35:03.048 [main] INFO 
+				io.javalin.Javalin - Starting Javalin ...
+16 Nov 2021 - 21:35:03.066 [main] INFO 
+				io.javalin.Javalin - You are running Javalin 4.1.1 (released October 10, 2021).
+16 Nov 2021 - 21:35:03.066 [main] INFO 
+				io.javalin.Javalin - No port specified, starting on port 8080. Call start(port) to change ports.
+16 Nov 2021 - 21:35:03.382 [main] INFO 
+				io.javalin.Javalin - Listening on http://localhost:8080/
+16 Nov 2021 - 21:35:03.382 [main] INFO 
+				io.javalin.Javalin - Javalin started in 334ms \o/
+16 Nov 2021 - 21:35:06.148 [qtp1338841523-17] INFO 
+				com.revature.app.BankApiApplication - POST request recieved to the /clients/1/accounts endpoiint.
+16 Nov 2021 - 21:35:06.148 [qtp1338841523-17] INFO 
+				c.r.controller.AccountController - AccountController.openNewAccount() invoked.
+16 Nov 2021 - 21:35:06.149 [qtp1338841523-17] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:35:06.149 [qtp1338841523-17] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:35:06.524 [qtp1338841523-17] INFO 
+				com.revature.service.ClientService - client is not null
+16 Nov 2021 - 21:35:06.726 [qtp1338841523-17] WARN 
+				io.javalin.Javalin - Uncaught exception
+com.fasterxml.jackson.databind.exc.InvalidFormatException: Cannot deserialize value of type `java.lang.Double` from String "sadf": not a valid `Double` value
+ at [Source: (String)"{
+    "clientId": "1",
+    "accountType": "Saving",
+    "amount": "sadf"
+}"; line: 4, column: 15] (through reference chain: com.revature.model.Account["amount"])
+	at com.fasterxml.jackson.databind.exc.InvalidFormatException.from(InvalidFormatException.java:67)
+	at com.fasterxml.jackson.databind.DeserializationContext.weirdStringException(DeserializationContext.java:1991)
+	at com.fasterxml.jackson.databind.DeserializationContext.handleWeirdStringValue(DeserializationContext.java:1219)
+	at com.fasterxml.jackson.databind.deser.std.NumberDeserializers$DoubleDeserializer._parseDouble(NumberDeserializers.java:741)
+	at com.fasterxml.jackson.databind.deser.std.NumberDeserializers$DoubleDeserializer.deserialize(NumberDeserializers.java:676)
+	at com.fasterxml.jackson.databind.deser.std.NumberDeserializers$DoubleDeserializer.deserialize(NumberDeserializers.java:655)
+	at com.fasterxml.jackson.databind.deser.impl.MethodProperty.deserializeAndSet(MethodProperty.java:129)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.vanillaDeserialize(BeanDeserializer.java:313)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserializer.java:176)
+	at com.fasterxml.jackson.databind.deser.DefaultDeserializationContext.readRootValue(DefaultDeserializationContext.java:322)
+	at com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:4675)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3630)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3598)
+	at io.javalin.plugin.json.JavalinJackson.fromJsonString(JavalinJackson.kt:37)
+	at io.javalin.http.Context.bodyAsClass(Context.kt:114)
+	at com.revature.controller.AccountController.lambda$2(AccountController.java:96)
+	at io.javalin.core.security.SecurityUtil.noopAccessManager(SecurityUtil.kt:20)
+	at io.javalin.http.JavalinServlet.addHandler$lambda-5(JavalinServlet.kt:113)
+	at io.javalin.http.JavalinServlet$service$tryBeforeAndEndpointHandlers$1.invoke(JavalinServlet.kt:44)
+	at io.javalin.http.JavalinServlet$service$tryBeforeAndEndpointHandlers$1.invoke(JavalinServlet.kt:39)
+	at io.javalin.http.JavalinServlet.service$tryWithExceptionMapper(JavalinServlet.kt:129)
+	at io.javalin.http.JavalinServlet.service$tryBeforeAndEndpointHandlers(JavalinServlet.kt:39)
+	at io.javalin.http.JavalinServlet.service(JavalinServlet.kt:87)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at io.javalin.jetty.JavalinJettyServlet.service(JavalinJettyServlet.kt:58)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:799)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:550)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:233)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:1624)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:233)
+	at io.javalin.jetty.JettyServer$start$wsAndHttpHandler$1.doHandle(JettyServer.kt:52)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:188)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:501)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1594)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:186)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1349)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141)
+	at org.eclipse.jetty.server.handler.StatisticsHandler.handle(StatisticsHandler.java:179)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)
+	at org.eclipse.jetty.server.Server.handle(Server.java:516)
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:400)
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:645)
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:392)
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:277)
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311)
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105)
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:883)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:1034)
+	at java.lang.Thread.run(Thread.java:748)
+16 Nov 2021 - 21:35:28.087 [qtp1338841523-14] INFO 
+				com.revature.app.BankApiApplication - POST request recieved to the /clients/1/accounts endpoiint.
+16 Nov 2021 - 21:35:28.087 [qtp1338841523-14] INFO 
+				c.r.controller.AccountController - AccountController.openNewAccount() invoked.
+16 Nov 2021 - 21:35:28.087 [qtp1338841523-14] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:35:28.087 [qtp1338841523-14] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:35:28.127 [qtp1338841523-14] INFO 
+				com.revature.service.ClientService - client is not null
+16 Nov 2021 - 21:35:28.127 [qtp1338841523-14] INFO 
+				com.revature.service.AccountService - AccountService.openNewAccount() invoked.
+16 Nov 2021 - 21:35:28.127 [qtp1338841523-14] WARN 
+				io.javalin.Javalin - Uncaught exception
+java.lang.NullPointerException: null
+	at com.revature.service.AccountService.openNewAccount(AccountService.java:252)
+	at com.revature.controller.AccountController.lambda$2(AccountController.java:98)
+	at io.javalin.core.security.SecurityUtil.noopAccessManager(SecurityUtil.kt:20)
+	at io.javalin.http.JavalinServlet.addHandler$lambda-5(JavalinServlet.kt:113)
+	at io.javalin.http.JavalinServlet$service$tryBeforeAndEndpointHandlers$1.invoke(JavalinServlet.kt:44)
+	at io.javalin.http.JavalinServlet$service$tryBeforeAndEndpointHandlers$1.invoke(JavalinServlet.kt:39)
+	at io.javalin.http.JavalinServlet.service$tryWithExceptionMapper(JavalinServlet.kt:129)
+	at io.javalin.http.JavalinServlet.service$tryBeforeAndEndpointHandlers(JavalinServlet.kt:39)
+	at io.javalin.http.JavalinServlet.service(JavalinServlet.kt:87)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at io.javalin.jetty.JavalinJettyServlet.service(JavalinJettyServlet.kt:58)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:799)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:550)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:233)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:1624)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:233)
+	at io.javalin.jetty.JettyServer$start$wsAndHttpHandler$1.doHandle(JettyServer.kt:52)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:188)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:501)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1594)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:186)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1349)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141)
+	at org.eclipse.jetty.server.handler.StatisticsHandler.handle(StatisticsHandler.java:179)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)
+	at org.eclipse.jetty.server.Server.handle(Server.java:516)
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:400)
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:645)
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:392)
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:277)
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311)
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105)
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:338)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:315)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:173)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.produce(EatWhatYouKill.java:137)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:883)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:1034)
+	at java.lang.Thread.run(Thread.java:748)
+16 Nov 2021 - 21:41:49.308 [main] INFO 
+				io.javalin.Javalin - 
+       __                      __ _            __ __
+      / /____ _ _   __ ____ _ / /(_)____      / // /
+ __  / // __ `/| | / // __ `// // // __ \    / // /_
+/ /_/ // /_/ / | |/ // /_/ // // // / / /   /__  __/
+\____/ \__,_/  |___/ \__,_//_//_//_/ /_/      /_/
+
+          https://javalin.io/documentation
+
+16 Nov 2021 - 21:41:49.318 [main] INFO 
+				org.eclipse.jetty.util.log - Logging initialized @425ms to org.eclipse.jetty.util.log.Slf4jLog
+16 Nov 2021 - 21:41:49.319 [main] INFO 
+				io.javalin.Javalin - Starting Javalin ...
+16 Nov 2021 - 21:41:49.338 [main] INFO 
+				io.javalin.Javalin - You are running Javalin 4.1.1 (released October 10, 2021).
+16 Nov 2021 - 21:41:49.338 [main] INFO 
+				io.javalin.Javalin - No port specified, starting on port 8080. Call start(port) to change ports.
+16 Nov 2021 - 21:41:49.691 [main] INFO 
+				io.javalin.Javalin - Listening on http://localhost:8080/
+16 Nov 2021 - 21:41:49.691 [main] INFO 
+				io.javalin.Javalin - Javalin started in 372ms \o/
+16 Nov 2021 - 21:41:50.593 [qtp1338841523-18] INFO 
+				com.revature.app.BankApiApplication - POST request recieved to the /clients/1/accounts endpoiint.
+16 Nov 2021 - 21:41:50.594 [qtp1338841523-18] INFO 
+				c.r.controller.AccountController - AccountController.openNewAccount() invoked.
+16 Nov 2021 - 21:41:50.594 [qtp1338841523-18] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:41:50.594 [qtp1338841523-18] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:41:50.967 [qtp1338841523-18] INFO 
+				com.revature.service.ClientService - client is not null
+16 Nov 2021 - 21:41:51.167 [qtp1338841523-18] INFO 
+				com.revature.service.AccountService - AccountService.openNewAccount() invoked.
+16 Nov 2021 - 21:41:51.167 [qtp1338841523-18] INFO 
+				com.revature.service.AccountService - Amount is blank or less than 0.
+16 Nov 2021 - 21:41:58.112 [qtp1338841523-14] INFO 
+				com.revature.app.BankApiApplication - POST request recieved to the /clients/1/accounts endpoiint.
+16 Nov 2021 - 21:41:58.112 [qtp1338841523-14] INFO 
+				c.r.controller.AccountController - AccountController.openNewAccount() invoked.
+16 Nov 2021 - 21:41:58.113 [qtp1338841523-14] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:41:58.113 [qtp1338841523-14] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:41:58.256 [qtp1338841523-14] INFO 
+				com.revature.service.ClientService - client is not null
+16 Nov 2021 - 21:41:58.258 [qtp1338841523-14] WARN 
+				io.javalin.Javalin - Uncaught exception
+com.fasterxml.jackson.core.JsonParseException: Unexpected character ('}' (code 125)): was expecting double-quote to start field name
+ at [Source: (String)"{
+    "clientId": "1",
+    "accountType": "Saving",
+
+}"; line: 5, column: 2]
+	at com.fasterxml.jackson.core.JsonParser._constructError(JsonParser.java:2391)
+	at com.fasterxml.jackson.core.base.ParserMinimalBase._reportError(ParserMinimalBase.java:735)
+	at com.fasterxml.jackson.core.base.ParserMinimalBase._reportUnexpectedChar(ParserMinimalBase.java:659)
+	at com.fasterxml.jackson.core.json.ReaderBasedJsonParser._handleOddName(ReaderBasedJsonParser.java:1860)
+	at com.fasterxml.jackson.core.json.ReaderBasedJsonParser.nextFieldName(ReaderBasedJsonParser.java:962)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.vanillaDeserialize(BeanDeserializer.java:320)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserializer.java:176)
+	at com.fasterxml.jackson.databind.deser.DefaultDeserializationContext.readRootValue(DefaultDeserializationContext.java:322)
+	at com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:4675)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3630)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:3598)
+	at io.javalin.plugin.json.JavalinJackson.fromJsonString(JavalinJackson.kt:37)
+	at io.javalin.http.Context.bodyAsClass(Context.kt:114)
+	at com.revature.controller.AccountController.lambda$2(AccountController.java:96)
+	at io.javalin.core.security.SecurityUtil.noopAccessManager(SecurityUtil.kt:20)
+	at io.javalin.http.JavalinServlet.addHandler$lambda-5(JavalinServlet.kt:113)
+	at io.javalin.http.JavalinServlet$service$tryBeforeAndEndpointHandlers$1.invoke(JavalinServlet.kt:44)
+	at io.javalin.http.JavalinServlet$service$tryBeforeAndEndpointHandlers$1.invoke(JavalinServlet.kt:39)
+	at io.javalin.http.JavalinServlet.service$tryWithExceptionMapper(JavalinServlet.kt:129)
+	at io.javalin.http.JavalinServlet.service$tryBeforeAndEndpointHandlers(JavalinServlet.kt:39)
+	at io.javalin.http.JavalinServlet.service(JavalinServlet.kt:87)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at io.javalin.jetty.JavalinJettyServlet.service(JavalinJettyServlet.kt:58)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.eclipse.jetty.servlet.ServletHolder.handle(ServletHolder.java:799)
+	at org.eclipse.jetty.servlet.ServletHandler.doHandle(ServletHandler.java:550)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:233)
+	at org.eclipse.jetty.server.session.SessionHandler.doHandle(SessionHandler.java:1624)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:233)
+	at io.javalin.jetty.JettyServer$start$wsAndHttpHandler$1.doHandle(JettyServer.kt:52)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:188)
+	at org.eclipse.jetty.servlet.ServletHandler.doScope(ServletHandler.java:501)
+	at org.eclipse.jetty.server.session.SessionHandler.doScope(SessionHandler.java:1594)
+	at org.eclipse.jetty.server.handler.ScopedHandler.nextScope(ScopedHandler.java:186)
+	at org.eclipse.jetty.server.handler.ContextHandler.doScope(ContextHandler.java:1349)
+	at org.eclipse.jetty.server.handler.ScopedHandler.handle(ScopedHandler.java:141)
+	at org.eclipse.jetty.server.handler.StatisticsHandler.handle(StatisticsHandler.java:179)
+	at org.eclipse.jetty.server.handler.HandlerWrapper.handle(HandlerWrapper.java:127)
+	at org.eclipse.jetty.server.Server.handle(Server.java:516)
+	at org.eclipse.jetty.server.HttpChannel.lambda$handle$1(HttpChannel.java:400)
+	at org.eclipse.jetty.server.HttpChannel.dispatch(HttpChannel.java:645)
+	at org.eclipse.jetty.server.HttpChannel.handle(HttpChannel.java:392)
+	at org.eclipse.jetty.server.HttpConnection.onFillable(HttpConnection.java:277)
+	at org.eclipse.jetty.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:311)
+	at org.eclipse.jetty.io.FillInterest.fillable(FillInterest.java:105)
+	at org.eclipse.jetty.io.ChannelEndPoint$1.run(ChannelEndPoint.java:104)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:338)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:315)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:173)
+	at org.eclipse.jetty.util.thread.strategy.EatWhatYouKill.produce(EatWhatYouKill.java:137)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:883)
+	at org.eclipse.jetty.util.thread.QueuedThreadPool$Runner.run(QueuedThreadPool.java:1034)
+	at java.lang.Thread.run(Thread.java:748)
+16 Nov 2021 - 21:42:25.792 [qtp1338841523-16] INFO 
+				com.revature.app.BankApiApplication - POST request recieved to the /clients/1/accounts endpoiint.
+16 Nov 2021 - 21:42:25.792 [qtp1338841523-16] INFO 
+				c.r.controller.AccountController - AccountController.openNewAccount() invoked.
+16 Nov 2021 - 21:42:25.792 [qtp1338841523-16] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:42:25.792 [qtp1338841523-16] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:42:25.829 [qtp1338841523-16] INFO 
+				com.revature.service.ClientService - client is not null
+16 Nov 2021 - 21:42:25.830 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - AccountService.openNewAccount() invoked.
+16 Nov 2021 - 21:42:25.830 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - Amount is blank or less than 0.
+16 Nov 2021 - 21:42:32.198 [qtp1338841523-19] INFO 
+				com.revature.app.BankApiApplication - POST request recieved to the /clients/1/accounts endpoiint.
+16 Nov 2021 - 21:42:32.198 [qtp1338841523-19] INFO 
+				c.r.controller.AccountController - AccountController.openNewAccount() invoked.
+16 Nov 2021 - 21:42:32.198 [qtp1338841523-19] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:42:32.198 [qtp1338841523-19] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:42:32.237 [qtp1338841523-19] INFO 
+				com.revature.service.ClientService - client is not null
+16 Nov 2021 - 21:42:32.238 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - AccountService.openNewAccount() invoked.
+16 Nov 2021 - 21:42:32.238 [qtp1338841523-19] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.openNewAccount() invoked.
+16 Nov 2021 - 21:42:51.874 [qtp1338841523-16] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/1/accounts/6 endpoiint.
+16 Nov 2021 - 21:42:51.874 [qtp1338841523-16] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+16 Nov 2021 - 21:42:51.875 [qtp1338841523-16] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:42:51.875 [qtp1338841523-16] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:42:51.910 [qtp1338841523-16] INFO 
+				com.revature.service.ClientService - client is not null
+16 Nov 2021 - 21:42:51.910 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:42:51.910 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - Client Id 1 Account Id 6
+16 Nov 2021 - 21:42:51.910 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - clId 1 alId 6
+16 Nov 2021 - 21:42:51.910 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - clientDao com.revature.dao.ClientDAO@3901ceef alId {}
+16 Nov 2021 - 21:42:51.910 [qtp1338841523-16] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:42:51.947 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - Client Client [clientId=1, firstName=Jinx, lastName=Fury, birthdate=11111996]
+16 Nov 2021 - 21:42:51.947 [qtp1338841523-16] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+16 Nov 2021 - 21:42:51.982 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - client exist and account exist
+16 Nov 2021 - 21:42:51.982 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+16 Nov 2021 - 21:42:51.982 [qtp1338841523-16] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+16 Nov 2021 - 21:42:52.017 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - Deposit is checked
+16 Nov 2021 - 21:42:52.018 [qtp1338841523-16] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.updateAmount() invoked.
+16 Nov 2021 - 21:42:53.107 [qtp1338841523-19] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/1/accounts/6 endpoiint.
+16 Nov 2021 - 21:42:53.108 [qtp1338841523-19] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+16 Nov 2021 - 21:42:53.108 [qtp1338841523-19] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:42:53.108 [qtp1338841523-19] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:42:53.147 [qtp1338841523-19] INFO 
+				com.revature.service.ClientService - client is not null
+16 Nov 2021 - 21:42:53.147 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:42:53.147 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - Client Id 1 Account Id 6
+16 Nov 2021 - 21:42:53.147 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - clId 1 alId 6
+16 Nov 2021 - 21:42:53.147 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - clientDao com.revature.dao.ClientDAO@3901ceef alId {}
+16 Nov 2021 - 21:42:53.147 [qtp1338841523-19] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:42:53.182 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - Client Client [clientId=1, firstName=Jinx, lastName=Fury, birthdate=11111996]
+16 Nov 2021 - 21:42:53.182 [qtp1338841523-19] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+16 Nov 2021 - 21:42:53.218 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - client exist and account exist
+16 Nov 2021 - 21:42:53.218 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+16 Nov 2021 - 21:42:53.218 [qtp1338841523-19] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+16 Nov 2021 - 21:42:53.254 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - Deposit is checked
+16 Nov 2021 - 21:42:53.255 [qtp1338841523-19] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.updateAmount() invoked.
+16 Nov 2021 - 21:42:53.874 [qtp1338841523-16] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/1/accounts/6 endpoiint.
+16 Nov 2021 - 21:42:53.874 [qtp1338841523-16] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+16 Nov 2021 - 21:42:53.874 [qtp1338841523-16] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:42:53.874 [qtp1338841523-16] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:42:53.911 [qtp1338841523-16] INFO 
+				com.revature.service.ClientService - client is not null
+16 Nov 2021 - 21:42:53.911 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:42:53.911 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - Client Id 1 Account Id 6
+16 Nov 2021 - 21:42:53.911 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - clId 1 alId 6
+16 Nov 2021 - 21:42:53.911 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - clientDao com.revature.dao.ClientDAO@3901ceef alId {}
+16 Nov 2021 - 21:42:53.911 [qtp1338841523-16] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:42:53.947 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - Client Client [clientId=1, firstName=Jinx, lastName=Fury, birthdate=11111996]
+16 Nov 2021 - 21:42:53.947 [qtp1338841523-16] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+16 Nov 2021 - 21:42:53.982 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - client exist and account exist
+16 Nov 2021 - 21:42:53.982 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+16 Nov 2021 - 21:42:53.982 [qtp1338841523-16] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+16 Nov 2021 - 21:42:54.018 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - Deposit is checked
+16 Nov 2021 - 21:42:54.018 [qtp1338841523-16] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.updateAmount() invoked.
+16 Nov 2021 - 21:42:54.546 [qtp1338841523-19] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/1/accounts/6 endpoiint.
+16 Nov 2021 - 21:42:54.546 [qtp1338841523-19] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+16 Nov 2021 - 21:42:54.546 [qtp1338841523-19] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:42:54.546 [qtp1338841523-19] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:42:54.584 [qtp1338841523-19] INFO 
+				com.revature.service.ClientService - client is not null
+16 Nov 2021 - 21:42:54.584 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:42:54.584 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - Client Id 1 Account Id 6
+16 Nov 2021 - 21:42:54.584 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - clId 1 alId 6
+16 Nov 2021 - 21:42:54.584 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - clientDao com.revature.dao.ClientDAO@3901ceef alId {}
+16 Nov 2021 - 21:42:54.584 [qtp1338841523-19] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:42:54.619 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - Client Client [clientId=1, firstName=Jinx, lastName=Fury, birthdate=11111996]
+16 Nov 2021 - 21:42:54.619 [qtp1338841523-19] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+16 Nov 2021 - 21:42:54.655 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - client exist and account exist
+16 Nov 2021 - 21:42:54.655 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+16 Nov 2021 - 21:42:54.655 [qtp1338841523-19] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+16 Nov 2021 - 21:42:54.797 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - Deposit is checked
+16 Nov 2021 - 21:42:54.797 [qtp1338841523-19] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.updateAmount() invoked.
+16 Nov 2021 - 21:43:00.674 [qtp1338841523-16] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/1/accounts/6 endpoiint.
+16 Nov 2021 - 21:43:00.674 [qtp1338841523-16] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+16 Nov 2021 - 21:43:00.674 [qtp1338841523-16] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:43:00.674 [qtp1338841523-16] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:43:00.710 [qtp1338841523-16] INFO 
+				com.revature.service.ClientService - client is not null
+16 Nov 2021 - 21:43:00.710 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:43:00.711 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - Client Id 1 Account Id 6
+16 Nov 2021 - 21:43:00.711 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - clId 1 alId 6
+16 Nov 2021 - 21:43:00.711 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - clientDao com.revature.dao.ClientDAO@3901ceef alId {}
+16 Nov 2021 - 21:43:00.711 [qtp1338841523-16] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:43:00.745 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - Client Client [clientId=1, firstName=Jinx, lastName=Fury, birthdate=11111996]
+16 Nov 2021 - 21:43:00.745 [qtp1338841523-16] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+16 Nov 2021 - 21:43:00.780 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - client exist and account exist
+16 Nov 2021 - 21:43:00.780 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+16 Nov 2021 - 21:43:00.780 [qtp1338841523-16] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+16 Nov 2021 - 21:43:00.819 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - withdraw is checked
+16 Nov 2021 - 21:43:00.819 [qtp1338841523-16] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.updateAmount() invoked.
+16 Nov 2021 - 21:43:09.452 [qtp1338841523-19] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/1/accounts/6 endpoiint.
+16 Nov 2021 - 21:43:09.452 [qtp1338841523-19] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+16 Nov 2021 - 21:43:09.452 [qtp1338841523-19] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:43:09.452 [qtp1338841523-19] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:43:09.493 [qtp1338841523-19] INFO 
+				com.revature.service.ClientService - client is not null
+16 Nov 2021 - 21:43:09.493 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:43:09.493 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - Client Id 1 Account Id 6
+16 Nov 2021 - 21:43:09.493 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - clId 1 alId 6
+16 Nov 2021 - 21:43:09.493 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - clientDao com.revature.dao.ClientDAO@3901ceef alId {}
+16 Nov 2021 - 21:43:09.493 [qtp1338841523-19] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:43:09.529 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - Client Client [clientId=1, firstName=Jinx, lastName=Fury, birthdate=11111996]
+16 Nov 2021 - 21:43:09.529 [qtp1338841523-19] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+16 Nov 2021 - 21:43:09.565 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - client exist and account exist
+16 Nov 2021 - 21:43:09.565 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+16 Nov 2021 - 21:43:09.565 [qtp1338841523-19] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+16 Nov 2021 - 21:43:09.600 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - withdraw is checked
+16 Nov 2021 - 21:43:17.558 [qtp1338841523-16] INFO 
+				com.revature.app.BankApiApplication - PUT request recieved to the /clients/1/accounts/6 endpoiint.
+16 Nov 2021 - 21:43:17.558 [qtp1338841523-16] INFO 
+				c.r.controller.AccountController - AccountController.updateAmount() invoked.
+16 Nov 2021 - 21:43:17.558 [qtp1338841523-16] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:43:17.558 [qtp1338841523-16] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:43:17.594 [qtp1338841523-16] INFO 
+				com.revature.service.ClientService - client is not null
+16 Nov 2021 - 21:43:17.594 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:43:17.594 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - Client Id 1 Account Id 6
+16 Nov 2021 - 21:43:17.594 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - clId 1 alId 6
+16 Nov 2021 - 21:43:17.594 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - clientDao com.revature.dao.ClientDAO@3901ceef alId {}
+16 Nov 2021 - 21:43:17.594 [qtp1338841523-16] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:43:17.629 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - Client Client [clientId=1, firstName=Jinx, lastName=Fury, birthdate=11111996]
+16 Nov 2021 - 21:43:17.629 [qtp1338841523-16] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+16 Nov 2021 - 21:43:17.668 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - client exist and account exist
+16 Nov 2021 - 21:43:17.668 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+16 Nov 2021 - 21:43:17.668 [qtp1338841523-16] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+16 Nov 2021 - 21:43:17.704 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - deposit and withdraw are checked
+16 Nov 2021 - 21:43:29.101 [qtp1338841523-19] INFO 
+				com.revature.app.BankApiApplication - DELETE request recieved to the /clients/96/accounts/3 endpoiint.
+16 Nov 2021 - 21:43:29.101 [qtp1338841523-19] INFO 
+				c.r.controller.AccountController - Account.Controller.deleteAccountByAccountId() invoked
+16 Nov 2021 - 21:43:29.101 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:43:29.101 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - Client Id 96 Account Id 3
+16 Nov 2021 - 21:43:29.101 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - clId 96 alId 3
+16 Nov 2021 - 21:43:29.101 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - clientDao com.revature.dao.ClientDAO@3901ceef alId {}
+16 Nov 2021 - 21:43:29.101 [qtp1338841523-19] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:43:29.137 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - Client null
+16 Nov 2021 - 21:43:29.137 [qtp1338841523-19] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+16 Nov 2021 - 21:43:29.172 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - client exist and account exist
+16 Nov 2021 - 21:43:29.172 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - AccountService.deleteAccountByAccountId() invoked.
+16 Nov 2021 - 21:43:29.172 [qtp1338841523-19] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+16 Nov 2021 - 21:43:29.209 [qtp1338841523-19] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.deleteAccountByAccountIdAndClientId() invoked.
+16 Nov 2021 - 21:43:38.179 [qtp1338841523-16] INFO 
+				com.revature.app.BankApiApplication - DELETE request recieved to the /clients/1/accounts/6 endpoiint.
+16 Nov 2021 - 21:43:38.179 [qtp1338841523-16] INFO 
+				c.r.controller.AccountController - Account.Controller.deleteAccountByAccountId() invoked
+16 Nov 2021 - 21:43:38.179 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:43:38.179 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - Client Id 1 Account Id 6
+16 Nov 2021 - 21:43:38.179 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - clId 1 alId 6
+16 Nov 2021 - 21:43:38.179 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - clientDao com.revature.dao.ClientDAO@3901ceef alId {}
+16 Nov 2021 - 21:43:38.179 [qtp1338841523-16] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:43:38.331 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - Client Client [clientId=1, firstName=Jinx, lastName=Fury, birthdate=11111996]
+16 Nov 2021 - 21:43:38.331 [qtp1338841523-16] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+16 Nov 2021 - 21:43:38.366 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - client exist and account exist
+16 Nov 2021 - 21:43:38.366 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - AccountService.deleteAccountByAccountId() invoked.
+16 Nov 2021 - 21:43:38.366 [qtp1338841523-16] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+16 Nov 2021 - 21:43:38.402 [qtp1338841523-16] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.deleteAccountByAccountIdAndClientId() invoked.
+16 Nov 2021 - 21:44:01.034 [qtp1338841523-19] INFO 
+				com.revature.app.BankApiApplication - DELETE request recieved to the /clients/1/accounts/1 endpoiint.
+16 Nov 2021 - 21:44:01.035 [qtp1338841523-19] INFO 
+				c.r.controller.AccountController - Account.Controller.deleteAccountByAccountId() invoked
+16 Nov 2021 - 21:44:01.035 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:44:01.035 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - Client Id 1 Account Id 1
+16 Nov 2021 - 21:44:01.035 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - clId 1 alId 1
+16 Nov 2021 - 21:44:01.035 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - clientDao com.revature.dao.ClientDAO@3901ceef alId {}
+16 Nov 2021 - 21:44:01.035 [qtp1338841523-19] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:44:01.071 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - Client Client [clientId=1, firstName=Jinx, lastName=Fury, birthdate=11111996]
+16 Nov 2021 - 21:44:01.071 [qtp1338841523-19] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+16 Nov 2021 - 21:44:01.107 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - client exist and account exist
+16 Nov 2021 - 21:44:01.107 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - AccountService.deleteAccountByAccountId() invoked.
+16 Nov 2021 - 21:44:01.107 [qtp1338841523-19] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+16 Nov 2021 - 21:44:01.143 [qtp1338841523-19] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.deleteAccountByAccountIdAndClientId() invoked.
+16 Nov 2021 - 21:44:13.140 [qtp1338841523-16] INFO 
+				com.revature.app.BankApiApplication - DELETE request recieved to the /clients/1/accounts/1 endpoiint.
+16 Nov 2021 - 21:44:13.140 [qtp1338841523-16] INFO 
+				c.r.controller.AccountController - Account.Controller.deleteAccountByAccountId() invoked
+16 Nov 2021 - 21:44:13.140 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:44:13.140 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - Client Id 1 Account Id 1
+16 Nov 2021 - 21:44:13.140 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - clId 1 alId 1
+16 Nov 2021 - 21:44:13.140 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - clientDao com.revature.dao.ClientDAO@3901ceef alId {}
+16 Nov 2021 - 21:44:13.140 [qtp1338841523-16] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:44:13.175 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - Client Client [clientId=1, firstName=Jinx, lastName=Fury, birthdate=11111996]
+16 Nov 2021 - 21:44:13.175 [qtp1338841523-16] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+16 Nov 2021 - 21:44:13.210 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - client exist, but no account with the account ID.
+16 Nov 2021 - 21:44:33.692 [qtp1338841523-19] INFO 
+				com.revature.app.BankApiApplication - DELETE request recieved to the /clients/1/accounts/1 endpoiint.
+16 Nov 2021 - 21:44:33.692 [qtp1338841523-19] INFO 
+				c.r.controller.AccountController - Account.Controller.deleteAccountByAccountId() invoked
+16 Nov 2021 - 21:44:33.692 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:44:33.692 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - Client Id 1 Account Id 1
+16 Nov 2021 - 21:44:33.692 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - clId 1 alId 1
+16 Nov 2021 - 21:44:33.692 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - clientDao com.revature.dao.ClientDAO@3901ceef alId {}
+16 Nov 2021 - 21:44:33.692 [qtp1338841523-19] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:44:33.728 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - Client Client [clientId=1, firstName=Jinx, lastName=Fury, birthdate=11111996]
+16 Nov 2021 - 21:44:33.728 [qtp1338841523-19] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAccountByAccountId() invoked.
+16 Nov 2021 - 21:44:33.763 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - client exist, but no account with the account ID.
+16 Nov 2021 - 21:46:17.844 [qtp1338841523-12] INFO 
+				com.revature.app.BankApiApplication - POST request recieved to the /clients/1/accounts endpoiint.
+16 Nov 2021 - 21:46:17.844 [qtp1338841523-12] INFO 
+				c.r.controller.AccountController - AccountController.openNewAccount() invoked.
+16 Nov 2021 - 21:46:17.844 [qtp1338841523-12] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:46:17.844 [qtp1338841523-12] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:46:17.880 [qtp1338841523-12] INFO 
+				com.revature.service.ClientService - client is not null
+16 Nov 2021 - 21:46:17.880 [qtp1338841523-12] INFO 
+				com.revature.service.AccountService - AccountService.openNewAccount() invoked.
+16 Nov 2021 - 21:46:17.880 [qtp1338841523-12] INFO 
+				com.revature.service.AccountService - Account type is not valid.
+16 Nov 2021 - 21:46:24.737 [qtp1338841523-16] INFO 
+				com.revature.app.BankApiApplication - POST request recieved to the /clients/1/accounts endpoiint.
+16 Nov 2021 - 21:46:24.737 [qtp1338841523-16] INFO 
+				c.r.controller.AccountController - AccountController.openNewAccount() invoked.
+16 Nov 2021 - 21:46:24.738 [qtp1338841523-16] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:46:24.738 [qtp1338841523-16] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:46:24.773 [qtp1338841523-16] INFO 
+				com.revature.service.ClientService - client is not null
+16 Nov 2021 - 21:46:24.774 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - AccountService.openNewAccount() invoked.
+16 Nov 2021 - 21:46:24.774 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - Account type is not valid.
+16 Nov 2021 - 21:46:31.115 [qtp1338841523-18] INFO 
+				com.revature.app.BankApiApplication - POST request recieved to the /clients/1/accounts endpoiint.
+16 Nov 2021 - 21:46:31.116 [qtp1338841523-18] INFO 
+				c.r.controller.AccountController - AccountController.openNewAccount() invoked.
+16 Nov 2021 - 21:46:31.116 [qtp1338841523-18] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:46:31.116 [qtp1338841523-18] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:46:31.152 [qtp1338841523-18] INFO 
+				com.revature.service.ClientService - client is not null
+16 Nov 2021 - 21:46:31.152 [qtp1338841523-18] INFO 
+				com.revature.service.AccountService - AccountService.openNewAccount() invoked.
+16 Nov 2021 - 21:46:31.152 [qtp1338841523-18] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.openNewAccount() invoked.
+16 Nov 2021 - 21:46:39.537 [qtp1338841523-16] INFO 
+				com.revature.app.BankApiApplication - POST request recieved to the /clients/1/accounts endpoiint.
+16 Nov 2021 - 21:46:39.537 [qtp1338841523-16] INFO 
+				c.r.controller.AccountController - AccountController.openNewAccount() invoked.
+16 Nov 2021 - 21:46:39.537 [qtp1338841523-16] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:46:39.537 [qtp1338841523-16] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:46:39.574 [qtp1338841523-16] INFO 
+				com.revature.service.ClientService - client is not null
+16 Nov 2021 - 21:46:39.574 [qtp1338841523-16] INFO 
+				com.revature.service.AccountService - AccountService.openNewAccount() invoked.
+16 Nov 2021 - 21:46:39.574 [qtp1338841523-16] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.openNewAccount() invoked.
+16 Nov 2021 - 21:48:26.986 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+16 Nov 2021 - 21:48:26.988 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+16 Nov 2021 - 21:48:26.996 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+16 Nov 2021 - 21:48:26.996 [main] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+16 Nov 2021 - 21:48:26.996 [main] INFO 
+				com.revature.service.ClientService - birthdate is not 8 characters 
+16 Nov 2021 - 21:48:27.011 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+16 Nov 2021 - 21:48:27.011 [main] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+16 Nov 2021 - 21:48:27.017 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+16 Nov 2021 - 21:48:27.017 [main] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+16 Nov 2021 - 21:48:27.017 [main] INFO 
+				com.revature.service.ClientService - birthdate is not 8 characters 
+16 Nov 2021 - 21:48:27.019 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+16 Nov 2021 - 21:48:27.020 [main] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+16 Nov 2021 - 21:48:27.022 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+16 Nov 2021 - 21:48:27.022 [main] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+16 Nov 2021 - 21:48:27.023 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+16 Nov 2021 - 21:48:27.023 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+16 Nov 2021 - 21:48:27.024 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+16 Nov 2021 - 21:48:27.025 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+16 Nov 2021 - 21:48:46.280 [main] INFO 
+				com.revature.service.ClientService - ClientService.getAllClients() invoked.
+16 Nov 2021 - 21:48:46.294 [main] INFO 
+				com.revature.service.ClientService - ClientService.getAllClients() invoked.
+16 Nov 2021 - 21:48:46.295 [main] INFO 
+				com.revature.service.ClientService - ClientService.getAllClients() invoked.
+16 Nov 2021 - 21:49:04.787 [main] INFO 
+				com.revature.service.ClientService - getClientById() invoked
+16 Nov 2021 - 21:49:04.801 [main] INFO 
+				com.revature.service.ClientService - getClientById() invoked
+16 Nov 2021 - 21:49:11.113 [main] INFO 
+				com.revature.service.ClientService - updateClient() invoked
+16 Nov 2021 - 21:49:11.118 [main] INFO 
+				com.revature.service.ClientService - firstName and lastName update invoked.
+16 Nov 2021 - 21:49:11.118 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+16 Nov 2021 - 21:49:11.125 [main] INFO 
+				com.revature.service.ClientService - updateClient() invoked
+16 Nov 2021 - 21:49:11.125 [main] INFO 
+				com.revature.service.ClientService - firstName and lastName update invoked.
+16 Nov 2021 - 21:49:11.128 [main] INFO 
+				com.revature.service.ClientService - updateClient() invoked
+16 Nov 2021 - 21:49:11.128 [main] INFO 
+				com.revature.service.ClientService - firstName and lastName update invoked.
+16 Nov 2021 - 21:49:11.128 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+16 Nov 2021 - 21:49:11.130 [main] INFO 
+				com.revature.service.ClientService - updateClient() invoked
+16 Nov 2021 - 21:49:11.130 [main] INFO 
+				com.revature.service.ClientService - no firstName nor lastName boxes was checked.
+16 Nov 2021 - 21:49:11.132 [main] INFO 
+				com.revature.service.ClientService - updateClient() invoked
+16 Nov 2021 - 21:49:11.132 [main] INFO 
+				com.revature.service.ClientService - firstName and lastName update invoked.
+16 Nov 2021 - 21:49:11.132 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+16 Nov 2021 - 21:49:11.134 [main] INFO 
+				com.revature.service.ClientService - updateClient() invoked
+16 Nov 2021 - 21:49:11.134 [main] INFO 
+				com.revature.service.ClientService - firstName and lastName update invoked.
+16 Nov 2021 - 21:49:11.134 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+16 Nov 2021 - 21:49:11.135 [main] INFO 
+				com.revature.service.ClientService - updateClient() invoked
+16 Nov 2021 - 21:49:11.135 [main] INFO 
+				com.revature.service.ClientService - lastName update invoked.
+16 Nov 2021 - 21:49:11.136 [main] INFO 
+				com.revature.service.ClientService - updateClient() invoked
+16 Nov 2021 - 21:49:11.138 [main] INFO 
+				com.revature.service.ClientService - updateClient() invoked
+16 Nov 2021 - 21:49:11.138 [main] INFO 
+				com.revature.service.ClientService - firstName and lastName update invoked.
+16 Nov 2021 - 21:49:11.138 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+16 Nov 2021 - 21:49:19.576 [main] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:49:19.588 [main] INFO 
+				com.revature.service.ClientService - client is null
+16 Nov 2021 - 21:49:19.598 [main] INFO 
+				com.revature.service.ClientService - getClientById() invoked
+16 Nov 2021 - 21:49:19.605 [main] INFO 
+				com.revature.service.ClientService - getClientById() invoked
+16 Nov 2021 - 21:49:19.608 [main] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:49:19.609 [main] INFO 
+				com.revature.service.ClientService - Client ID provided is not an int convertable value.
+16 Nov 2021 - 21:49:19.610 [main] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:49:19.610 [main] INFO 
+				com.revature.service.ClientService - Client ID provided is not an int convertable value.
+16 Nov 2021 - 21:49:27.841 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAccountByAccountId() invoked.
+16 Nov 2021 - 21:49:27.843 [main] INFO 
+				com.revature.service.AccountService - clientId : 96
+16 Nov 2021 - 21:49:27.859 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAccountByAccountId() invoked.
+16 Nov 2021 - 21:49:27.859 [main] INFO 
+				com.revature.service.AccountService - clientId : 96
+16 Nov 2021 - 21:49:35.121 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:49:35.123 [main] INFO 
+				com.revature.service.AccountService - GT and LT are are checked.
+16 Nov 2021 - 21:49:35.123 [main] INFO 
+				com.revature.service.AccountService - GT and LT have amounts.
+16 Nov 2021 - 21:49:35.123 [main] INFO 
+				com.revature.service.AccountService - GT and LT amounts 4000 6500
+16 Nov 2021 - 21:49:35.137 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:49:35.137 [main] INFO 
+				com.revature.service.AccountService - GT checked.
+16 Nov 2021 - 21:49:35.137 [main] INFO 
+				com.revature.service.AccountService - GT have amount.
+16 Nov 2021 - 21:49:35.143 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:49:35.143 [main] INFO 
+				com.revature.service.AccountService - LT checked.
+16 Nov 2021 - 21:49:35.143 [main] INFO 
+				com.revature.service.AccountService - GT have amount.
+16 Nov 2021 - 21:49:35.146 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:49:35.146 [main] INFO 
+				com.revature.service.AccountService - GT and LT are not checked.
+16 Nov 2021 - 21:49:35.148 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:49:35.149 [main] INFO 
+				com.revature.service.AccountService - LT checked.
+16 Nov 2021 - 21:49:35.149 [main] INFO 
+				com.revature.service.AccountService - LT is blank.
+16 Nov 2021 - 21:49:35.150 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:49:35.150 [main] INFO 
+				com.revature.service.AccountService - GT checked.
+16 Nov 2021 - 21:49:35.150 [main] INFO 
+				com.revature.service.AccountService - GT is blank.
+16 Nov 2021 - 21:49:35.153 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:49:35.153 [main] INFO 
+				com.revature.service.AccountService - GT and LT are not checked.
+16 Nov 2021 - 21:49:35.154 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:49:35.155 [main] INFO 
+				com.revature.service.AccountService - GT and LT are are checked.
+16 Nov 2021 - 21:49:35.155 [main] INFO 
+				com.revature.service.AccountService - GT and LT are blanks.
+16 Nov 2021 - 21:49:48.493 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:49:48.495 [main] INFO 
+				com.revature.service.AccountService - LT checked.
+16 Nov 2021 - 21:49:48.495 [main] INFO 
+				com.revature.service.AccountService - GT have amount.
+16 Nov 2021 - 21:51:08.938 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:51:08.940 [main] INFO 
+				com.revature.service.AccountService - LT checked.
+16 Nov 2021 - 21:51:08.941 [main] INFO 
+				com.revature.service.AccountService - GT have amount.
+16 Nov 2021 - 21:51:47.512 [main] INFO 
+				com.revature.service.AccountService - AccountService.openNewAccount() invoked.
+16 Nov 2021 - 21:51:47.514 [main] INFO 
+				com.revature.service.AccountService - Amount is lessthan 0.0
+16 Nov 2021 - 21:51:47.521 [main] INFO 
+				com.revature.service.AccountService - AccountService.openNewAccount() invoked.
+16 Nov 2021 - 21:51:47.521 [main] INFO 
+				com.revature.service.AccountService - Amount is blank or less than 0.
+16 Nov 2021 - 21:51:47.523 [main] INFO 
+				com.revature.service.AccountService - AccountService.openNewAccount() invoked.
+16 Nov 2021 - 21:51:47.523 [main] INFO 
+				com.revature.service.AccountService - Account type is not valid.
+16 Nov 2021 - 21:51:47.524 [main] INFO 
+				com.revature.service.AccountService - AccountService.openNewAccount() invoked.
+16 Nov 2021 - 21:51:47.524 [main] INFO 
+				com.revature.service.AccountService - Account type and amount are blank.
+16 Nov 2021 - 21:51:47.526 [main] INFO 
+				com.revature.service.AccountService - AccountService.openNewAccount() invoked.
+16 Nov 2021 - 21:51:47.526 [main] INFO 
+				com.revature.service.AccountService - Amount is lessthan 0.0
+16 Nov 2021 - 21:51:47.541 [main] INFO 
+				com.revature.service.AccountService - AccountService.openNewAccount() invoked.
+16 Nov 2021 - 21:51:47.546 [main] INFO 
+				com.revature.service.AccountService - AccountService.openNewAccount() invoked.
+16 Nov 2021 - 21:51:47.546 [main] INFO 
+				com.revature.service.AccountService - Account type is blank.
+16 Nov 2021 - 21:51:47.549 [main] INFO 
+				com.revature.service.AccountService - AccountService.openNewAccount() invoked.
+16 Nov 2021 - 21:51:59.198 [main] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+16 Nov 2021 - 21:51:59.211 [main] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+16 Nov 2021 - 21:51:59.212 [main] INFO 
+				com.revature.service.AccountService - Deposit is checked but blank.
+16 Nov 2021 - 21:51:59.214 [main] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+16 Nov 2021 - 21:51:59.214 [main] INFO 
+				com.revature.service.AccountService - Deposit is checked
+16 Nov 2021 - 21:51:59.217 [main] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+16 Nov 2021 - 21:51:59.217 [main] INFO 
+				com.revature.service.AccountService - withdraw is checked
+16 Nov 2021 - 21:51:59.219 [main] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+16 Nov 2021 - 21:51:59.220 [main] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+16 Nov 2021 - 21:51:59.221 [main] INFO 
+				com.revature.service.AccountService - deposit and withdraw are checked
+16 Nov 2021 - 21:51:59.222 [main] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+16 Nov 2021 - 21:51:59.222 [main] INFO 
+				com.revature.service.AccountService - neither deposit nor withdaw was checked
+16 Nov 2021 - 21:51:59.224 [main] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+16 Nov 2021 - 21:51:59.224 [main] INFO 
+				com.revature.service.AccountService - Withdraw is checked but blank.
+16 Nov 2021 - 21:52:06.007 [main] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:52:06.009 [main] INFO 
+				com.revature.service.AccountService - Client Id 96 Account Id abc
+16 Nov 2021 - 21:52:06.031 [main] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:52:06.031 [main] INFO 
+				com.revature.service.AccountService - Client Id 96 Account Id 96
+16 Nov 2021 - 21:52:06.031 [main] INFO 
+				com.revature.service.AccountService - clId 96 alId 96
+16 Nov 2021 - 21:52:06.031 [main] INFO 
+				com.revature.service.AccountService - clientDao Mock for ClientDAO, hashCode: 565839681 alId {}
+16 Nov 2021 - 21:52:06.034 [main] INFO 
+				com.revature.service.AccountService - Client Client [clientId=96, firstName=Jane, lastName=Doe, birthdate=12345678]
+16 Nov 2021 - 21:52:06.034 [main] INFO 
+				com.revature.service.AccountService - client exist, but no account with the account ID.
+16 Nov 2021 - 21:52:06.036 [main] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:52:06.036 [main] INFO 
+				com.revature.service.AccountService - Client Id 96 Account Id 9.6
+16 Nov 2021 - 21:52:06.038 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAccountByAccountId() invoked.
+16 Nov 2021 - 21:52:06.038 [main] INFO 
+				com.revature.service.AccountService - clientId : 96
+16 Nov 2021 - 21:52:06.042 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAccountByAccountId() invoked.
+16 Nov 2021 - 21:52:06.042 [main] INFO 
+				com.revature.service.AccountService - clientId : 96
+16 Nov 2021 - 21:52:15.557 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAccountByAccountId() invoked.
+16 Nov 2021 - 21:52:15.559 [main] INFO 
+				com.revature.service.AccountService - clientId : 96
+16 Nov 2021 - 21:52:15.575 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAccountByAccountId() invoked.
+16 Nov 2021 - 21:52:15.575 [main] INFO 
+				com.revature.service.AccountService - clientId : 96
+16 Nov 2021 - 21:52:15.578 [main] INFO 
+				com.revature.service.AccountService - AccountService.openNewAccount() invoked.
+16 Nov 2021 - 21:52:15.578 [main] INFO 
+				com.revature.service.AccountService - Amount is lessthan 0.0
+16 Nov 2021 - 21:52:15.579 [main] INFO 
+				com.revature.service.AccountService - AccountService.openNewAccount() invoked.
+16 Nov 2021 - 21:52:15.579 [main] INFO 
+				com.revature.service.AccountService - Amount is blank or less than 0.
+16 Nov 2021 - 21:52:15.580 [main] INFO 
+				com.revature.service.AccountService - AccountService.openNewAccount() invoked.
+16 Nov 2021 - 21:52:15.581 [main] INFO 
+				com.revature.service.AccountService - Account type is not valid.
+16 Nov 2021 - 21:52:15.582 [main] INFO 
+				com.revature.service.AccountService - AccountService.openNewAccount() invoked.
+16 Nov 2021 - 21:52:15.582 [main] INFO 
+				com.revature.service.AccountService - Account type and amount are blank.
+16 Nov 2021 - 21:52:15.583 [main] INFO 
+				com.revature.service.AccountService - AccountService.openNewAccount() invoked.
+16 Nov 2021 - 21:52:15.583 [main] INFO 
+				com.revature.service.AccountService - Amount is lessthan 0.0
+16 Nov 2021 - 21:52:15.584 [main] INFO 
+				com.revature.service.AccountService - AccountService.openNewAccount() invoked.
+16 Nov 2021 - 21:52:15.585 [main] INFO 
+				com.revature.service.AccountService - AccountService.openNewAccount() invoked.
+16 Nov 2021 - 21:52:15.586 [main] INFO 
+				com.revature.service.AccountService - Account type is blank.
+16 Nov 2021 - 21:52:15.587 [main] INFO 
+				com.revature.service.AccountService - AccountService.openNewAccount() invoked.
+16 Nov 2021 - 21:52:15.589 [main] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+16 Nov 2021 - 21:52:15.590 [main] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+16 Nov 2021 - 21:52:15.591 [main] INFO 
+				com.revature.service.AccountService - Deposit is checked but blank.
+16 Nov 2021 - 21:52:15.592 [main] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+16 Nov 2021 - 21:52:15.592 [main] INFO 
+				com.revature.service.AccountService - Deposit is checked
+16 Nov 2021 - 21:52:15.593 [main] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+16 Nov 2021 - 21:52:15.594 [main] INFO 
+				com.revature.service.AccountService - withdraw is checked
+16 Nov 2021 - 21:52:15.595 [main] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+16 Nov 2021 - 21:52:15.597 [main] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+16 Nov 2021 - 21:52:15.597 [main] INFO 
+				com.revature.service.AccountService - deposit and withdraw are checked
+16 Nov 2021 - 21:52:15.598 [main] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+16 Nov 2021 - 21:52:15.598 [main] INFO 
+				com.revature.service.AccountService - neither deposit nor withdaw was checked
+16 Nov 2021 - 21:52:15.599 [main] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+16 Nov 2021 - 21:52:15.600 [main] INFO 
+				com.revature.service.AccountService - Withdraw is checked but blank.
+16 Nov 2021 - 21:52:15.602 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:52:15.602 [main] INFO 
+				com.revature.service.AccountService - GT and LT are are checked.
+16 Nov 2021 - 21:52:15.602 [main] INFO 
+				com.revature.service.AccountService - GT and LT have amounts.
+16 Nov 2021 - 21:52:15.602 [main] INFO 
+				com.revature.service.AccountService - GT and LT amounts 4000 6500
+16 Nov 2021 - 21:52:15.603 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:52:15.603 [main] INFO 
+				com.revature.service.AccountService - GT checked.
+16 Nov 2021 - 21:52:15.603 [main] INFO 
+				com.revature.service.AccountService - GT have amount.
+16 Nov 2021 - 21:52:15.608 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:52:15.609 [main] INFO 
+				com.revature.service.AccountService - LT checked.
+16 Nov 2021 - 21:52:15.609 [main] INFO 
+				com.revature.service.AccountService - GT have amount.
+16 Nov 2021 - 21:52:15.610 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:52:15.610 [main] INFO 
+				com.revature.service.AccountService - GT and LT are not checked.
+16 Nov 2021 - 21:52:15.612 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:52:15.612 [main] INFO 
+				com.revature.service.AccountService - LT checked.
+16 Nov 2021 - 21:52:15.612 [main] INFO 
+				com.revature.service.AccountService - LT is blank.
+16 Nov 2021 - 21:52:15.613 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:52:15.613 [main] INFO 
+				com.revature.service.AccountService - GT checked.
+16 Nov 2021 - 21:52:15.613 [main] INFO 
+				com.revature.service.AccountService - GT is blank.
+16 Nov 2021 - 21:52:15.614 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:52:15.614 [main] INFO 
+				com.revature.service.AccountService - GT and LT are not checked.
+16 Nov 2021 - 21:52:15.615 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:52:15.615 [main] INFO 
+				com.revature.service.AccountService - GT and LT are are checked.
+16 Nov 2021 - 21:52:15.618 [main] INFO 
+				com.revature.service.AccountService - GT and LT are blanks.
+16 Nov 2021 - 21:52:15.638 [main] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:52:15.638 [main] INFO 
+				com.revature.service.AccountService - Client Id 96 Account Id abc
+16 Nov 2021 - 21:52:15.639 [main] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:52:15.639 [main] INFO 
+				com.revature.service.AccountService - Client Id 96 Account Id 96
+16 Nov 2021 - 21:52:15.639 [main] INFO 
+				com.revature.service.AccountService - clId 96 alId 96
+16 Nov 2021 - 21:52:15.639 [main] INFO 
+				com.revature.service.AccountService - clientDao Mock for ClientDAO, hashCode: 2001321875 alId {}
+16 Nov 2021 - 21:52:15.640 [main] INFO 
+				com.revature.service.AccountService - Client Client [clientId=96, firstName=Jane, lastName=Doe, birthdate=12345678]
+16 Nov 2021 - 21:52:15.640 [main] INFO 
+				com.revature.service.AccountService - client exist, but no account with the account ID.
+16 Nov 2021 - 21:52:15.641 [main] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:52:15.641 [main] INFO 
+				com.revature.service.AccountService - Client Id 96 Account Id 9.6
+16 Nov 2021 - 21:52:15.642 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAccountByAccountId() invoked.
+16 Nov 2021 - 21:52:15.643 [main] INFO 
+				com.revature.service.AccountService - clientId : 96
+16 Nov 2021 - 21:52:15.644 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAccountByAccountId() invoked.
+16 Nov 2021 - 21:52:15.644 [main] INFO 
+				com.revature.service.AccountService - clientId : 96
+16 Nov 2021 - 21:52:15.651 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+16 Nov 2021 - 21:52:15.651 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+16 Nov 2021 - 21:52:15.652 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+16 Nov 2021 - 21:52:15.652 [main] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+16 Nov 2021 - 21:52:15.652 [main] INFO 
+				com.revature.service.ClientService - birthdate is not 8 characters 
+16 Nov 2021 - 21:52:15.653 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+16 Nov 2021 - 21:52:15.653 [main] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+16 Nov 2021 - 21:52:15.654 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+16 Nov 2021 - 21:52:15.654 [main] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+16 Nov 2021 - 21:52:15.654 [main] INFO 
+				com.revature.service.ClientService - birthdate is not 8 characters 
+16 Nov 2021 - 21:52:15.656 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+16 Nov 2021 - 21:52:15.656 [main] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+16 Nov 2021 - 21:52:15.657 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+16 Nov 2021 - 21:52:15.657 [main] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+16 Nov 2021 - 21:52:15.658 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+16 Nov 2021 - 21:52:15.658 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+16 Nov 2021 - 21:52:15.659 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+16 Nov 2021 - 21:52:15.659 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+16 Nov 2021 - 21:52:15.660 [main] INFO 
+				com.revature.service.ClientService - ClientService.getAllClients() invoked.
+16 Nov 2021 - 21:52:15.661 [main] INFO 
+				com.revature.service.ClientService - ClientService.getAllClients() invoked.
+16 Nov 2021 - 21:52:15.662 [main] INFO 
+				com.revature.service.ClientService - ClientService.getAllClients() invoked.
+16 Nov 2021 - 21:52:15.663 [main] INFO 
+				com.revature.service.ClientService - getClientById() invoked
+16 Nov 2021 - 21:52:15.665 [main] INFO 
+				com.revature.service.ClientService - getClientById() invoked
+16 Nov 2021 - 21:52:15.667 [main] INFO 
+				com.revature.service.ClientService - updateClient() invoked
+16 Nov 2021 - 21:52:15.667 [main] INFO 
+				com.revature.service.ClientService - firstName and lastName update invoked.
+16 Nov 2021 - 21:52:15.667 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+16 Nov 2021 - 21:52:15.668 [main] INFO 
+				com.revature.service.ClientService - updateClient() invoked
+16 Nov 2021 - 21:52:15.668 [main] INFO 
+				com.revature.service.ClientService - firstName and lastName update invoked.
+16 Nov 2021 - 21:52:15.669 [main] INFO 
+				com.revature.service.ClientService - updateClient() invoked
+16 Nov 2021 - 21:52:15.669 [main] INFO 
+				com.revature.service.ClientService - firstName and lastName update invoked.
+16 Nov 2021 - 21:52:15.669 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+16 Nov 2021 - 21:52:15.670 [main] INFO 
+				com.revature.service.ClientService - updateClient() invoked
+16 Nov 2021 - 21:52:15.670 [main] INFO 
+				com.revature.service.ClientService - no firstName nor lastName boxes was checked.
+16 Nov 2021 - 21:52:15.671 [main] INFO 
+				com.revature.service.ClientService - updateClient() invoked
+16 Nov 2021 - 21:52:15.671 [main] INFO 
+				com.revature.service.ClientService - firstName and lastName update invoked.
+16 Nov 2021 - 21:52:15.671 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+16 Nov 2021 - 21:52:15.672 [main] INFO 
+				com.revature.service.ClientService - updateClient() invoked
+16 Nov 2021 - 21:52:15.672 [main] INFO 
+				com.revature.service.ClientService - firstName and lastName update invoked.
+16 Nov 2021 - 21:52:15.672 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+16 Nov 2021 - 21:52:15.673 [main] INFO 
+				com.revature.service.ClientService - updateClient() invoked
+16 Nov 2021 - 21:52:15.673 [main] INFO 
+				com.revature.service.ClientService - lastName update invoked.
+16 Nov 2021 - 21:52:15.674 [main] INFO 
+				com.revature.service.ClientService - updateClient() invoked
+16 Nov 2021 - 21:52:15.675 [main] INFO 
+				com.revature.service.ClientService - updateClient() invoked
+16 Nov 2021 - 21:52:15.676 [main] INFO 
+				com.revature.service.ClientService - firstName and lastName update invoked.
+16 Nov 2021 - 21:52:15.676 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+16 Nov 2021 - 21:52:15.677 [main] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:52:15.677 [main] INFO 
+				com.revature.service.ClientService - client is null
+16 Nov 2021 - 21:52:15.678 [main] INFO 
+				com.revature.service.ClientService - getClientById() invoked
+16 Nov 2021 - 21:52:15.679 [main] INFO 
+				com.revature.service.ClientService - getClientById() invoked
+16 Nov 2021 - 21:52:15.680 [main] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:52:15.680 [main] INFO 
+				com.revature.service.ClientService - Client ID provided is not an int convertable value.
+16 Nov 2021 - 21:52:15.682 [main] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:52:15.682 [main] INFO 
+				com.revature.service.ClientService - Client ID provided is not an int convertable value.
+16 Nov 2021 - 21:52:37.252 [qtp1338841523-19] INFO 
+				com.revature.app.BankApiApplication - GET request recieved to the /clients/2/accounts/ endpoiint.
+16 Nov 2021 - 21:52:37.252 [qtp1338841523-19] INFO 
+				c.r.controller.AccountController - AccountController.getAllAccountsByClientId() incoked.
+16 Nov 2021 - 21:52:37.252 [qtp1338841523-19] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:52:37.252 [qtp1338841523-19] INFO 
+				com.revature.dao.ClientDAO - ClientDAO.getClientByClientId() invoked.
+16 Nov 2021 - 21:52:37.288 [qtp1338841523-19] INFO 
+				com.revature.service.ClientService - client is not null
+16 Nov 2021 - 21:52:37.288 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:52:37.288 [qtp1338841523-19] INFO 
+				com.revature.service.AccountService - GT and LT are not checked.
+16 Nov 2021 - 21:52:37.288 [qtp1338841523-19] INFO 
+				com.revature.dao.AccountDAO - AccountDAO.getAllAcocuntsByClientId() invoked.
+16 Nov 2021 - 21:53:36.720 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAccountByAccountId() invoked.
+16 Nov 2021 - 21:53:36.722 [main] INFO 
+				com.revature.service.AccountService - clientId : 96
+16 Nov 2021 - 21:53:36.738 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAccountByAccountId() invoked.
+16 Nov 2021 - 21:53:36.738 [main] INFO 
+				com.revature.service.AccountService - clientId : 96
+16 Nov 2021 - 21:53:36.742 [main] INFO 
+				com.revature.service.AccountService - AccountService.openNewAccount() invoked.
+16 Nov 2021 - 21:53:36.742 [main] INFO 
+				com.revature.service.AccountService - Amount is lessthan 0.0
+16 Nov 2021 - 21:53:36.743 [main] INFO 
+				com.revature.service.AccountService - AccountService.openNewAccount() invoked.
+16 Nov 2021 - 21:53:36.743 [main] INFO 
+				com.revature.service.AccountService - Amount is blank or less than 0.
+16 Nov 2021 - 21:53:36.745 [main] INFO 
+				com.revature.service.AccountService - AccountService.openNewAccount() invoked.
+16 Nov 2021 - 21:53:36.745 [main] INFO 
+				com.revature.service.AccountService - Account type is not valid.
+16 Nov 2021 - 21:53:36.746 [main] INFO 
+				com.revature.service.AccountService - AccountService.openNewAccount() invoked.
+16 Nov 2021 - 21:53:36.746 [main] INFO 
+				com.revature.service.AccountService - Account type and amount are blank.
+16 Nov 2021 - 21:53:36.747 [main] INFO 
+				com.revature.service.AccountService - AccountService.openNewAccount() invoked.
+16 Nov 2021 - 21:53:36.747 [main] INFO 
+				com.revature.service.AccountService - Amount is lessthan 0.0
+16 Nov 2021 - 21:53:36.748 [main] INFO 
+				com.revature.service.AccountService - AccountService.openNewAccount() invoked.
+16 Nov 2021 - 21:53:36.750 [main] INFO 
+				com.revature.service.AccountService - AccountService.openNewAccount() invoked.
+16 Nov 2021 - 21:53:36.750 [main] INFO 
+				com.revature.service.AccountService - Account type is blank.
+16 Nov 2021 - 21:53:36.751 [main] INFO 
+				com.revature.service.AccountService - AccountService.openNewAccount() invoked.
+16 Nov 2021 - 21:53:36.754 [main] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+16 Nov 2021 - 21:53:36.755 [main] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+16 Nov 2021 - 21:53:36.756 [main] INFO 
+				com.revature.service.AccountService - Deposit is checked but blank.
+16 Nov 2021 - 21:53:36.757 [main] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+16 Nov 2021 - 21:53:36.757 [main] INFO 
+				com.revature.service.AccountService - Deposit is checked
+16 Nov 2021 - 21:53:36.758 [main] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+16 Nov 2021 - 21:53:36.759 [main] INFO 
+				com.revature.service.AccountService - withdraw is checked
+16 Nov 2021 - 21:53:36.760 [main] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+16 Nov 2021 - 21:53:36.761 [main] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+16 Nov 2021 - 21:53:36.761 [main] INFO 
+				com.revature.service.AccountService - deposit and withdraw are checked
+16 Nov 2021 - 21:53:36.762 [main] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+16 Nov 2021 - 21:53:36.763 [main] INFO 
+				com.revature.service.AccountService - neither deposit nor withdaw was checked
+16 Nov 2021 - 21:53:36.764 [main] INFO 
+				com.revature.service.AccountService - AccountService.updateAmount() invoked().
+16 Nov 2021 - 21:53:36.764 [main] INFO 
+				com.revature.service.AccountService - Withdraw is checked but blank.
+16 Nov 2021 - 21:53:36.766 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:53:36.766 [main] INFO 
+				com.revature.service.AccountService - GT and LT are are checked.
+16 Nov 2021 - 21:53:36.766 [main] INFO 
+				com.revature.service.AccountService - GT and LT have amounts.
+16 Nov 2021 - 21:53:36.766 [main] INFO 
+				com.revature.service.AccountService - GT and LT amounts 4000 6500
+16 Nov 2021 - 21:53:36.767 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:53:36.767 [main] INFO 
+				com.revature.service.AccountService - GT checked.
+16 Nov 2021 - 21:53:36.768 [main] INFO 
+				com.revature.service.AccountService - GT have amount.
+16 Nov 2021 - 21:53:36.772 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:53:36.773 [main] INFO 
+				com.revature.service.AccountService - LT checked.
+16 Nov 2021 - 21:53:36.773 [main] INFO 
+				com.revature.service.AccountService - GT have amount.
+16 Nov 2021 - 21:53:36.774 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:53:36.775 [main] INFO 
+				com.revature.service.AccountService - GT and LT are not checked.
+16 Nov 2021 - 21:53:36.776 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:53:36.776 [main] INFO 
+				com.revature.service.AccountService - LT checked.
+16 Nov 2021 - 21:53:36.776 [main] INFO 
+				com.revature.service.AccountService - LT is blank.
+16 Nov 2021 - 21:53:36.777 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:53:36.777 [main] INFO 
+				com.revature.service.AccountService - GT checked.
+16 Nov 2021 - 21:53:36.777 [main] INFO 
+				com.revature.service.AccountService - GT is blank.
+16 Nov 2021 - 21:53:36.778 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:53:36.778 [main] INFO 
+				com.revature.service.AccountService - GT and LT are not checked.
+16 Nov 2021 - 21:53:36.780 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:53:36.780 [main] INFO 
+				com.revature.service.AccountService - GT and LT are are checked.
+16 Nov 2021 - 21:53:36.780 [main] INFO 
+				com.revature.service.AccountService - GT and LT are blanks.
+16 Nov 2021 - 21:53:36.798 [main] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:53:36.798 [main] INFO 
+				com.revature.service.AccountService - Client Id 96 Account Id abc
+16 Nov 2021 - 21:53:36.800 [main] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:53:36.800 [main] INFO 
+				com.revature.service.AccountService - Client Id 96 Account Id 96
+16 Nov 2021 - 21:53:36.800 [main] INFO 
+				com.revature.service.AccountService - clId 96 alId 96
+16 Nov 2021 - 21:53:36.800 [main] INFO 
+				com.revature.service.AccountService - clientDao Mock for ClientDAO, hashCode: 1408695561 alId {}
+16 Nov 2021 - 21:53:36.800 [main] INFO 
+				com.revature.service.AccountService - Client Client [clientId=96, firstName=Jane, lastName=Doe, birthdate=12345678]
+16 Nov 2021 - 21:53:36.800 [main] INFO 
+				com.revature.service.AccountService - client exist, but no account with the account ID.
+16 Nov 2021 - 21:53:36.801 [main] INFO 
+				com.revature.service.AccountService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:53:36.802 [main] INFO 
+				com.revature.service.AccountService - Client Id 96 Account Id 9.6
+16 Nov 2021 - 21:53:36.803 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAccountByAccountId() invoked.
+16 Nov 2021 - 21:53:36.803 [main] INFO 
+				com.revature.service.AccountService - clientId : 96
+16 Nov 2021 - 21:53:36.804 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAccountByAccountId() invoked.
+16 Nov 2021 - 21:53:36.804 [main] INFO 
+				com.revature.service.AccountService - clientId : 96
+16 Nov 2021 - 21:53:36.811 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+16 Nov 2021 - 21:53:36.811 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+16 Nov 2021 - 21:53:36.812 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+16 Nov 2021 - 21:53:36.812 [main] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+16 Nov 2021 - 21:53:36.812 [main] INFO 
+				com.revature.service.ClientService - birthdate is not 8 characters 
+16 Nov 2021 - 21:53:36.813 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+16 Nov 2021 - 21:53:36.813 [main] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+16 Nov 2021 - 21:53:36.814 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+16 Nov 2021 - 21:53:36.814 [main] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+16 Nov 2021 - 21:53:36.814 [main] INFO 
+				com.revature.service.ClientService - birthdate is not 8 characters 
+16 Nov 2021 - 21:53:36.815 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+16 Nov 2021 - 21:53:36.815 [main] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+16 Nov 2021 - 21:53:36.816 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+16 Nov 2021 - 21:53:36.817 [main] INFO 
+				com.revature.service.ClientService - parse birthdate to int.
+16 Nov 2021 - 21:53:36.818 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+16 Nov 2021 - 21:53:36.818 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+16 Nov 2021 - 21:53:36.819 [main] INFO 
+				com.revature.service.ClientService - addClient() invoked
+16 Nov 2021 - 21:53:36.819 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+16 Nov 2021 - 21:53:36.821 [main] INFO 
+				com.revature.service.ClientService - ClientService.getAllClients() invoked.
+16 Nov 2021 - 21:53:36.822 [main] INFO 
+				com.revature.service.ClientService - ClientService.getAllClients() invoked.
+16 Nov 2021 - 21:53:36.822 [main] INFO 
+				com.revature.service.ClientService - ClientService.getAllClients() invoked.
+16 Nov 2021 - 21:53:36.823 [main] INFO 
+				com.revature.service.ClientService - getClientById() invoked
+16 Nov 2021 - 21:53:36.824 [main] INFO 
+				com.revature.service.ClientService - getClientById() invoked
+16 Nov 2021 - 21:53:36.826 [main] INFO 
+				com.revature.service.ClientService - updateClient() invoked
+16 Nov 2021 - 21:53:36.826 [main] INFO 
+				com.revature.service.ClientService - firstName and lastName update invoked.
+16 Nov 2021 - 21:53:36.826 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+16 Nov 2021 - 21:53:36.827 [main] INFO 
+				com.revature.service.ClientService - updateClient() invoked
+16 Nov 2021 - 21:53:36.827 [main] INFO 
+				com.revature.service.ClientService - firstName and lastName update invoked.
+16 Nov 2021 - 21:53:36.829 [main] INFO 
+				com.revature.service.ClientService - updateClient() invoked
+16 Nov 2021 - 21:53:36.829 [main] INFO 
+				com.revature.service.ClientService - firstName and lastName update invoked.
+16 Nov 2021 - 21:53:36.829 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+16 Nov 2021 - 21:53:36.830 [main] INFO 
+				com.revature.service.ClientService - updateClient() invoked
+16 Nov 2021 - 21:53:36.830 [main] INFO 
+				com.revature.service.ClientService - no firstName nor lastName boxes was checked.
+16 Nov 2021 - 21:53:36.831 [main] INFO 
+				com.revature.service.ClientService - updateClient() invoked
+16 Nov 2021 - 21:53:36.831 [main] INFO 
+				com.revature.service.ClientService - firstName and lastName update invoked.
+16 Nov 2021 - 21:53:36.831 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+16 Nov 2021 - 21:53:36.832 [main] INFO 
+				com.revature.service.ClientService - updateClient() invoked
+16 Nov 2021 - 21:53:36.832 [main] INFO 
+				com.revature.service.ClientService - firstName and lastName update invoked.
+16 Nov 2021 - 21:53:36.832 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+16 Nov 2021 - 21:53:36.833 [main] INFO 
+				com.revature.service.ClientService - updateClient() invoked
+16 Nov 2021 - 21:53:36.833 [main] INFO 
+				com.revature.service.ClientService - lastName update invoked.
+16 Nov 2021 - 21:53:36.834 [main] INFO 
+				com.revature.service.ClientService - updateClient() invoked
+16 Nov 2021 - 21:53:36.835 [main] INFO 
+				com.revature.service.ClientService - updateClient() invoked
+16 Nov 2021 - 21:53:36.835 [main] INFO 
+				com.revature.service.ClientService - firstName and lastName update invoked.
+16 Nov 2021 - 21:53:36.835 [main] INFO 
+				com.revature.service.ClientService - firstName and/or lastName are blank
+16 Nov 2021 - 21:53:36.837 [main] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:53:36.837 [main] INFO 
+				com.revature.service.ClientService - client is null
+16 Nov 2021 - 21:53:36.838 [main] INFO 
+				com.revature.service.ClientService - getClientById() invoked
+16 Nov 2021 - 21:53:36.839 [main] INFO 
+				com.revature.service.ClientService - getClientById() invoked
+16 Nov 2021 - 21:53:36.841 [main] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:53:36.841 [main] INFO 
+				com.revature.service.ClientService - Client ID provided is not an int convertable value.
+16 Nov 2021 - 21:53:36.842 [main] INFO 
+				com.revature.service.ClientService - AccountService.verifyClientIdAccountId() invoked.
+16 Nov 2021 - 21:53:36.842 [main] INFO 
+				com.revature.service.ClientService - Client ID provided is not an int convertable value.
+16 Nov 2021 - 21:53:48.888 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:53:48.890 [main] INFO 
+				com.revature.service.AccountService - GT and LT are are checked.
+16 Nov 2021 - 21:53:48.890 [main] INFO 
+				com.revature.service.AccountService - GT and LT have amounts.
+16 Nov 2021 - 21:53:48.890 [main] INFO 
+				com.revature.service.AccountService - GT and LT amounts 4000 6500
+16 Nov 2021 - 21:53:48.904 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:53:48.904 [main] INFO 
+				com.revature.service.AccountService - GT checked.
+16 Nov 2021 - 21:53:48.904 [main] INFO 
+				com.revature.service.AccountService - GT have amount.
+16 Nov 2021 - 21:53:48.909 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:53:48.909 [main] INFO 
+				com.revature.service.AccountService - LT checked.
+16 Nov 2021 - 21:53:48.909 [main] INFO 
+				com.revature.service.AccountService - GT have amount.
+16 Nov 2021 - 21:53:48.912 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:53:48.912 [main] INFO 
+				com.revature.service.AccountService - GT and LT are not checked.
+16 Nov 2021 - 21:53:48.914 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:53:48.915 [main] INFO 
+				com.revature.service.AccountService - LT checked.
+16 Nov 2021 - 21:53:48.915 [main] INFO 
+				com.revature.service.AccountService - LT is blank.
+16 Nov 2021 - 21:53:48.916 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:53:48.916 [main] INFO 
+				com.revature.service.AccountService - GT checked.
+16 Nov 2021 - 21:53:48.917 [main] INFO 
+				com.revature.service.AccountService - GT is blank.
+16 Nov 2021 - 21:53:48.919 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:53:48.919 [main] INFO 
+				com.revature.service.AccountService - GT and LT are not checked.
+16 Nov 2021 - 21:53:48.921 [main] INFO 
+				com.revature.service.AccountService - AccountService.getAllAccountsByClientId() invoked.
+16 Nov 2021 - 21:53:48.921 [main] INFO 
+				com.revature.service.AccountService - GT and LT are are checked.
+16 Nov 2021 - 21:53:48.921 [main] INFO 
+				com.revature.service.AccountService - GT and LT are blanks.

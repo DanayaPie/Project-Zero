@@ -94,6 +94,8 @@ public class AccountService {
 
 				logger.info("GT and LT have amounts.");
 
+				logger.info("GT and LT amounts {} {}", greaterThan, lessThan);
+
 				double gtAmount = Double.parseDouble(greaterThan);
 				double ltAmount = Double.parseDouble(lessThan);
 
@@ -113,7 +115,7 @@ public class AccountService {
 				throw new InvalidParameterException("Greater than amounts cannot be blank.");
 
 				// 6.
-			} else {
+			} else if (greaterThan != null) {
 
 //				logger.info("getAmount() {}", account.getAmount());
 //				
@@ -130,8 +132,9 @@ public class AccountService {
 
 				logger.info("GT have amount.");
 
-				return accounts = this.accountDao.getAllAccountsByClientId(clId, gtAmount, Integer.MAX_VALUE);
+				logger.debug("clId {} gtAmount {}", clId, gtAmount);
 
+				return accounts = this.accountDao.getAllAccountsByClientId(clId, gtAmount, Integer.MAX_VALUE);
 			}
 		}
 
@@ -146,7 +149,7 @@ public class AccountService {
 
 				throw new InvalidParameterException("Less than amounts cannot be blank.");
 
-			// 9.
+				// 9.
 			} else {
 
 				double ltAmount = Double.parseDouble(lessThan);
@@ -251,8 +254,13 @@ public class AccountService {
 			logger.info("Amount is blank or less than 0.");
 			logger.debug("Current account {}", account);
 
-			throw new InvalidParameterException("Amount cannot be blank.");
+			throw new InvalidParameterException("Must put an amount.");
 
+		} else if (account.getAmount() != null && account.getAmount().equals("")) {
+
+			logger.info("Amount cannot be blank.");
+
+			throw new InvalidParameterException("Amount cannot be blank.");
 		}
 
 		// 5.
@@ -324,7 +332,7 @@ public class AccountService {
 
 				throw new InvalidParameterException("Deposit amount cannot be blank.");
 
-			// 4.
+				// 4.
 			} else {
 
 				logger.info("Deposit is checked");
@@ -390,12 +398,11 @@ public class AccountService {
 		this.accountDao.deleteAccountByAccountId(alId);
 	}
 
-	/*- ****************
-	 * -- VERIFY IDs --
-	 * ****************
+	/*-***********************
+	 * -- VERIFY ACCOUNT ID --
+	 * ***********************
 	 */
 
-	// verifyClientIdAccountId
 	public void verifyClientIdAccountId(String clientId, String accountId)
 			throws SQLException, ClientNotFoundException, AccountNotFoundException, InvalidParameterException {
 

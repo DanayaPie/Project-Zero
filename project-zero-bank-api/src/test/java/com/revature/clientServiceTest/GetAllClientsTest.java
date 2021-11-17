@@ -30,8 +30,8 @@ public class GetAllClientsTest {
 		/*
 		 *  ARRANGE
 		 */	
-		Client client1 = new Client(1, "Jane", "Doe", "01011956");
-		Client client2 = new Client(215, "John", "Doe", "05251868");
+		Client client1 = new Client(1, "Jane", "Doe", "12345678");
+		Client client2 = new Client(215, "John", "Doe", "01234567");
 		
 		List<Client> clientsFromDao = new ArrayList<>();
 		clientsFromDao.add(client1);
@@ -48,8 +48,8 @@ public class GetAllClientsTest {
 		 *  ASSERT
 		 */
 		List<Client> expected = mockClientService.getAllClients();
-		expected.add(new Client(1, "Jane", "Doe", "01011956"));
-		expected.add(new Client(215, "John", "Doe", "05251868"));
+		expected.add(new Client(1, "Jane", "Doe", "12345678"));
+		expected.add(new Client(215, "John", "Doe", "01234567"));
 		
 		Assertions.assertEquals(expected, actual);
 				
